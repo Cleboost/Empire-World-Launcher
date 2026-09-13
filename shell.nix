@@ -32,9 +32,11 @@ let
 in
 
 pkgs.mkShell {
-  buildInputs = [ pkgs.bun ] ++ electronLibs;
+  buildInputs = [ pkgs.bun pkgs.jdk21 ] ++ electronLibs;
 
   shellHook = ''
     export LD_LIBRARY_PATH="${pkgs.lib.makeLibraryPath electronLibs}"
+    export JAVA_HOME="${pkgs.jdk21}"
+    export PATH="$JAVA_HOME/bin:$PATH"
   '';
 }
