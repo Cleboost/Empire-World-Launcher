@@ -267,7 +267,7 @@ function createMenu() {
         let applicationSubMenu = {
             label: 'Application',
             submenu: [{
-                label: 'About Application',
+                label: 'About Empire World',
                 selector: 'orderFrontStandardAboutPanel:'
             }, {
                 type: 'separator'
