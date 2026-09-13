@@ -50,12 +50,19 @@ const loggerLanding = LoggerUtil.getLogger('Landing')
  * @param {boolean} loading True if the loading area should be shown, otherwise false.
  */
 function toggleLaunchArea(loading){
+    const launchPlayArea = document.getElementById('launch_play_area')
     if(loading){
         launch_details.style.display = 'flex'
         launch_content.style.display = 'none'
+        if(launchPlayArea){
+            launchPlayArea.style.display = 'none'
+        }
     } else {
         launch_details.style.display = 'none'
         launch_content.style.display = 'inline-flex'
+        if(launchPlayArea){
+            launchPlayArea.style.display = 'flex'
+        }
     }
 }
 
