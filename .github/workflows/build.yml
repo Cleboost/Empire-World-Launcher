@@ -1,6 +1,9 @@
 name: Build
 
-on: push
+on:
+  push:
+    branches: [master, main]
+    tags: ['v*']
 
 jobs:
   release:
@@ -34,5 +37,10 @@ jobs:
       - name: Build
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bun run dist -- --publish never
+        run: |
+          if [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+            bun run dist -- --publish always
+          else
+            bun run dist -- --publish never
+          fi
         shell: bash
