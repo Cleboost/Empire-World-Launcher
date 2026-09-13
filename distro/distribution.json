@@ -13,7 +13,7 @@
       "description": "Serveur survival moddé Empire World — Saison 4",
       "icon": "https://cleboost.github.io/Empire-World-Launcher/icon.png",
       "version": "1.0.0",
-      "address": "100.64.239.178:25565",
+      "address": "empire-world.camply.dev:25565",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
       "autoconnect": true,
