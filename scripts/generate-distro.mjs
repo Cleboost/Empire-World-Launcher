@@ -31,7 +31,7 @@ const SERVER = {
   name: 'Empire World Saison 4',
   description: 'Serveur survival moddé Empire World — Saison 4',
   version: '1.0.0',
-  address: process.env.SERVER_ADDRESS ?? 'empire-world.camply.dev:25565',
+  address: process.env.SERVER_ADDRESS ?? 'empire-world.camply.dev',
   minecraftVersion: '1.21.1',
   neoforgeVersion: '21.1.250'
 }
