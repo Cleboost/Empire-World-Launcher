@@ -1,0 +1,40 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:wood",
+    "#immersive_ballistic:wood",
+    "#tacztweaks:woods/wooden_door",
+    "#immersive_ballistic:woods/wooden_door"
+  ],
+  "block_break": {
+    "type": "dynamic_damage",
+    "multiplier": 0.25,
+    "drop": false,
+    "render_bullet_hole": true
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_multiplier": 0.9
+  },
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:762x39",
+      "tacz:556x45",
+      "tacz:58x42",
+      "tacz:46x30",
+      "tacz:57x28",
+      "tacz:357mag",
+      "tacz:50ae",
+      "tacz:500mag",
+      "tacz:22wmr",
+      "tacz:308",
+      "hamster:medium_ammo",
+      "suffuse:12.7x55",
+      "suffuse:6x35mm",
+      "suffuse:boomstickshot",
+      "suffuse:545x39"
+    ]
+  }
+}

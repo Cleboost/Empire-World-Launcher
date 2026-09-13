@@ -1,0 +1,12 @@
+{
+  "type": "whizz",
+  "sounds": [
+    {
+      "threshold": 8,
+      "sound": {
+        "sound": "tacztweaks:bullets.flyby.pistol",
+        "volume": 0.8
+      }
+    }
+  ]
+}

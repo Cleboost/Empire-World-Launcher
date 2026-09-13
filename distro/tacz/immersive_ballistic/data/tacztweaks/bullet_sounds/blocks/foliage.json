@@ -1,0 +1,27 @@
+{
+    "type": "block",
+    "blocks": [
+        "#tacztweaks:foliage",
+        "#immersive_ballistic:foliage",
+        "#tacztweaks:hay",
+        "#immersive_ballistic:hay"
+    ],
+    "hit": [
+        {
+            "sound": "tacztweaks:blocks.foliage.impact",
+            "volume": 0.8
+        }
+    ],
+    "pierce": [
+        {
+            "sound": "tacztweaks:blocks.foliage.impact",
+            "volume": 0.8
+        }
+    ],
+    "break": [
+        {
+            "sound": "tacztweaks:blocks.foliage.impact",
+            "volume": 0.8
+        }
+    ]
+}

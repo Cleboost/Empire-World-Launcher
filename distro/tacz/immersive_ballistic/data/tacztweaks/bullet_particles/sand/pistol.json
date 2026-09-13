@@ -1,0 +1,21 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:sand",
+    "#immersive_ballistic:sand"
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:sand_dust_cloud{block_state:{Name:\"%s\"},size:0.5,duration:30}",
+      "count": 1,
+      "speed": 0.8,
+      "force": true
+    }
+  ]
+}

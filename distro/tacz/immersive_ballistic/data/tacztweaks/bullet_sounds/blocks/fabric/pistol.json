@@ -1,0 +1,18 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:fabric",
+    "#immersive_ballistic:fabric"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.fabric.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 3
+    }
+  ]
+}

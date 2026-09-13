@@ -1,0 +1,38 @@
+{
+  "type": "whizz",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:762x39",
+      "tacz:556x45",
+      "tacz:58x42",
+      "tacz:46x30",
+      "tacz:57x28",
+      "tacz:357mag",
+      "tacz:50ae",
+      "tacz:500mag",
+      "tacz:22wmr",
+      "tacz:308",
+      "hamster:medium_ammo",
+      "suffuse:12.7x55",
+      "suffuse:6x35mm",
+      "suffuse:boomstickshot",
+      "suffuse:545x39"
+    ]
+  },
+  "sounds": [
+    {
+      "threshold": 16,
+      "sound": [
+        {
+          "sound": "tacztweaks:bullets.flyby.rifle",
+          "volume": 0.8
+        },
+        {
+          "sound": "tacztweaks:bullets.crack.rifle",
+          "volume": 0.8
+        }
+      ]
+    }
+  ]
+}

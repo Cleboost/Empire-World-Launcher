@@ -1,0 +1,13 @@
+{
+    "type": "block",
+   
+    "blocks": [
+        "minecraft:water"
+    ],
+    "hit": [
+        {
+            "sound": "tacztweaks:blocks.wood.hit",
+            "volume": 0.8
+        }
+    ]
+}

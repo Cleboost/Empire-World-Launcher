@@ -1,0 +1,74 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal",
+    "#immersive_ballistic:metal"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:1,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 55,
+      "speed": 6,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:explosion_smoke",
+      "count": 1,
+      "speed": 1,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:1,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:explosion_smoke",
+      "count": 1,
+      "speed": 3,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 40,
+      "speed": 6,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 50,
+      "speed": 6,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:explosion_smoke",
+      "count": 1,
+      "speed": 1,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:1,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    }
+  ]
+}

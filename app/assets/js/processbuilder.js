@@ -40,6 +40,16 @@ class ProcessBuilder {
         this.usingFabricLoader = false
         this.llPath = null
     }
+
+    _getUserType(){
+        if(this.authUser.type === 'microsoft') {
+            return 'msa'
+        }
+        if(this.authUser.type === 'offline') {
+            return 'legacy'
+        }
+        return 'mojang'
+    }
     
     /**
      * Convienence method to run the functions typically used to build a process.
@@ -510,7 +520,7 @@ class ProcessBuilder {
                             val = this.authUser.accessToken
                             break
                         case 'user_type':
-                            val = this.authUser.type === 'microsoft' ? 'msa' : 'mojang'
+                            val = this._getUserType()
                             break
                         case 'version_type':
                             val = this.vanillaManifest.type
@@ -594,7 +604,7 @@ class ProcessBuilder {
                         val = this.authUser.accessToken
                         break
                     case 'user_type':
-                        val = this.authUser.type === 'microsoft' ? 'msa' : 'mojang'
+                        val = this._getUserType()
                         break
                     case 'user_properties': // 1.8.9 and below.
                         val = '{}'

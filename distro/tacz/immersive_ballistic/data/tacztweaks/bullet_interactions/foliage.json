@@ -1,0 +1,14 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:foliage",
+    "#immersive_ballistic:foliage",
+    "#tacztweaks:hay",
+    "#immersive_ballistic:hay"
+  ],
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_falloff": 0.8
+  }
+}

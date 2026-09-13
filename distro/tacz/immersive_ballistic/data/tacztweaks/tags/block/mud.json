@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:mud",
+		"minecraft:muddy_mangrove_roots",
+		"minecraft:clay",
+		"minecraft:honeycomb_block",
+		"minecraft:honey_block",
+		"minecraft:slime_block",
+		"minecraft:sculk",
+		"minecraft:sculk_catalyst",
+		"minecraft:sculk_shrieker",
+		"minecraft:calibrated_sculk_sensor",
+		"minecraft:pearlescent_froglight",
+		"minecraft:ochre_froglight",
+		"minecraft:verdant_froglight",
+		"minecraft:shroomlight"
+	]
+}

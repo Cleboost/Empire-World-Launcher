@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "supplementaries:sugar_cube",
+    "supplementaries:gunpowder",
+    "supplementaries:ash",
+    "createbigcannons:casting_sand",
+    "createbigcannons:cannon_cast",
+    "createbigcannons:finished_cannon_cast",
+    "furnitury:sand_castle_red",
+    "furnitury:sand_castle_blue",
+    "furnitury:sand_castle_yellow",
+    "furnitury:sand_castle_green",
+    "trmt:eroded_sand"
+  ]
+}

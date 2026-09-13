@@ -1,0 +1,15 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:40mm"
+    ]
+  },
+  "hit": [
+    {
+      "sound": "tacztweaks:silence",
+      "volume": 0.1
+    }
+  ]
+}

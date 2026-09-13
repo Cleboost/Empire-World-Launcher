@@ -1,0 +1,39 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:grass",
+    "#immersive_ballistic:grass"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.grass.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 3
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.grass.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 5
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.grass.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.grass.debris",
+      "volume": 0.8
+    }
+  ]
+}

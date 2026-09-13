@@ -1,0 +1,88 @@
+{
+  "type": "block",
+  "target": {
+    "type": "all_of",
+    "terms": [
+      {
+        "type": "ammo",
+        "values": [
+          "tacz:762x39",
+          "tacz:556x45",
+          "tacz:58x42",
+          "tacz:46x30",
+          "tacz:57x28",
+          "tacz:357mag",
+          "tacz:50ae",
+          "tacz:500mag",
+          "tacz:22wmr",
+          "tacz:308",
+          "hamster:medium_ammo",
+          "suffuse:12.7x55",
+          "suffuse:6x35mm",
+          "suffuse:boomstickshot",
+          "suffuse:545x39"
+        ]
+      },
+      {
+        "type": "inverted",
+        "term": {
+          "type": "category",
+          "values": [
+            "mg"
+          ]
+        }
+      }
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:gravel",
+    "#immersive_ballistic:gravel"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.gravel.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.rifle",
+      "volume": 0.45,
+      "range": 5
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.rifle",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.gravel.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.rifle",
+      "volume": 0.45,
+      "range": 5
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.rifle",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.gravel.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.sand.break",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.rifle",
+      "volume": 0.7,
+      "range": 124
+    }
+  ]
+}

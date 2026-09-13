@@ -1,0 +1,16 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:fragile",
+    "#immersive_ballistic:fragile"
+  ],
+  "block_break": {
+    "type": "instant",
+    "multiplier": 1
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_falloff": 1.2
+  }
+}

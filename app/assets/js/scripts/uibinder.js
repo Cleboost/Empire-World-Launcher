@@ -342,14 +342,14 @@ async function validateSelectedAccount(){
             setOverlayHandler(() => {
 
                 const isMicrosoft = selectedAcc.type === 'microsoft'
+                const isOffline = selectedAcc.type === 'offline'
 
-                if(isMicrosoft) {
-                    // Empty for now
-                } else {
-                    // Mojang
-                    // For convenience, pre-populate the username of the account.
+                if(isOffline) {
+                    document.getElementById('loginUsername').value = selectedAcc.displayName
+                    validateUsername(selectedAcc.displayName)
+                } else if(!isMicrosoft) {
                     document.getElementById('loginUsername').value = selectedAcc.username
-                    validateEmail(selectedAcc.username)
+                    validateUsername(selectedAcc.username)
                 }
                 
                 loginOptionsViewOnLoginSuccess = getCurrentView()
@@ -368,8 +368,8 @@ async function validateSelectedAccount(){
                                 selectedAcc.microsoft.refresh_token,
                                 selectedAcc.microsoft.expires_at
                             )
-                        } else {
-                            ConfigManager.addMojangAuthAccount(selectedAcc.uuid, selectedAcc.accessToken, selectedAcc.username, selectedAcc.displayName)
+                        } else if(isOffline) {
+                            ConfigManager.addOfflineAuthAccount(selectedAcc.uuid, selectedAcc.displayName)
                         }
                         ConfigManager.save()
                         validateSelectedAccount()

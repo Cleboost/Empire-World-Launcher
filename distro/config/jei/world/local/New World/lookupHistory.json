@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":"{\"minecraft:custom_data\":{GunCurrentAmmoCount:20,GunFireMode:\"BURST\",GunId:\"tacz:b93r\",HasBulletInBarrel:1b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bf_blockpack:yellow_grass_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bf_blockpack:bushy_mangrove_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

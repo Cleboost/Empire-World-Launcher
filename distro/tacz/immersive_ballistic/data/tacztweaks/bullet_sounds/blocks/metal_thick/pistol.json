@@ -1,0 +1,39 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:metal_thick",
+    "#immersive_ballistic:metal_thick"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.metal_thick.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 5
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.metal_thick.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 5
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.metal_thick.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.metal.break",
+      "volume": 0.8
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "revision": 8,
+  "products": [
+    {
+      "id": "gfcj",
+      "categoryId": "eee",
+      "name": "dgjcn",
+      "itemId": "tacz:modern_kinetic_gun",
+      "itemData": "{components:{\"minecraft:custom_data\":{GunCurrentAmmoCount:20,GunFireMode:\"BURST\",GunId:\"tacz:b93r\",HasBulletInBarrel:1b},\"minecraft:damage\":18},count:1,id:\"tacz:modern_kinetic_gun\"}",
+      "itemCount": 1,
+      "currencyId": "avecoins:diamondticket",
+      "price": 50,
+      "stock": -1,
+      "enabled": true,
+      "sellEnabled": true,
+      "sellingPrice": 2,
+      "sortOrder": 10
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "block",
+    "target": {
+        "type": "category",
+        "values": [
+            "mg"
+        ]
+    },
+    "blocks": [
+        "#tacztweaks:wood",
+        "#immersive_ballistic:wood"
+    ],
+    "hit": [
+        {
+            "sound": "tacztweaks:blocks.wood.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ],
+    "pierce": [
+        {
+            "sound": "tacztweaks:blocks.wood.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:blocks.wood.debris",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ],
+    "break": [
+        {
+            "sound": "tacztweaks:blocks.wood.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:blocks.wood.debris",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:blocks.wood.break",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:dirt",
+    "#immersive_ballistic:dirt",
+    "#tacztweaks:grass",
+    "#immersive_ballistic:grass"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:0.5,duration:25}",
+      "count": 1,
+      "speed": 0.7,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

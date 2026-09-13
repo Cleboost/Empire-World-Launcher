@@ -327,6 +327,18 @@ exports.updateMojangAuthAccount = function(uuid, accessToken){
     return config.authenticationDatabase[uuid]
 }
 
+exports.addOfflineAuthAccount = function(uuid, displayName){
+    config.selectedAccount = uuid
+    config.authenticationDatabase[uuid] = {
+        type: 'offline',
+        accessToken: 'offline',
+        username: displayName.trim(),
+        uuid: uuid.trim(),
+        displayName: displayName.trim()
+    }
+    return config.authenticationDatabase[uuid]
+}
+
 /**
  * Adds an authenticated mojang account to the database to be stored.
  * 

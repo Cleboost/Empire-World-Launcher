@@ -9,6 +9,7 @@
  * @module authmanager
  */
 // Requirements
+const crypto                 = require('crypto')
 const ConfigManager          = require('./configmanager')
 const { LoggerUtil }         = require('helios-core')
 const { RestResponseStatus } = require('helios-core/common')
@@ -129,6 +130,66 @@ function mojangErrorDisplayable(errorCode) {
 }
 
 // Functions
+
+function getOfflineUUID(username) {
+    const md5Bytes = crypto.createHash('md5').update(`OfflinePlayer:${username}`).digest()
+    md5Bytes[6] &= 0x0f
+    md5Bytes[6] |= 0x30
+    md5Bytes[8] &= 0x3f
+    md5Bytes[8] |= 0x80
+    const hex = md5Bytes.toString('hex')
+    return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`
+}
+
+function offlineErrorDisplayable(errorCode) {
+    switch(errorCode) {
+        case 'INVALID_USERNAME':
+            return {
+                title: Lang.queryJS('offlineLogin.error.invalidUsernameTitle'),
+                desc: Lang.queryJS('offlineLogin.error.invalidUsernameDesc')
+            }
+        default:
+            return {
+                title: Lang.queryJS('offlineLogin.error.unknownTitle'),
+                desc: Lang.queryJS('offlineLogin.error.unknownDesc')
+            }
+    }
+}
+
+/**
+ * Add an offline account using only a username.
+ *
+ * @param {string} username The in-game username.
+ * @returns {Promise.<Object>} Promise which resolves the authenticated account object.
+ */
+exports.addOfflineAccount = async function(username) {
+    const displayName = username.trim()
+    if(!/^[a-zA-Z0-9_]{3,16}$/.test(displayName)) {
+        return Promise.reject(offlineErrorDisplayable('INVALID_USERNAME'))
+    }
+
+    const uuid = getOfflineUUID(displayName)
+    const ret = ConfigManager.addOfflineAuthAccount(uuid, displayName)
+    ConfigManager.save()
+    return ret
+}
+
+/**
+ * Remove an offline account from the database.
+ *
+ * @param {string} uuid The UUID of the account to be removed.
+ * @returns {Promise.<void>} Promise which resolves to void when the action is complete.
+ */
+exports.removeOfflineAccount = async function(uuid){
+    try {
+        ConfigManager.removeAuthAccount(uuid)
+        ConfigManager.save()
+        return Promise.resolve()
+    } catch (err){
+        log.error('Error while removing offline account', err)
+        return Promise.reject(err)
+    }
+}
 
 /**
  * Add a Mojang account. This will authenticate the given credentials with Mojang's
@@ -418,6 +479,8 @@ exports.validateSelected = async function(){
 
     if(current.type === 'microsoft') {
         return await validateSelectedMicrosoftAccount()
+    } else if(current.type === 'offline') {
+        return true
     } else {
         return await validateSelectedMojangAccount()
     }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "revision": 8,
+  "categories": [
+    {
+      "id": "eee",
+      "name": "as",
+      "description": "dsf",
+      "iconItem": "tacz:modern_kinetic_gun",
+      "sortOrder": 10
+    }
+  ]
+}

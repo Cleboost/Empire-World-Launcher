@@ -1,0 +1,41 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:792x57",
+      "tacz:762x54",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:log",
+    "#immersive_ballistic:log"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:1.5,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:wood_log{block_state:{Name:\"%s\"},size:0.6}",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

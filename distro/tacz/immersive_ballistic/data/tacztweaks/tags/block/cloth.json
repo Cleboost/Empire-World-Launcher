@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:target",
+        "minecraft:chest",
+        "minecraft:sponge",
+        "minecraft:snow_block",
+        "minecraft:tnt",
+        "minecraft:moss_block",
+        "minecraft:dried_kelp_block",
+        "minecraft:barrel",
+        "minecraft:beehive",
+        "minecraft:trapped_chest",
+        "minecraft:wet_sponge",
+        "minecraft:sponge",
+        "minecraft:warped_wart_block",
+        "minecraft:nether_wart_block",
+        "minecraft:mushroom_stem",
+        "minecraft:brown_mushroom_block",
+        "minecraft:red_mushroom_block"
+    ]
+}

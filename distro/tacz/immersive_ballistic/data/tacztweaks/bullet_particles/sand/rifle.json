@@ -1,0 +1,55 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:762x39",
+      "tacz:556x45",
+      "tacz:58x42",
+      "tacz:46x30",
+      "tacz:57x28",
+      "tacz:357mag",
+      "tacz:50ae",
+      "tacz:500mag",
+      "tacz:22wmr",
+      "tacz:308",
+      "hamster:medium_ammo",
+      "suffuse:12.7x55",
+      "suffuse:6x35mm",
+      "suffuse:boomstickshot",
+      "suffuse:545x39"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:sand",
+    "#immersive_ballistic:sand"
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:sand_dust_cloud{block_state:{Name:\"%s\"},size:0.8,duration:35}",
+      "count": 1,
+      "speed": 1,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:sand_dust_cloud{block_state:{Name:\"%s\"},size:0.8,duration:35}",
+      "count": 1,
+      "speed": 1,
+      "force": true
+    }
+  ]
+}

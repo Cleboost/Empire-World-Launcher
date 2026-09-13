@@ -1,0 +1,29 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:snow",
+    "#immersive_ballistic:snow"
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_snow{size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:0.5,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "duration": 5,
+      "force": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "_readme": [
+    "Block Pack configuration.",
+    "",
+    "firstJoinGift.guideBook - give a Guide Book to each player the first time they join a world.",
+    "firstJoinGift.workbench - give a Block Pack Workbench to each player on that same first join.",
+    "",
+    "Set either to false to disable it for this whole instance -- intended for modpacks and servers",
+    "that hand out their own starting items. The Settings page in the guide book has a per-world",
+    "toggle for the same gift, but it can only turn OFF what is enabled here, never turn ON what is",
+    "disabled here; with both items off the in-game toggle is shown as locked.",
+    "",
+    "Both the Guide Book and the Workbench stay craftable no matter what these are set to."
+  ],
+  "firstJoinGift": {
+    "guideBook": true,
+    "workbench": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "type": "block",
+    "target": {
+        "type": "category",
+        "values": [
+            "mg"
+        ]
+    },
+    "blocks": [
+        "#tacztweaks:log",
+        "#immersive_ballistic:log"
+    ],
+    "hit": [
+        {
+            "sound": "tacztweaks:blocks.wood_log.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ],
+    "pierce": [
+        {
+            "sound": "tacztweaks:blocks.wood_log.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal",
+    "#immersive_ballistic:metal"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:0.6,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:0.6,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

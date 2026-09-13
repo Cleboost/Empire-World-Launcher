@@ -1,0 +1,25 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:hay",
+    "#immersive_ballistic:hay"
+  ],
+  "hit": {
+    "particle": "immersive_ballistic:wood_log{block_state:{Name:\"%s\"},size:0.25}",
+    "count": 20,
+    "speed": 3,
+    "force": true
+  },
+  "pierce": {
+    "particle": "immersive_ballistic:wood_log{block_state:{Name:\"%s\"},size:0.25}",
+    "count": 20,
+    "speed": 3,
+    "force": true
+  },
+  "break": {
+    "particle": "immersive_ballistic:wood_log{block_state:{Name:\"%s\"},size:0.25}",
+    "count": 20,
+    "speed": 3,
+    "force": true
+  }
+}

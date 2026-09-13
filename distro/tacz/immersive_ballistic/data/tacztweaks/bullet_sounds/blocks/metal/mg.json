@@ -1,0 +1,47 @@
+{
+    "type": "block",
+    "target": {
+        "type": "category",
+        "values": [
+            "mg"
+        ]
+    },
+    "blocks": [
+        "#tacztweaks:metals/metal",
+        "#immersive_ballistic:metals/metal",
+        "#tacztweaks:metal",
+        "#immersive_ballistic:metal"
+    ],
+    "hit": [
+        {
+            "sound": "tacztweaks:blocks.metal.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ],
+    "pierce": [
+        {
+            "sound": "tacztweaks:blocks.metal.hit",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.mg",
+            "volume": 0.45,
+            "range": 5
+        },
+        {
+            "sound": "tacztweaks:bullets.crack.rifle",
+            "volume": 0.7,
+            "range": 124
+        }
+    ]
+}

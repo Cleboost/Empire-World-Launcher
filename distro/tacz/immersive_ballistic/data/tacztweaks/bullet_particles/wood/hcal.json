@@ -1,0 +1,64 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:wood",
+    "#immersive_ballistic:wood"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:2,duration:35}",
+      "count": 1,
+      "speed": 1.2,
+      "duration": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:wood_planks{block_state:{Name:\"%s\"},size:0.9}",
+      "count": 20,
+      "speed": 4,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:2.4,duration:45}",
+      "count": 1,
+      "speed": 1.2,
+      "duration": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:wood_log{block_state:{Name:\"%s\"},size:0.9}",
+      "count": 40,
+      "speed": 4,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:wood_planks{block_state:{Name:\"%s\"},size:1.2}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:4,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "duration": 5,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

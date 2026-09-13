@@ -1,0 +1,24 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:12g"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:woods/wood",
+    "#immersive_ballistic:wood"
+  ],
+  "block_break": {
+    "type": "dynamic_damage",
+    "multiplier": 0.45,
+    "render_bullet_hole": true,
+    "drop": false
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_falloff": 0.2
+  }
+}

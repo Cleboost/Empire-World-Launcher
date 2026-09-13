@@ -1,0 +1,15 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:40mm"
+    ]
+  },
+  "hit": {
+    "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+    "count": 1,
+    "speed": 5,
+    "force": true
+  }
+}

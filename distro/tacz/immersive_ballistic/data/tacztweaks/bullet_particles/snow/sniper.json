@@ -1,0 +1,80 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:792x57",
+      "tacz:762x54",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:snow",
+    "#immersive_ballistic:snow"
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_snow{size:1.5,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:1.4,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "duration": 5,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_snow{size:1.5,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:1.4,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "duration": 5,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:dust_snow{size:1.2,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:1.4,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "duration": 5,
+      "force": true
+    }
+  ]
+}

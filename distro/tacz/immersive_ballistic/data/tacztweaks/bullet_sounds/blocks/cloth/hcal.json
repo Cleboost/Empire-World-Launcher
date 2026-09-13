@@ -1,0 +1,60 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:cloth",
+    "#immersive_ballistic:cloth"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 0.4,
+      "range": 8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 84
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 0.4,
+      "range": 8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 84
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 84
+    }
+  ]
+}

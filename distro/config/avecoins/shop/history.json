@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "revision": 8,
+  "history": [
+    {
+      "transactionId": "3d3408bb-5ac4-4251-ac4b-0e8212375373",
+      "timestamp": 1789008619937,
+      "playerUuid": "c2c9f7f9-44d2-4f6b-8fab-c583ad33765b",
+      "playerName": "sfrilo_yt",
+      "success": true,
+      "reason": "completed",
+      "type": "PURCHASE",
+      "paymentDestination": "INVENTORY",
+      "lines": [
+        {
+          "productId": "gfcj",
+          "productName": "dgjcn",
+          "itemId": "tacz:modern_kinetic_gun",
+          "quantity": 5,
+          "itemCount": 1,
+          "currencyId": "avecoins:diamondticket",
+          "unitPrice": 50,
+          "lineTotal": 250
+        }
+      ],
+      "totals": {
+        "avecoins:diamondticket": 250
+      }
+    },
+    {
+      "transactionId": "dfea5047-4aab-436d-a10d-1f094a9cd065",
+      "timestamp": 1789008624316,
+      "playerUuid": "c2c9f7f9-44d2-4f6b-8fab-c583ad33765b",
+      "playerName": "sfrilo_yt",
+      "success": true,
+      "reason": "completed",
+      "type": "PURCHASE",
+      "paymentDestination": "INVENTORY",
+      "lines": [
+        {
+          "productId": "gfcj",
+          "productName": "dgjcn",
+          "itemId": "tacz:modern_kinetic_gun",
+          "quantity": 1,
+          "itemCount": 1,
+          "currencyId": "avecoins:diamondticket",
+          "unitPrice": 50,
+          "lineTotal": 50
+        }
+      ],
+      "totals": {
+        "avecoins:diamondticket": 50
+      }
+    },
+    {
+      "transactionId": "dd7d6281-c793-4f15-8654-dc6e48b3c2c5",
+      "timestamp": 1789008659249,
+      "playerUuid": "c2c9f7f9-44d2-4f6b-8fab-c583ad33765b",
+      "playerName": "sfrilo_yt",
+      "success": false,
+      "reason": "insufficient_funds",
+      "type": "PURCHASE",
+      "paymentDestination": "INVENTORY",
+      "lines": [
+        {
+          "productId": "gfcj",
+          "productName": "dgjcn",
+          "itemId": "tacz:modern_kinetic_gun",
+          "quantity": 16,
+          "itemCount": 1,
+          "currencyId": "avecoins:diamondticket",
+          "unitPrice": 50,
+          "lineTotal": 800
+        }
+      ],
+      "totals": {
+        "avecoins:diamondticket": 800
+      }
+    },
+    {
+      "transactionId": "b2b873e0-f083-46d4-b3cd-892ac148cb16",
+      "timestamp": 1789008720256,
+      "playerUuid": "c2c9f7f9-44d2-4f6b-8fab-c583ad33765b",
+      "playerName": "sfrilo_yt",
+      "success": false,
+      "reason": "insufficient_funds",
+      "type": "PURCHASE",
+      "paymentDestination": "INVENTORY",
+      "lines": [
+        {
+          "productId": "gfcj",
+          "productName": "dgjcn",
+          "itemId": "tacz:modern_kinetic_gun",
+          "quantity": 16,
+          "itemCount": 1,
+          "currencyId": "avecoins:diamondticket",
+          "unitPrice": 50,
+          "lineTotal": 800
+        }
+      ],
+      "totals": {
+        "avecoins:diamondticket": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+			[attributes.minecraft.generic.knockback_resistance]
+				#Base value for player attribute minecraft:generic.knockback_resistance. Default captured from the current player attribute: 0.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.0
+
+			[attributes.minecraft.generic.max_health]
+				#Base value for player attribute minecraft:generic.max_health. Default captured from the current player attribute: 20.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 20.0
+
+			[attributes.minecraft.generic.oxygen_bonus]
+				#Base value for player attribute minecraft:generic.oxygen_bonus. Default captured from the current player attribute: 0.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.0
+
+			[attributes.minecraft.generic.armor]
+				#Base value for player attribute minecraft:generic.armor. Default captured from the current player attribute: 0.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.0
+
+			[attributes.minecraft.generic.luck]
+				#Base value for player attribute minecraft:generic.luck. Default captured from the current player attribute: 0.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.0
+
+			[attributes.minecraft.generic.step_height]
+				#Base value for player attribute minecraft:generic.step_height. Default captured from the current player attribute: 0.6. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.6
+
+			[attributes.minecraft.generic.attack_speed]
+				#Base value for player attribute minecraft:generic.attack_speed. Default captured from the current player attribute: 4.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 4.0
+
+			[attributes.minecraft.generic.armor_toughness]
+				#Base value for player attribute minecraft:generic.armor_toughness. Default captured from the current player attribute: 0.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.0
+
+			[attributes.minecraft.generic.movement_speed]
+				#Base value for player attribute minecraft:generic.movement_speed. Default captured from the current player attribute: 0.10000000149011612. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.10000000149011612
+
+			[attributes.minecraft.player.block_interaction_range]
+				#Base value for player attribute minecraft:player.block_interaction_range. Default captured from the current player attribute: 4.5. Applies on login, respawn, dimension change, and /reload.
+				base_value = 4.5
+
+			[attributes.minecraft.player.entity_interaction_range]
+				#Base value for player attribute minecraft:player.entity_interaction_range. Default captured from the current player attribute: 3.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 3.0
+
+		[attributes.apothic_attributes.draw_speed]
+			#Base value for player attribute apothic_attributes:draw_speed. Default captured from the current player attribute: 1.0. Applies on login, respawn, dimension change, and /reload.
+			base_value = 1.0
+
+			[attributes.tacztweaks.stats.damage]
+				#Base value for player attribute tacztweaks:stats.damage. Default captured from the current player attribute: 0.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 0.0
+
+			[attributes.tacztweaks.handling.shoot_while_sprinting]
+				#Base value for player attribute tacztweaks:handling.shoot_while_sprinting. Default captured from the current player attribute: 1.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 1.0
+
+			[attributes.tacztweaks.handling.sprint_while_reloading]
+				#Base value for player attribute tacztweaks:handling.sprint_while_reloading. Default captured from the current player attribute: 1.0. Applies on login, respawn, dimension change, and /reload.
+				base_value = 1.0
+
+		[attributes.neoforge.swim_speed]
+			#Base value for player attribute neoforge:swim_speed. Default captured from the current player attribute: 1.0. Applies on login, respawn, dimension change, and /reload.
+			base_value = 1.0

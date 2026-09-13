@@ -1,0 +1,32 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:792x57",
+      "tacz:762x54",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal"
+  ],
+  "block_break": {
+    "type": "dynamic_damage",
+    "multiplier": 0.3,
+    "drop": false
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_multiplier": 0.14,
+    "conditional": false,
+    "damage_falloff": 1.0
+  }
+}

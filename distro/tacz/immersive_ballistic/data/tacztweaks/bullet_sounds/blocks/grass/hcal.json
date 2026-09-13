@@ -1,0 +1,60 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:grass",
+    "#immersive_ballistic:grass"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.grass.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 0.45,
+      "range": 5
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.grass.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 0.45,
+      "range": 5
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.grass.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.grass.debris",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 124
+    }
+  ]
+}

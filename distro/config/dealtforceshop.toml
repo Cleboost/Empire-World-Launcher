@@ -1,0 +1,2931 @@
+			[haff_shop.tacz.attachments.tacz_bayonet_6h3]
+				#Shop value for haff_shop.tacz.attachments.tacz_bayonet_6h3.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_bayonet_6h3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_td]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_td.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_td.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_oem_stock_tactical]
+				#Shop value for haff_shop.tacz.attachments.tacz_oem_stock_tactical.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_oem_stock_tactical.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_vertical_military]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_vertical_military.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_vertical_military.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_vertical_ranger]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_vertical_ranger.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_vertical_ranger.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_coyote]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_coyote.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_coyote.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_fastfire_rifle]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_fastfire_rifle.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_fastfire_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_compensator_trident]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_compensator_trident.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_compensator_trident.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_lpvo_1_6]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_lpvo_1_6.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_lpvo_1_6.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_ammo_mod_hp]
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_hp.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_hp.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_deagle_golden_long_barrel]
+				#Shop value for haff_shop.tacz.attachments.tacz_deagle_golden_long_barrel.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_deagle_golden_long_barrel.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_mk5hd]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_mk5hd.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_mk5hd.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_oem_stock_heavy]
+				#Shop value for haff_shop.tacz.attachments.tacz_oem_stock_heavy.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_oem_stock_heavy.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_mirage]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_mirage.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_mirage.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_ammo_mod_he]
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_he.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_he.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_militech_b5]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_militech_b5.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_militech_b5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_brake_timeless50]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_timeless50.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_timeless50.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_sg]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_sg.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_sg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_retro_2x]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_retro_2x.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_retro_2x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_standard_8x]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_standard_8x.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_standard_8x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_brake_cthulhu]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_cthulhu.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_cthulhu.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_knight_qd]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_knight_qd.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_knight_qd.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_aug_default]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_aug_default.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_aug_default.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_phantom_s1]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_phantom_s1.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_phantom_s1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_magpul_afg_2]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_magpul_afg_2.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_magpul_afg_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_light_extended_mag_2]
+				#Shop value for haff_shop.tacz.attachments.tacz_light_extended_mag_2.price. Prices are Haff coins. Default: 4505. Applies after /reload.
+				price = 4505
+				#Shop value for haff_shop.tacz.attachments.tacz_light_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_light_extended_mag_3]
+				#Shop value for haff_shop.tacz.attachments.tacz_light_extended_mag_3.price. Prices are Haff coins. Default: 4505. Applies after /reload.
+				price = 4505
+				#Shop value for haff_shop.tacz.attachments.tacz_light_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_srs_02]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_srs_02.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_srs_02.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_light_extended_mag_1]
+				#Shop value for haff_shop.tacz.attachments.tacz_light_extended_mag_1.price. Prices are Haff coins. Default: 4505. Applies after /reload.
+				price = 4505
+				#Shop value for haff_shop.tacz.attachments.tacz_light_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_choke_sg]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_choke_sg.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_choke_sg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sniper_extended_mag_3]
+				#Shop value for haff_shop.tacz.attachments.tacz_sniper_extended_mag_3.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_sniper_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sniper_extended_mag_1]
+				#Shop value for haff_shop.tacz.attachments.tacz_sniper_extended_mag_1.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_sniper_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_brake_cyclone_d2]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_cyclone_d2.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_cyclone_d2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sniper_extended_mag_2]
+				#Shop value for haff_shop.tacz.attachments.tacz_sniper_extended_mag_2.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_sniper_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_pk06_pistol]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_pk06_pistol.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_pk06_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_hk_slim_line]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_hk_slim_line.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_hk_slim_line.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_vudu]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_vudu.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_vudu.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_fastfire_pistol]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_fastfire_pistol.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_fastfire_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_uh1]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_uh1.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_uh1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_sro_dot]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_sro_dot.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_sro_dot.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_m4ss]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_m4ss.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_m4ss.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_tactical_ar]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_tactical_ar.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_tactical_ar.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_tactical_spas_12]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_tactical_spas_12.price. Prices are Haff coins. Default: 4512. Applies after /reload.
+				price = 4512
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_tactical_spas_12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_osovets_black]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_osovets_black.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_osovets_black.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_deltapoint_rifle]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_deltapoint_rifle.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_deltapoint_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_contender]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_contender.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_contender.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_deltapoint_pistol]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_deltapoint_pistol.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_deltapoint_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_98k]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_98k.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_98k.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_brake_mastiff_sg]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_mastiff_sg.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_mastiff_sg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_rmr_dot]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_rmr_dot.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_rmr_dot.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_laser_peq15]
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_peq15.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_peq15.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_laser_peq6]
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_peq6.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_peq6.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_ammo_mod_i]
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_i.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_i.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_t2]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_t2.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_t2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_t1]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_t1.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_t1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_se_5]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_se_5.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_se_5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_ak12]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_ak12.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_ak12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_extended_mag_1]
+				#Shop value for haff_shop.tacz.attachments.tacz_extended_mag_1.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_heavy_spas_12]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_heavy_spas_12.price. Prices are Haff coins. Default: 4511. Applies after /reload.
+				price = 4511
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_heavy_spas_12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_extended_mag_2]
+				#Shop value for haff_shop.tacz.attachments.tacz_extended_mag_2.price. Prices are Haff coins. Default: 4502. Applies after /reload.
+				price = 4502
+				#Shop value for haff_shop.tacz.attachments.tacz_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_acro_pistol]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_acro_pistol.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_acro_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_extended_mag_3]
+				#Shop value for haff_shop.tacz.attachments.tacz_extended_mag_3.price. Prices are Haff coins. Default: 4503. Applies after /reload.
+				price = 4503
+				#Shop value for haff_shop.tacz.attachments.tacz_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_exp3]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_exp3.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_exp3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_ripstock]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_ripstock.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_ripstock.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_ammo_mod_fmj]
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_fmj.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_fmj.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_acog_ta31]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_acog_ta31.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_acog_ta31.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_brake_pioneer]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_pioneer.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_pioneer.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_carbon_bone_c5]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_carbon_bone_c5.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_carbon_bone_c5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_laser_lopro]
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_lopro.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_lopro.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_wraith]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_wraith.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_wraith.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_okp7]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_okp7.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_okp7.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_cqr]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_cqr.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_cqr.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_552]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_552.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_552.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_rk6]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_rk6.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_rk6.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_rk1_b25u]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_rk1_b25u.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_rk1_b25u.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_rk0]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_rk0.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_rk0.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_ursus]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_ursus.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_ursus.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_elcan_4x]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_elcan_4x.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_elcan_4x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_moe]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_moe.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_moe.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_vertical_talon]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_vertical_talon.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_vertical_talon.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_ammo_mod_slug]
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_slug.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_ammo_mod_slug.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_1873_6x]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_1873_6x.price. Prices are Haff coins. Default: 5500. Applies after /reload.
+				price = 5500
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_1873_6x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_ptilopsis]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_ptilopsis.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_ptilopsis.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_oem_stock_light]
+				#Shop value for haff_shop.tacz.attachments.tacz_oem_stock_light.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_oem_stock_light.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_p90]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_p90.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_p90.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_hamr]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_hamr.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_hamr.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_scope_qmk152]
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_qmk152.price. Prices are Haff coins. Default: 4600. Applies after /reload.
+				price = 4600
+				#Shop value for haff_shop.tacz.attachments.tacz_scope_qmk152.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_stock_sba3]
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_sba3.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_stock_sba3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_pk06_rifle]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_pk06_rifle.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_pk06_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_sight_acro_rifle]
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_acro_rifle.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_sight_acro_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_brake_trex]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_trex.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_brake_trex.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_laser_nightstick]
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_nightstick.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_nightstick.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_laser_compact]
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_compact.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_laser_compact.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_bayonet_m9]
+				#Shop value for haff_shop.tacz.attachments.tacz_bayonet_m9.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_bayonet_m9.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_grip_cobra]
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_cobra.price. Prices are Haff coins. Default: 4501. Applies after /reload.
+				price = 4501
+				#Shop value for haff_shop.tacz.attachments.tacz_grip_cobra.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_shotgun_extended_mag_1]
+				#Shop value for haff_shop.tacz.attachments.tacz_shotgun_extended_mag_1.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_shotgun_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_muzzle_silencer_vulture]
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_vulture.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+				price = 4500
+				#Shop value for haff_shop.tacz.attachments.tacz_muzzle_silencer_vulture.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_shotgun_extended_mag_3]
+				#Shop value for haff_shop.tacz.attachments.tacz_shotgun_extended_mag_3.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_shotgun_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.attachments.tacz_shotgun_extended_mag_2]
+				#Shop value for haff_shop.tacz.attachments.tacz_shotgun_extended_mag_2.price. Prices are Haff coins. Default: 4510. Applies after /reload.
+				price = 4510
+				#Shop value for haff_shop.tacz.attachments.tacz_shotgun_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_57x28]
+				#Shop value for haff_shop.tacz.ammo.tacz_57x28.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_57x28.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_792x57]
+				#Shop value for haff_shop.tacz.ammo.tacz_792x57.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_792x57.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_45acp]
+				#Shop value for haff_shop.tacz.ammo.tacz_45acp.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_45acp.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_50bmg]
+				#Shop value for haff_shop.tacz.ammo.tacz_50bmg.price. Prices are Haff coins. Default: 902. Applies after /reload.
+				price = 902
+				#Shop value for haff_shop.tacz.ammo.tacz_50bmg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_762x54]
+				#Shop value for haff_shop.tacz.ammo.tacz_762x54.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_762x54.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_45_70]
+				#Shop value for haff_shop.tacz.ammo.tacz_45_70.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_45_70.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_40mm]
+				#Shop value for haff_shop.tacz.ammo.tacz_40mm.price. Prices are Haff coins. Default: 902. Applies after /reload.
+				price = 902
+				#Shop value for haff_shop.tacz.ammo.tacz_40mm.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_9mm]
+				#Shop value for haff_shop.tacz.ammo.tacz_9mm.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_9mm.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_30_06]
+				#Shop value for haff_shop.tacz.ammo.tacz_30_06.price. Prices are Haff coins. Default: 902. Applies after /reload.
+				price = 902
+				#Shop value for haff_shop.tacz.ammo.tacz_30_06.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_338]
+				#Shop value for haff_shop.tacz.ammo.tacz_338.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_338.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_68x51fury]
+				#Shop value for haff_shop.tacz.ammo.tacz_68x51fury.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_68x51fury.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_rpg_rocket]
+				#Shop value for haff_shop.tacz.ammo.tacz_rpg_rocket.price. Prices are Haff coins. Default: 902. Applies after /reload.
+				price = 902
+				#Shop value for haff_shop.tacz.ammo.tacz_rpg_rocket.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_46x30]
+				#Shop value for haff_shop.tacz.ammo.tacz_46x30.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_46x30.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_357mag]
+				#Shop value for haff_shop.tacz.ammo.tacz_357mag.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_357mag.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_500mag]
+				#Shop value for haff_shop.tacz.ammo.tacz_500mag.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_500mag.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_545x39]
+				#Shop value for haff_shop.tacz.ammo.tacz_545x39.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_545x39.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_762x39]
+				#Shop value for haff_shop.tacz.ammo.tacz_762x39.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_762x39.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_762x25]
+				#Shop value for haff_shop.tacz.ammo.tacz_762x25.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_762x25.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_22wmr]
+				#Shop value for haff_shop.tacz.ammo.tacz_22wmr.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_22wmr.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_308]
+				#Shop value for haff_shop.tacz.ammo.tacz_308.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_308.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_50ae]
+				#Shop value for haff_shop.tacz.ammo.tacz_50ae.price. Prices are Haff coins. Default: 901. Applies after /reload.
+				price = 901
+				#Shop value for haff_shop.tacz.ammo.tacz_50ae.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_58x42]
+				#Shop value for haff_shop.tacz.ammo.tacz_58x42.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_58x42.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_12g]
+				#Shop value for haff_shop.tacz.ammo.tacz_12g.price. Prices are Haff coins. Default: 902. Applies after /reload.
+				price = 902
+				#Shop value for haff_shop.tacz.ammo.tacz_12g.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.ammo.tacz_556x45]
+				#Shop value for haff_shop.tacz.ammo.tacz_556x45.price. Prices are Haff coins. Default: 900. Applies after /reload.
+				price = 900
+				#Shop value for haff_shop.tacz.ammo.tacz_556x45.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_aug]
+				#Shop value for haff_shop.tacz.guns.tacz_aug.price. Prices are Haff coins. Default: 12020. Applies after /reload.
+				price = 12020
+				#Shop value for haff_shop.tacz.guns.tacz_aug.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_hk_g3]
+				#Shop value for haff_shop.tacz.guns.tacz_hk_g3.price. Prices are Haff coins. Default: 12006. Applies after /reload.
+				price = 12006
+				#Shop value for haff_shop.tacz.guns.tacz_hk_g3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_p320]
+				#Shop value for haff_shop.tacz.guns.tacz_p320.price. Prices are Haff coins. Default: 12010. Applies after /reload.
+				price = 12010
+				#Shop value for haff_shop.tacz.guns.tacz_p320.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_mk14]
+				#Shop value for haff_shop.tacz.guns.tacz_mk14.price. Prices are Haff coins. Default: 12022. Applies after /reload.
+				price = 12022
+				#Shop value for haff_shop.tacz.guns.tacz_mk14.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_lonetrail]
+				#Shop value for haff_shop.tacz.guns.tacz_lonetrail.price. Prices are Haff coins. Default: 12022. Applies after /reload.
+				price = 12022
+				#Shop value for haff_shop.tacz.guns.tacz_lonetrail.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_db_short]
+				#Shop value for haff_shop.tacz.guns.tacz_db_short.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+				price = 12000
+				#Shop value for haff_shop.tacz.guns.tacz_db_short.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_aa12]
+				#Shop value for haff_shop.tacz.guns.tacz_aa12.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_aa12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_kar98]
+				#Shop value for haff_shop.tacz.guns.tacz_kar98.price. Prices are Haff coins. Default: 22012. Applies after /reload.
+				price = 22012
+				#Shop value for haff_shop.tacz.guns.tacz_kar98.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_qbz_95]
+				#Shop value for haff_shop.tacz.guns.tacz_qbz_95.price. Prices are Haff coins. Default: 12026. Applies after /reload.
+				price = 12026
+				#Shop value for haff_shop.tacz.guns.tacz_qbz_95.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_vector45]
+				#Shop value for haff_shop.tacz.guns.tacz_vector45.price. Prices are Haff coins. Default: 12006. Applies after /reload.
+				price = 12006
+				#Shop value for haff_shop.tacz.guns.tacz_vector45.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_deagle]
+				#Shop value for haff_shop.tacz.guns.tacz_deagle.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_deagle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_spr15hb]
+				#Shop value for haff_shop.tacz.guns.tacz_spr15hb.price. Prices are Haff coins. Default: 12030. Applies after /reload.
+				price = 12030
+				#Shop value for haff_shop.tacz.guns.tacz_spr15hb.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_ak47]
+				#Shop value for haff_shop.tacz.guns.tacz_ak47.price. Prices are Haff coins. Default: 12002. Applies after /reload.
+				price = 12002
+				#Shop value for haff_shop.tacz.guns.tacz_ak47.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m249]
+				#Shop value for haff_shop.tacz.guns.tacz_m249.price. Prices are Haff coins. Default: 22002. Applies after /reload.
+				price = 22002
+				#Shop value for haff_shop.tacz.guns.tacz_m249.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_rhino357]
+				#Shop value for haff_shop.tacz.guns.tacz_rhino357.price. Prices are Haff coins. Default: 12020. Applies after /reload.
+				price = 12020
+				#Shop value for haff_shop.tacz.guns.tacz_rhino357.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_scar_l]
+				#Shop value for haff_shop.tacz.guns.tacz_scar_l.price. Prices are Haff coins. Default: 12012. Applies after /reload.
+				price = 12012
+				#Shop value for haff_shop.tacz.guns.tacz_scar_l.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m1014]
+				#Shop value for haff_shop.tacz.guns.tacz_m1014.price. Prices are Haff coins. Default: 12006. Applies after /reload.
+				price = 12006
+				#Shop value for haff_shop.tacz.guns.tacz_m1014.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_cz75]
+				#Shop value for haff_shop.tacz.guns.tacz_cz75.price. Prices are Haff coins. Default: 12006. Applies after /reload.
+				price = 12006
+				#Shop value for haff_shop.tacz.guns.tacz_cz75.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m320]
+				#Shop value for haff_shop.tacz.guns.tacz_m320.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+				price = 12000
+				#Shop value for haff_shop.tacz.guns.tacz_m320.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_spas_12]
+				#Shop value for haff_shop.tacz.guns.tacz_spas_12.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_spas_12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_g36k]
+				#Shop value for haff_shop.tacz.guns.tacz_g36k.price. Prices are Haff coins. Default: 12028. Applies after /reload.
+				price = 12028
+				#Shop value for haff_shop.tacz.guns.tacz_g36k.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m4a1]
+				#Shop value for haff_shop.tacz.guns.tacz_m4a1.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_m4a1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_scar_h]
+				#Shop value for haff_shop.tacz.guns.tacz_scar_h.price. Prices are Haff coins. Default: 12010. Applies after /reload.
+				price = 12010
+				#Shop value for haff_shop.tacz.guns.tacz_scar_h.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m95]
+				#Shop value for haff_shop.tacz.guns.tacz_m95.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_m95.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_hk416d]
+				#Shop value for haff_shop.tacz.guns.tacz_hk416d.price. Prices are Haff coins. Default: 12018. Applies after /reload.
+				price = 12018
+				#Shop value for haff_shop.tacz.guns.tacz_hk416d.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_sks_tactical]
+				#Shop value for haff_shop.tacz.guns.tacz_sks_tactical.price. Prices are Haff coins. Default: 12008. Applies after /reload.
+				price = 12008
+				#Shop value for haff_shop.tacz.guns.tacz_sks_tactical.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_timeless50]
+				#Shop value for haff_shop.tacz.guns.tacz_timeless50.price. Prices are Haff coins. Default: 12016. Applies after /reload.
+				price = 12016
+				#Shop value for haff_shop.tacz.guns.tacz_timeless50.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_ump45]
+				#Shop value for haff_shop.tacz.guns.tacz_ump45.price. Prices are Haff coins. Default: 12008. Applies after /reload.
+				price = 12008
+				#Shop value for haff_shop.tacz.guns.tacz_ump45.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_qbz_191]
+				#Shop value for haff_shop.tacz.guns.tacz_qbz_191.price. Prices are Haff coins. Default: 12032. Applies after /reload.
+				price = 12032
+				#Shop value for haff_shop.tacz.guns.tacz_qbz_191.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_deagle_golden]
+				#Shop value for haff_shop.tacz.guns.tacz_deagle_golden.price. Prices are Haff coins. Default: 12008. Applies after /reload.
+				price = 12008
+				#Shop value for haff_shop.tacz.guns.tacz_deagle_golden.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_minigun]
+				#Shop value for haff_shop.tacz.guns.tacz_minigun.price. Prices are Haff coins. Default: 12006. Applies after /reload.
+				price = 12006
+				#Shop value for haff_shop.tacz.guns.tacz_minigun.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_b93r]
+				#Shop value for haff_shop.tacz.guns.tacz_b93r.price. Prices are Haff coins. Default: 12014. Applies after /reload.
+				price = 12014
+				#Shop value for haff_shop.tacz.guns.tacz_b93r.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m870]
+				#Shop value for haff_shop.tacz.guns.tacz_m870.price. Prices are Haff coins. Default: 12002. Applies after /reload.
+				price = 12002
+				#Shop value for haff_shop.tacz.guns.tacz_m870.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_hk_mk23]
+				#Shop value for haff_shop.tacz.guns.tacz_hk_mk23.price. Prices are Haff coins. Default: 12024. Applies after /reload.
+				price = 12024
+				#Shop value for haff_shop.tacz.guns.tacz_hk_mk23.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_rpk]
+				#Shop value for haff_shop.tacz.guns.tacz_rpk.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_rpk.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_uzi]
+				#Shop value for haff_shop.tacz.guns.tacz_uzi.price. Prices are Haff coins. Default: 12004. Applies after /reload.
+				price = 12004
+				#Shop value for haff_shop.tacz.guns.tacz_uzi.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m16a1]
+				#Shop value for haff_shop.tacz.guns.tacz_m16a1.price. Prices are Haff coins. Default: 12014. Applies after /reload.
+				price = 12014
+				#Shop value for haff_shop.tacz.guns.tacz_m16a1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_db_long]
+				#Shop value for haff_shop.tacz.guns.tacz_db_long.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+				price = 12000
+				#Shop value for haff_shop.tacz.guns.tacz_db_long.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_rpg7]
+				#Shop value for haff_shop.tacz.guns.tacz_rpg7.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+				price = 12000
+				#Shop value for haff_shop.tacz.guns.tacz_rpg7.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m700]
+				#Shop value for haff_shop.tacz.guns.tacz_m700.price. Prices are Haff coins. Default: 22006. Applies after /reload.
+				price = 22006
+				#Shop value for haff_shop.tacz.guns.tacz_m700.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m107]
+				#Shop value for haff_shop.tacz.guns.tacz_m107.price. Prices are Haff coins. Default: 12008. Applies after /reload.
+				price = 12008
+				#Shop value for haff_shop.tacz.guns.tacz_m107.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m16a4]
+				#Shop value for haff_shop.tacz.guns.tacz_m16a4.price. Prices are Haff coins. Default: 12016. Applies after /reload.
+				price = 12016
+				#Shop value for haff_shop.tacz.guns.tacz_m16a4.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_fn_fal]
+				#Shop value for haff_shop.tacz.guns.tacz_fn_fal.price. Prices are Haff coins. Default: 12036. Applies after /reload.
+				price = 12036
+				#Shop value for haff_shop.tacz.guns.tacz_fn_fal.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_glock_17]
+				#Shop value for haff_shop.tacz.guns.tacz_glock_17.price. Prices are Haff coins. Default: 12002. Applies after /reload.
+				price = 12002
+				#Shop value for haff_shop.tacz.guns.tacz_glock_17.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_type_81]
+				#Shop value for haff_shop.tacz.guns.tacz_type_81.price. Prices are Haff coins. Default: 12024. Applies after /reload.
+				price = 12024
+				#Shop value for haff_shop.tacz.guns.tacz_type_81.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_taurus500]
+				#Shop value for haff_shop.tacz.guns.tacz_taurus500.price. Prices are Haff coins. Default: 12026. Applies after /reload.
+				price = 12026
+				#Shop value for haff_shop.tacz.guns.tacz_taurus500.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m9a4]
+				#Shop value for haff_shop.tacz.guns.tacz_m9a4.price. Prices are Haff coins. Default: 12028. Applies after /reload.
+				price = 12028
+				#Shop value for haff_shop.tacz.guns.tacz_m9a4.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_taurus943]
+				#Shop value for haff_shop.tacz.guns.tacz_taurus943.price. Prices are Haff coins. Default: 12018. Applies after /reload.
+				price = 12018
+				#Shop value for haff_shop.tacz.guns.tacz_taurus943.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_springfield1873]
+				#Shop value for haff_shop.tacz.guns.tacz_springfield1873.price. Prices are Haff coins. Default: 12010. Applies after /reload.
+				price = 12010
+				#Shop value for haff_shop.tacz.guns.tacz_springfield1873.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_hk_mp5a5]
+				#Shop value for haff_shop.tacz.guns.tacz_hk_mp5a5.price. Prices are Haff coins. Default: 12002. Applies after /reload.
+				price = 12002
+				#Shop value for haff_shop.tacz.guns.tacz_hk_mp5a5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_m1911]
+				#Shop value for haff_shop.tacz.guns.tacz_m1911.price. Prices are Haff coins. Default: 12012. Applies after /reload.
+				price = 12012
+				#Shop value for haff_shop.tacz.guns.tacz_m1911.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_fn_evolys]
+				#Shop value for haff_shop.tacz.guns.tacz_fn_evolys.price. Prices are Haff coins. Default: 12008. Applies after /reload.
+				price = 12008
+				#Shop value for haff_shop.tacz.guns.tacz_fn_evolys.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_p90]
+				#Shop value for haff_shop.tacz.guns.tacz_p90.price. Prices are Haff coins. Default: 12010. Applies after /reload.
+				price = 12010
+				#Shop value for haff_shop.tacz.guns.tacz_p90.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[haff_shop.tacz.guns.tacz_ai_awp]
+				#Shop value for haff_shop.tacz.guns.tacz_ai_awp.price. Prices are Haff coins. Default: 22002. Applies after /reload.
+				price = 22002
+				#Shop value for haff_shop.tacz.guns.tacz_ai_awp.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+		[haff_shop.items.heavy_assault_vest]
+			#Shop value for haff_shop.items.heavy_assault_vest.price. Prices are Haff coins. Default: 24000. Applies after /reload.
+			price = 24000
+			#Shop value for haff_shop.items.heavy_assault_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.norepinephrine]
+			#Shop value for haff_shop.items.norepinephrine.price. Prices are Haff coins. Default: 2200. Applies after /reload.
+			price = 2200
+			#Shop value for haff_shop.items.norepinephrine.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.d6_tactical_helmet]
+			#Shop value for haff_shop.items.d6_tactical_helmet.price. Prices are Haff coins. Default: 9000. Applies after /reload.
+			price = 9000
+			#Shop value for haff_shop.items.d6_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.elastic_bandage]
+			#Shop value for haff_shop.items.elastic_bandage.price. Prices are Haff coins. Default: 350. Applies after /reload.
+			price = 350
+			#Shop value for haff_shop.items.elastic_bandage.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.standard_armor_repair_kit]
+			#Shop value for haff_shop.items.standard_armor_repair_kit.price. Prices are Haff coins. Default: 7000. Applies after /reload.
+			price = 7000
+			#Shop value for haff_shop.items.standard_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dark_zone_rainbow_injection]
+			#Shop value for haff_shop.items.dark_zone_rainbow_injection.price. Prices are Haff coins. Default: 26000. Applies after /reload.
+			price = 26000
+			#Shop value for haff_shop.items.dark_zone_rainbow_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.outdoor_baseball_cap]
+			#Shop value for haff_shop.items.outdoor_baseball_cap.price. Prices are Haff coins. Default: 900. Applies after /reload.
+			price = 900
+			#Shop value for haff_shop.items.outdoor_baseball_cap.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.simple_stab_vest]
+			#Shop value for haff_shop.items.simple_stab_vest.price. Prices are Haff coins. Default: 2200. Applies after /reload.
+			price = 2200
+			#Shop value for haff_shop.items.simple_stab_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.stamina_activation_injection]
+			#Shop value for haff_shop.items.stamina_activation_injection.price. Prices are Haff coins. Default: 1800. Applies after /reload.
+			price = 1800
+			#Shop value for haff_shop.items.stamina_activation_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.heartbeat]
+			#Shop value for haff_shop.items.heartbeat.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.heartbeat.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dich1_tactical_helmet]
+			#Shop value for haff_shop.items.dich1_tactical_helmet.price. Prices are Haff coins. Default: 17000. Applies after /reload.
+			price = 17000
+			#Shop value for haff_shop.items.dich1_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.sustained_release_painkiller]
+			#Shop value for haff_shop.items.sustained_release_painkiller.price. Prices are Haff coins. Default: 700. Applies after /reload.
+			price = 700
+			#Shop value for haff_shop.items.sustained_release_painkiller.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.car_first_aid_kit]
+			#Shop value for haff_shop.items.car_first_aid_kit.price. Prices are Haff coins. Default: 900. Applies after /reload.
+			price = 900
+			#Shop value for haff_shop.items.car_first_aid_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.prototype_madness_compound]
+			#Shop value for haff_shop.items.prototype_madness_compound.price. Prices are Haff coins. Default: 6500. Applies after /reload.
+			price = 6500
+			#Shop value for haff_shop.items.prototype_madness_compound.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mc201_ballistic_helmet]
+			#Shop value for haff_shop.items.mc201_ballistic_helmet.price. Prices are Haff coins. Default: 3600. Applies after /reload.
+			price = 3600
+			#Shop value for haff_shop.items.mc201_ballistic_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.trick_mas2_armor]
+			#Shop value for haff_shop.items.trick_mas2_armor.price. Prices are Haff coins. Default: 42000. Applies after /reload.
+			price = 42000
+			#Shop value for haff_shop.items.trick_mas2_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dek_field_surgical_pack]
+			#Shop value for haff_shop.items.dek_field_surgical_pack.price. Prices are Haff coins. Default: 2500. Applies after /reload.
+			price = 2500
+			#Shop value for haff_shop.items.dek_field_surgical_pack.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.samurai_ballistic_vest]
+			#Shop value for haff_shop.items.samurai_ballistic_vest.price. Prices are Haff coins. Default: 9000. Applies after /reload.
+			price = 9000
+			#Shop value for haff_shop.items.samurai_ballistic_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.h70_elite_helmet]
+			#Shop value for haff_shop.items.h70_elite_helmet.price. Prices are Haff coins. Default: 34000. Applies after /reload.
+			price = 34000
+			#Shop value for haff_shop.items.h70_elite_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mask1_iron_wall_helmet]
+			#Shop value for haff_shop.items.mask1_iron_wall_helmet.price. Prices are Haff coins. Default: 18000. Applies after /reload.
+			price = 18000
+			#Shop value for haff_shop.items.mask1_iron_wall_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.tactical_quick_surgical_pack]
+			#Shop value for haff_shop.items.tactical_quick_surgical_pack.price. Prices are Haff coins. Default: 1800. Applies after /reload.
+			price = 1800
+			#Shop value for haff_shop.items.tactical_quick_surgical_pack.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.raven_shadow_extract]
+			#Shop value for haff_shop.items.raven_shadow_extract.price. Prices are Haff coins. Default: 7000. Applies after /reload.
+			price = 7000
+			#Shop value for haff_shop.items.raven_shadow_extract.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.oe2_combat_stimulant]
+			#Shop value for haff_shop.items.oe2_combat_stimulant.price. Prices are Haff coins. Default: 1800. Applies after /reload.
+			price = 1800
+			#Shop value for haff_shop.items.oe2_combat_stimulant.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.fs_composite_body_armor]
+			#Shop value for haff_shop.items.fs_composite_body_armor.price. Prices are Haff coins. Default: 23000. Applies after /reload.
+			price = 23000
+			#Shop value for haff_shop.items.fs_composite_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.assault_ballistic_vest]
+			#Shop value for haff_shop.items.assault_ballistic_vest.price. Prices are Haff coins. Default: 11000. Applies after /reload.
+			price = 11000
+			#Shop value for haff_shop.items.assault_ballistic_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.standard_helmet_repair_kit]
+			#Shop value for haff_shop.items.standard_helmet_repair_kit.price. Prices are Haff coins. Default: 4500. Applies after /reload.
+			price = 4500
+			#Shop value for haff_shop.items.standard_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.cranberry_special]
+			#Shop value for haff_shop.items.cranberry_special.price. Prices are Haff coins. Default: 9000. Applies after /reload.
+			price = 9000
+			#Shop value for haff_shop.items.cranberry_special.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.boonie_hat]
+			#Shop value for haff_shop.items.boonie_hat.price. Prices are Haff coins. Default: 700. Applies after /reload.
+			price = 700
+			#Shop value for haff_shop.items.boonie_hat.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.ha2_heavy_body_armor]
+			#Shop value for haff_shop.items.ha2_heavy_body_armor.price. Prices are Haff coins. Default: 36000. Applies after /reload.
+			price = 36000
+			#Shop value for haff_shop.items.ha2_heavy_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.universal_tactical_vest]
+			#Shop value for haff_shop.items.universal_tactical_vest.price. Prices are Haff coins. Default: 2700. Applies after /reload.
+			price = 2700
+			#Shop value for haff_shop.items.universal_tactical_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.das_ballistic_helmet]
+			#Shop value for haff_shop.items.das_ballistic_helmet.price. Prices are Haff coins. Default: 3200. Applies after /reload.
+			price = 3200
+			#Shop value for haff_shop.items.das_ballistic_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.special_equipment_supply]
+			#Shop value for haff_shop.items.special_equipment_supply.price. Prices are Haff coins. Default: 10000. Applies after /reload.
+			price = 10000
+			#Shop value for haff_shop.items.special_equipment_supply.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.gn_heavy_helmet]
+			#Shop value for haff_shop.items.gn_heavy_helmet.price. Prices are Haff coins. Default: 19000. Applies after /reload.
+			price = 19000
+			#Shop value for haff_shop.items.gn_heavy_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.asara_style]
+			#Shop value for haff_shop.items.asara_style.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.asara_style.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.red_owl_armored_mask]
+			#Shop value for haff_shop.items.red_owl_armored_mask.price. Prices are Haff coins. Default: 23000. Applies after /reload.
+			price = 23000
+			#Shop value for haff_shop.items.red_owl_armored_mask.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.battlefield_medical_kit]
+			#Shop value for haff_shop.items.battlefield_medical_kit.price. Prices are Haff coins. Default: 9000. Applies after /reload.
+			price = 9000
+			#Shop value for haff_shop.items.battlefield_medical_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.highball]
+			#Shop value for haff_shop.items.highball.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.highball.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.cat_tourniquet]
+			#Shop value for haff_shop.items.cat_tourniquet.price. Prices are Haff coins. Default: 550. Applies after /reload.
+			price = 550
+			#Shop value for haff_shop.items.cat_tourniquet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.stamina_enhancer]
+			#Shop value for haff_shop.items.stamina_enhancer.price. Prices are Haff coins. Default: 3600. Applies after /reload.
+			price = 3600
+			#Shop value for haff_shop.items.stamina_enhancer.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dich_training_helmet]
+			#Shop value for haff_shop.items.dich_training_helmet.price. Prices are Haff coins. Default: 8800. Applies after /reload.
+			price = 8800
+			#Shop value for haff_shop.items.dich_training_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.titan_ballistic_armor]
+			#Shop value for haff_shop.items.titan_ballistic_armor.price. Prices are Haff coins. Default: 52000. Applies after /reload.
+			price = 52000
+			#Shop value for haff_shop.items.titan_ballistic_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.simple_surgical_pack]
+			#Shop value for haff_shop.items.simple_surgical_pack.price. Prices are Haff coins. Default: 1200. Applies after /reload.
+			price = 1200
+			#Shop value for haff_shop.items.simple_surgical_pack.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.light_body_armor]
+			#Shop value for haff_shop.items.light_body_armor.price. Prices are Haff coins. Default: 1400. Applies after /reload.
+			price = 1400
+			#Shop value for haff_shop.items.light_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.hvk2_body_armor]
+			#Shop value for haff_shop.items.hvk2_body_armor.price. Prices are Haff coins. Default: 22000. Applies after /reload.
+			price = 22000
+			#Shop value for haff_shop.items.hvk2_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dt_avs_body_armor]
+			#Shop value for haff_shop.items.dt_avs_body_armor.price. Prices are Haff coins. Default: 11500. Applies after /reload.
+			price = 11500
+			#Shop value for haff_shop.items.dt_avs_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.self_made_armor_repair_kit]
+			#Shop value for haff_shop.items.self_made_armor_repair_kit.price. Prices are Haff coins. Default: 4000. Applies after /reload.
+			price = 4000
+			#Shop value for haff_shop.items.self_made_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.wild_rose]
+			#Shop value for haff_shop.items.wild_rose.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.wild_rose.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.h09_riot_helmet]
+			#Shop value for haff_shop.items.h09_riot_helmet.price. Prices are Haff coins. Default: 18000. Applies after /reload.
+			price = 18000
+			#Shop value for haff_shop.items.h09_riot_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.experimental_iron_curtain_catalyst]
+			#Shop value for haff_shop.items.experimental_iron_curtain_catalyst.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+			price = 12000
+			#Shop value for haff_shop.items.experimental_iron_curtain_catalyst.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dich9_heavy_helmet]
+			#Shop value for haff_shop.items.dich9_heavy_helmet.price. Prices are Haff coins. Default: 38000. Applies after /reload.
+			price = 38000
+			#Shop value for haff_shop.items.dich9_heavy_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.elite_ballistic_vest]
+			#Shop value for haff_shop.items.elite_ballistic_vest.price. Prices are Haff coins. Default: 18000. Applies after /reload.
+			price = 18000
+			#Shop value for haff_shop.items.elite_ballistic_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.bottled_antibiotics]
+			#Shop value for haff_shop.items.bottled_antibiotics.price. Prices are Haff coins. Default: 950. Applies after /reload.
+			price = 950
+			#Shop value for haff_shop.items.bottled_antibiotics.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.perception_activation_injection]
+			#Shop value for haff_shop.items.perception_activation_injection.price. Prices are Haff coins. Default: 1800. Applies after /reload.
+			price = 1800
+			#Shop value for haff_shop.items.perception_activation_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.perception_activator]
+			#Shop value for haff_shop.items.perception_activator.price. Prices are Haff coins. Default: 3600. Applies after /reload.
+			price = 3600
+			#Shop value for haff_shop.items.perception_activator.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mountain_rain]
+			#Shop value for haff_shop.items.mountain_rain.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.mountain_rain.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.advanced_helmet_repair_kit]
+			#Shop value for haff_shop.items.advanced_helmet_repair_kit.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+			price = 12000
+			#Shop value for haff_shop.items.advanced_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.gt5_commander_helmet]
+			#Shop value for haff_shop.items.gt5_commander_helmet.price. Prices are Haff coins. Default: 42000. Applies after /reload.
+			price = 42000
+			#Shop value for haff_shop.items.gt5_commander_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.m1_muscle_injection]
+			#Shop value for haff_shop.items.m1_muscle_injection.price. Prices are Haff coins. Default: 3600. Applies after /reload.
+			price = 3600
+			#Shop value for haff_shop.items.m1_muscle_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.nylon_body_armor]
+			#Shop value for haff_shop.items.nylon_body_armor.price. Prices are Haff coins. Default: 1200. Applies after /reload.
+			price = 1200
+			#Shop value for haff_shop.items.nylon_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.h01_tactical_helmet]
+			#Shop value for haff_shop.items.h01_tactical_helmet.price. Prices are Haff coins. Default: 1300. Applies after /reload.
+			price = 1300
+			#Shop value for haff_shop.items.h01_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.strong_injector]
+			#Shop value for haff_shop.items.strong_injector.price. Prices are Haff coins. Default: 1300. Applies after /reload.
+			price = 1300
+			#Shop value for haff_shop.items.strong_injector.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.outdoor_medical_kit]
+			#Shop value for haff_shop.items.outdoor_medical_kit.price. Prices are Haff coins. Default: 5200. Applies after /reload.
+			price = 5200
+			#Shop value for haff_shop.items.outdoor_medical_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.reis_dance]
+			#Shop value for haff_shop.items.reis_dance.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.reis_dance.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.long_goodbye]
+			#Shop value for haff_shop.items.long_goodbye.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.long_goodbye.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.gt1_tactical_helmet]
+			#Shop value for haff_shop.items.gt1_tactical_helmet.price. Prices are Haff coins. Default: 9600. Applies after /reload.
+			price = 9600
+			#Shop value for haff_shop.items.gt1_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.m1_muscle_booster]
+			#Shop value for haff_shop.items.m1_muscle_booster.price. Prices are Haff coins. Default: 1800. Applies after /reload.
+			price = 1800
+			#Shop value for haff_shop.items.m1_muscle_booster.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.sky_island]
+			#Shop value for haff_shop.items.sky_island.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.sky_island.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.gn_heavy_night_vision_helmet]
+			#Shop value for haff_shop.items.gn_heavy_night_vision_helmet.price. Prices are Haff coins. Default: 22000. Applies after /reload.
+			price = 22000
+			#Shop value for haff_shop.items.gn_heavy_night_vision_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.starlight_glitter]
+			#Shop value for haff_shop.items.starlight_glitter.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.starlight_glitter.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.hvk_quick_release_body_armor]
+			#Shop value for haff_shop.items.hvk_quick_release_body_armor.price. Prices are Haff coins. Default: 5200. Applies after /reload.
+			price = 5200
+			#Shop value for haff_shop.items.hvk_quick_release_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.guanshan_nanyue]
+			#Shop value for haff_shop.items.guanshan_nanyue.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.guanshan_nanyue.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.standard_ballistic_vest]
+			#Shop value for haff_shop.items.standard_ballistic_vest.price. Prices are Haff coins. Default: 4200. Applies after /reload.
+			price = 4200
+			#Shop value for haff_shop.items.standard_ballistic_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.h07_tactical_helmet]
+			#Shop value for haff_shop.items.h07_tactical_helmet.price. Prices are Haff coins. Default: 3000. Applies after /reload.
+			price = 3000
+			#Shop value for haff_shop.items.h07_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.riot_helmet]
+			#Shop value for haff_shop.items.riot_helmet.price. Prices are Haff coins. Default: 3400. Applies after /reload.
+			price = 3400
+			#Shop value for haff_shop.items.riot_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.field_first_aid_kit]
+			#Shop value for haff_shop.items.field_first_aid_kit.price. Prices are Haff coins. Default: 2600. Applies after /reload.
+			price = 2600
+			#Shop value for haff_shop.items.field_first_aid_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.self_made_helmet_repair_kit]
+			#Shop value for haff_shop.items.self_made_helmet_repair_kit.price. Prices are Haff coins. Default: 2600. Applies after /reload.
+			price = 2600
+			#Shop value for haff_shop.items.self_made_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.advanced_armor_repair_kit]
+			#Shop value for haff_shop.items.advanced_armor_repair_kit.price. Prices are Haff coins. Default: 18000. Applies after /reload.
+			price = 18000
+			#Shop value for haff_shop.items.advanced_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mhs_tactical_helmet]
+			#Shop value for haff_shop.items.mhs_tactical_helmet.price. Prices are Haff coins. Default: 10000. Applies after /reload.
+			price = 10000
+			#Shop value for haff_shop.items.mhs_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.hmp_special_duty_body_armor]
+			#Shop value for haff_shop.items.hmp_special_duty_body_armor.price. Prices are Haff coins. Default: 10000. Applies after /reload.
+			price = 10000
+			#Shop value for haff_shop.items.hmp_special_duty_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.dve_painkiller]
+			#Shop value for haff_shop.items.dve_painkiller.price. Prices are Haff coins. Default: 1400. Applies after /reload.
+			price = 1400
+			#Shop value for haff_shop.items.dve_painkiller.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.red_owl_heavy_assault_vest]
+			#Shop value for haff_shop.items.red_owl_heavy_assault_vest.price. Prices are Haff coins. Default: 21000. Applies after /reload.
+			price = 21000
+			#Shop value for haff_shop.items.red_owl_heavy_assault_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mist_morning]
+			#Shop value for haff_shop.items.mist_morning.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.mist_morning.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.marksman_tactical_vest]
+			#Shop value for haff_shop.items.marksman_tactical_vest.price. Prices are Haff coins. Default: 6200. Applies after /reload.
+			price = 6200
+			#Shop value for haff_shop.items.marksman_tactical_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.tulip]
+			#Shop value for haff_shop.items.tulip.price. Prices are Haff coins. Default: 3500. Applies after /reload.
+			price = 3500
+			#Shop value for haff_shop.items.tulip.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.simple_injector]
+			#Shop value for haff_shop.items.simple_injector.price. Prices are Haff coins. Default: 700. Applies after /reload.
+			price = 700
+			#Shop value for haff_shop.items.simple_injector.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.h70_night_vision_elite_helmet]
+			#Shop value for haff_shop.items.h70_night_vision_elite_helmet.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+			price = 39000
+			#Shop value for haff_shop.items.h70_night_vision_elite_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.tg_h_body_armor]
+			#Shop value for haff_shop.items.tg_h_body_armor.price. Prices are Haff coins. Default: 5400. Applies after /reload.
+			price = 5400
+			#Shop value for haff_shop.items.tg_h_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mc_ballistic_helmet]
+			#Shop value for haff_shop.items.mc_ballistic_helmet.price. Prices are Haff coins. Default: 1500. Applies after /reload.
+			price = 1500
+			#Shop value for haff_shop.items.mc_ballistic_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.king_kong_body_armor]
+			#Shop value for haff_shop.items.king_kong_body_armor.price. Prices are Haff coins. Default: 45000. Applies after /reload.
+			price = 45000
+			#Shop value for haff_shop.items.king_kong_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.precision_helmet_repair_kit]
+			#Shop value for haff_shop.items.precision_helmet_repair_kit.price. Prices are Haff coins. Default: 8000. Applies after /reload.
+			price = 8000
+			#Shop value for haff_shop.items.precision_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.precision_armor_repair_kit]
+			#Shop value for haff_shop.items.precision_armor_repair_kit.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+			price = 12000
+			#Shop value for haff_shop.items.precision_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.mk2_tactical_vest]
+			#Shop value for haff_shop.items.mk2_tactical_vest.price. Prices are Haff coins. Default: 12000. Applies after /reload.
+			price = 12000
+			#Shop value for haff_shop.items.mk2_tactical_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[haff_shop.items.gn_endurance_heavy_night_vision_helmet]
+			#Shop value for haff_shop.items.gn_endurance_heavy_night_vision_helmet.price. Prices are Haff coins. Default: 14500. Applies after /reload.
+			price = 14500
+			#Shop value for haff_shop.items.gn_endurance_heavy_night_vision_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+	[ghroth_armory.dfs]
+		#Shop value for ghroth_armory.dfs.discount_multiplier. Prices are Haff coins. Default: 0.75. Applies after /reload.
+		discount_multiplier = 0.75
+
+		[ghroth_armory.dfs.hvk2_body_armor]
+			#Shop value for ghroth_armory.dfs.hvk2_body_armor.price. Prices are Haff coins. Default: 16500. Applies after /reload.
+			price = 16500
+			#Shop value for ghroth_armory.dfs.hvk2_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.norepinephrine]
+			#Shop value for ghroth_armory.dfs.norepinephrine.price. Prices are Haff coins. Default: 1650. Applies after /reload.
+			price = 1650
+			#Shop value for ghroth_armory.dfs.norepinephrine.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.elastic_bandage]
+			#Shop value for ghroth_armory.dfs.elastic_bandage.price. Prices are Haff coins. Default: 263. Applies after /reload.
+			price = 263
+			#Shop value for ghroth_armory.dfs.elastic_bandage.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.self_made_armor_repair_kit]
+			#Shop value for ghroth_armory.dfs.self_made_armor_repair_kit.price. Prices are Haff coins. Default: 3000. Applies after /reload.
+			price = 3000
+			#Shop value for ghroth_armory.dfs.self_made_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.standard_armor_repair_kit]
+			#Shop value for ghroth_armory.dfs.standard_armor_repair_kit.price. Prices are Haff coins. Default: 5250. Applies after /reload.
+			price = 5250
+			#Shop value for ghroth_armory.dfs.standard_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.stamina_activation_injection]
+			#Shop value for ghroth_armory.dfs.stamina_activation_injection.price. Prices are Haff coins. Default: 1350. Applies after /reload.
+			price = 1350
+			#Shop value for ghroth_armory.dfs.stamina_activation_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.h09_riot_helmet]
+			#Shop value for ghroth_armory.dfs.h09_riot_helmet.price. Prices are Haff coins. Default: 13500. Applies after /reload.
+			price = 13500
+			#Shop value for ghroth_armory.dfs.h09_riot_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.bottled_antibiotics]
+			#Shop value for ghroth_armory.dfs.bottled_antibiotics.price. Prices are Haff coins. Default: 713. Applies after /reload.
+			price = 713
+			#Shop value for ghroth_armory.dfs.bottled_antibiotics.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.sustained_release_painkiller]
+			#Shop value for ghroth_armory.dfs.sustained_release_painkiller.price. Prices are Haff coins. Default: 525. Applies after /reload.
+			price = 525
+			#Shop value for ghroth_armory.dfs.sustained_release_painkiller.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.perception_activation_injection]
+			#Shop value for ghroth_armory.dfs.perception_activation_injection.price. Prices are Haff coins. Default: 1350. Applies after /reload.
+			price = 1350
+			#Shop value for ghroth_armory.dfs.perception_activation_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.perception_activator]
+			#Shop value for ghroth_armory.dfs.perception_activator.price. Prices are Haff coins. Default: 2700. Applies after /reload.
+			price = 2700
+			#Shop value for ghroth_armory.dfs.perception_activator.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.advanced_helmet_repair_kit]
+			#Shop value for ghroth_armory.dfs.advanced_helmet_repair_kit.price. Prices are Haff coins. Default: 9000. Applies after /reload.
+			price = 9000
+			#Shop value for ghroth_armory.dfs.advanced_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.m1_muscle_injection]
+			#Shop value for ghroth_armory.dfs.m1_muscle_injection.price. Prices are Haff coins. Default: 2700. Applies after /reload.
+			price = 2700
+			#Shop value for ghroth_armory.dfs.m1_muscle_injection.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.car_first_aid_kit]
+			#Shop value for ghroth_armory.dfs.car_first_aid_kit.price. Prices are Haff coins. Default: 675. Applies after /reload.
+			price = 675
+			#Shop value for ghroth_armory.dfs.car_first_aid_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.h01_tactical_helmet]
+			#Shop value for ghroth_armory.dfs.h01_tactical_helmet.price. Prices are Haff coins. Default: 975. Applies after /reload.
+			price = 975
+			#Shop value for ghroth_armory.dfs.h01_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.strong_injector]
+			#Shop value for ghroth_armory.dfs.strong_injector.price. Prices are Haff coins. Default: 975. Applies after /reload.
+			price = 975
+			#Shop value for ghroth_armory.dfs.strong_injector.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.dek_field_surgical_pack]
+			#Shop value for ghroth_armory.dfs.dek_field_surgical_pack.price. Prices are Haff coins. Default: 1875. Applies after /reload.
+			price = 1875
+			#Shop value for ghroth_armory.dfs.dek_field_surgical_pack.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.outdoor_medical_kit]
+			#Shop value for ghroth_armory.dfs.outdoor_medical_kit.price. Prices are Haff coins. Default: 3900. Applies after /reload.
+			price = 3900
+			#Shop value for ghroth_armory.dfs.outdoor_medical_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.h70_elite_helmet]
+			#Shop value for ghroth_armory.dfs.h70_elite_helmet.price. Prices are Haff coins. Default: 25500. Applies after /reload.
+			price = 25500
+			#Shop value for ghroth_armory.dfs.h70_elite_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.tactical_quick_surgical_pack]
+			#Shop value for ghroth_armory.dfs.tactical_quick_surgical_pack.price. Prices are Haff coins. Default: 1350. Applies after /reload.
+			price = 1350
+			#Shop value for ghroth_armory.dfs.tactical_quick_surgical_pack.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.m1_muscle_booster]
+			#Shop value for ghroth_armory.dfs.m1_muscle_booster.price. Prices are Haff coins. Default: 1350. Applies after /reload.
+			price = 1350
+			#Shop value for ghroth_armory.dfs.m1_muscle_booster.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.oe2_combat_stimulant]
+			#Shop value for ghroth_armory.dfs.oe2_combat_stimulant.price. Prices are Haff coins. Default: 1350. Applies after /reload.
+			price = 1350
+			#Shop value for ghroth_armory.dfs.oe2_combat_stimulant.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.hvk_quick_release_body_armor]
+			#Shop value for ghroth_armory.dfs.hvk_quick_release_body_armor.price. Prices are Haff coins. Default: 3900. Applies after /reload.
+			price = 3900
+			#Shop value for ghroth_armory.dfs.hvk_quick_release_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.assault_ballistic_vest]
+			#Shop value for ghroth_armory.dfs.assault_ballistic_vest.price. Prices are Haff coins. Default: 8250. Applies after /reload.
+			price = 8250
+			#Shop value for ghroth_armory.dfs.assault_ballistic_vest.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.h07_tactical_helmet]
+			#Shop value for ghroth_armory.dfs.h07_tactical_helmet.price. Prices are Haff coins. Default: 2250. Applies after /reload.
+			price = 2250
+			#Shop value for ghroth_armory.dfs.h07_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.standard_helmet_repair_kit]
+			#Shop value for ghroth_armory.dfs.standard_helmet_repair_kit.price. Prices are Haff coins. Default: 3375. Applies after /reload.
+			price = 3375
+			#Shop value for ghroth_armory.dfs.standard_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.field_first_aid_kit]
+			#Shop value for ghroth_armory.dfs.field_first_aid_kit.price. Prices are Haff coins. Default: 1950. Applies after /reload.
+			price = 1950
+			#Shop value for ghroth_armory.dfs.field_first_aid_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.ha2_heavy_body_armor]
+			#Shop value for ghroth_armory.dfs.ha2_heavy_body_armor.price. Prices are Haff coins. Default: 27000. Applies after /reload.
+			price = 27000
+			#Shop value for ghroth_armory.dfs.ha2_heavy_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.self_made_helmet_repair_kit]
+			#Shop value for ghroth_armory.dfs.self_made_helmet_repair_kit.price. Prices are Haff coins. Default: 1950. Applies after /reload.
+			price = 1950
+			#Shop value for ghroth_armory.dfs.self_made_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.advanced_armor_repair_kit]
+			#Shop value for ghroth_armory.dfs.advanced_armor_repair_kit.price. Prices are Haff coins. Default: 13500. Applies after /reload.
+			price = 13500
+			#Shop value for ghroth_armory.dfs.advanced_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.mhs_tactical_helmet]
+			#Shop value for ghroth_armory.dfs.mhs_tactical_helmet.price. Prices are Haff coins. Default: 7500. Applies after /reload.
+			price = 7500
+			#Shop value for ghroth_armory.dfs.mhs_tactical_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.hmp_special_duty_body_armor]
+			#Shop value for ghroth_armory.dfs.hmp_special_duty_body_armor.price. Prices are Haff coins. Default: 7500. Applies after /reload.
+			price = 7500
+			#Shop value for ghroth_armory.dfs.hmp_special_duty_body_armor.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.dve_painkiller]
+			#Shop value for ghroth_armory.dfs.dve_painkiller.price. Prices are Haff coins. Default: 1050. Applies after /reload.
+			price = 1050
+			#Shop value for ghroth_armory.dfs.dve_painkiller.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.simple_injector]
+			#Shop value for ghroth_armory.dfs.simple_injector.price. Prices are Haff coins. Default: 525. Applies after /reload.
+			price = 525
+			#Shop value for ghroth_armory.dfs.simple_injector.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.h70_night_vision_elite_helmet]
+			#Shop value for ghroth_armory.dfs.h70_night_vision_elite_helmet.price. Prices are Haff coins. Default: 29250. Applies after /reload.
+			price = 29250
+			#Shop value for ghroth_armory.dfs.h70_night_vision_elite_helmet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.precision_helmet_repair_kit]
+			#Shop value for ghroth_armory.dfs.precision_helmet_repair_kit.price. Prices are Haff coins. Default: 6000. Applies after /reload.
+			price = 6000
+			#Shop value for ghroth_armory.dfs.precision_helmet_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.battlefield_medical_kit]
+			#Shop value for ghroth_armory.dfs.battlefield_medical_kit.price. Prices are Haff coins. Default: 6750. Applies after /reload.
+			price = 6750
+			#Shop value for ghroth_armory.dfs.battlefield_medical_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.cat_tourniquet]
+			#Shop value for ghroth_armory.dfs.cat_tourniquet.price. Prices are Haff coins. Default: 413. Applies after /reload.
+			price = 413
+			#Shop value for ghroth_armory.dfs.cat_tourniquet.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.stamina_enhancer]
+			#Shop value for ghroth_armory.dfs.stamina_enhancer.price. Prices are Haff coins. Default: 2700. Applies after /reload.
+			price = 2700
+			#Shop value for ghroth_armory.dfs.stamina_enhancer.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.simple_surgical_pack]
+			#Shop value for ghroth_armory.dfs.simple_surgical_pack.price. Prices are Haff coins. Default: 900. Applies after /reload.
+			price = 900
+			#Shop value for ghroth_armory.dfs.simple_surgical_pack.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+		[ghroth_armory.dfs.precision_armor_repair_kit]
+			#Shop value for ghroth_armory.dfs.precision_armor_repair_kit.price. Prices are Haff coins. Default: 9000. Applies after /reload.
+			price = 9000
+			#Shop value for ghroth_armory.dfs.precision_armor_repair_kit.enabled. Enabled flag. Default: true. Applies after /reload.
+			enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_bayonet_6h3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_bayonet_6h3.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_bayonet_6h3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_td]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_td.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_td.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_oem_stock_tactical]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_oem_stock_tactical.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_oem_stock_tactical.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_vertical_military]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_vertical_military.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_vertical_military.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_vertical_ranger]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_vertical_ranger.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_vertical_ranger.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_coyote]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_coyote.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_coyote.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_fastfire_rifle]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_fastfire_rifle.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_fastfire_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_compensator_trident]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_compensator_trident.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_compensator_trident.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_lpvo_1_6]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_lpvo_1_6.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_lpvo_1_6.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_ammo_mod_hp]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_hp.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_hp.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_deagle_golden_long_barrel]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_deagle_golden_long_barrel.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_deagle_golden_long_barrel.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_mk5hd]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_mk5hd.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_mk5hd.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_oem_stock_heavy]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_oem_stock_heavy.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_oem_stock_heavy.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_mirage]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_mirage.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_mirage.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_ammo_mod_he]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_he.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_he.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_militech_b5]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_militech_b5.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_militech_b5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_brake_timeless50]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_timeless50.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_timeless50.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_sg]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_sg.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_sg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_retro_2x]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_retro_2x.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_retro_2x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_standard_8x]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_standard_8x.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_standard_8x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_brake_cthulhu]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_cthulhu.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_cthulhu.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_knight_qd]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_knight_qd.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_knight_qd.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_aug_default]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_aug_default.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_aug_default.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_phantom_s1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_phantom_s1.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_phantom_s1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_magpul_afg_2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_magpul_afg_2.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_magpul_afg_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_light_extended_mag_2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_light_extended_mag_2.price. Prices are Haff coins. Default: 35020. Applies after /reload.
+				price = 35020
+				#Shop value for ghroth_armory.tacz.attachments.tacz_light_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_light_extended_mag_3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_light_extended_mag_3.price. Prices are Haff coins. Default: 35020. Applies after /reload.
+				price = 35020
+				#Shop value for ghroth_armory.tacz.attachments.tacz_light_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_srs_02]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_srs_02.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_srs_02.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_light_extended_mag_1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_light_extended_mag_1.price. Prices are Haff coins. Default: 35020. Applies after /reload.
+				price = 35020
+				#Shop value for ghroth_armory.tacz.attachments.tacz_light_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_choke_sg]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_choke_sg.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_choke_sg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_3.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_1.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_brake_cyclone_d2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_cyclone_d2.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_cyclone_d2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_2.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sniper_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_pk06_pistol]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_pk06_pistol.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_pk06_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_hk_slim_line]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_hk_slim_line.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_hk_slim_line.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_vudu]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_vudu.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_vudu.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_fastfire_pistol]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_fastfire_pistol.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_fastfire_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_uh1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_uh1.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_uh1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_sro_dot]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_sro_dot.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_sro_dot.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_m4ss]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_m4ss.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_m4ss.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_tactical_ar]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_tactical_ar.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_tactical_ar.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_tactical_spas_12]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_tactical_spas_12.price. Prices are Haff coins. Default: 35048. Applies after /reload.
+				price = 35048
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_tactical_spas_12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_osovets_black]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_osovets_black.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_osovets_black.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_deltapoint_rifle]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_deltapoint_rifle.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_deltapoint_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_contender]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_contender.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_contender.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_deltapoint_pistol]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_deltapoint_pistol.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_deltapoint_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_98k]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_98k.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_98k.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_brake_mastiff_sg]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_mastiff_sg.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_mastiff_sg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_rmr_dot]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_rmr_dot.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_rmr_dot.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_laser_peq15]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_peq15.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_peq15.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_laser_peq6]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_peq6.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_peq6.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_ammo_mod_i]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_i.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_i.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_t2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_t2.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_t2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_t1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_t1.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_t1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_se_5]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_se_5.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_se_5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_ak12]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_ak12.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_ak12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_extended_mag_1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_extended_mag_1.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_heavy_spas_12]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_heavy_spas_12.price. Prices are Haff coins. Default: 35044. Applies after /reload.
+				price = 35044
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_heavy_spas_12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_extended_mag_2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_extended_mag_2.price. Prices are Haff coins. Default: 35008. Applies after /reload.
+				price = 35008
+				#Shop value for ghroth_armory.tacz.attachments.tacz_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_acro_pistol]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_acro_pistol.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_acro_pistol.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_extended_mag_3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_extended_mag_3.price. Prices are Haff coins. Default: 35012. Applies after /reload.
+				price = 35012
+				#Shop value for ghroth_armory.tacz.attachments.tacz_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_exp3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_exp3.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_exp3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_ripstock]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_ripstock.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_ripstock.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_ammo_mod_fmj]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_fmj.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_fmj.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_acog_ta31]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_acog_ta31.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_acog_ta31.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_brake_pioneer]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_pioneer.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_pioneer.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_carbon_bone_c5]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_carbon_bone_c5.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_carbon_bone_c5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_laser_lopro]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_lopro.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_lopro.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_wraith]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_wraith.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_wraith.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_okp7]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_okp7.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_okp7.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_cqr]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_cqr.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_cqr.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_552]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_552.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_552.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_rk6]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_rk6.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_rk6.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_rk1_b25u]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_rk1_b25u.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_rk1_b25u.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_rk0]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_rk0.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_rk0.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_ursus]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_ursus.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_ursus.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_elcan_4x]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_elcan_4x.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_elcan_4x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_moe]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_moe.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_moe.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_vertical_talon]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_vertical_talon.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_vertical_talon.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_ammo_mod_slug]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_slug.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_ammo_mod_slug.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_1873_6x]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_1873_6x.price. Prices are Haff coins. Default: 39000. Applies after /reload.
+				price = 39000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_1873_6x.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_ptilopsis]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_ptilopsis.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_ptilopsis.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_oem_stock_light]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_oem_stock_light.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_oem_stock_light.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_p90]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_p90.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_p90.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_hamr]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_hamr.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_hamr.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_scope_qmk152]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_qmk152.price. Prices are Haff coins. Default: 35400. Applies after /reload.
+				price = 35400
+				#Shop value for ghroth_armory.tacz.attachments.tacz_scope_qmk152.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_stock_sba3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_sba3.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_stock_sba3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_pk06_rifle]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_pk06_rifle.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_pk06_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_sight_acro_rifle]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_acro_rifle.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_sight_acro_rifle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_brake_trex]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_trex.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_brake_trex.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_laser_nightstick]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_nightstick.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_nightstick.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_laser_compact]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_compact.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_laser_compact.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_bayonet_m9]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_bayonet_m9.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_bayonet_m9.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_grip_cobra]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_cobra.price. Prices are Haff coins. Default: 35004. Applies after /reload.
+				price = 35004
+				#Shop value for ghroth_armory.tacz.attachments.tacz_grip_cobra.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_1]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_1.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_muzzle_silencer_vulture]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_vulture.price. Prices are Haff coins. Default: 35000. Applies after /reload.
+				price = 35000
+				#Shop value for ghroth_armory.tacz.attachments.tacz_muzzle_silencer_vulture.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_3]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_3.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_2]
+				#Shop value for ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_2.price. Prices are Haff coins. Default: 35040. Applies after /reload.
+				price = 35040
+				#Shop value for ghroth_armory.tacz.attachments.tacz_shotgun_extended_mag_2.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_57x28]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_57x28.price. Prices are Haff coins. Default: 2506. Applies after /reload.
+				price = 2506
+				#Shop value for ghroth_armory.tacz.ammo.tacz_57x28.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_792x57]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_792x57.price. Prices are Haff coins. Default: 2513. Applies after /reload.
+				price = 2513
+				#Shop value for ghroth_armory.tacz.ammo.tacz_792x57.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_45acp]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_45acp.price. Prices are Haff coins. Default: 2503. Applies after /reload.
+				price = 2503
+				#Shop value for ghroth_armory.tacz.ammo.tacz_45acp.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_50bmg]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_50bmg.price. Prices are Haff coins. Default: 2521. Applies after /reload.
+				price = 2521
+				#Shop value for ghroth_armory.tacz.ammo.tacz_50bmg.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_762x54]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_762x54.price. Prices are Haff coins. Default: 2511. Applies after /reload.
+				price = 2511
+				#Shop value for ghroth_armory.tacz.ammo.tacz_762x54.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_45_70]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_45_70.price. Prices are Haff coins. Default: 2518. Applies after /reload.
+				price = 2518
+				#Shop value for ghroth_armory.tacz.ammo.tacz_45_70.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_40mm]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_40mm.price. Prices are Haff coins. Default: 2522. Applies after /reload.
+				price = 2522
+				#Shop value for ghroth_armory.tacz.ammo.tacz_40mm.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_9mm]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_9mm.price. Prices are Haff coins. Default: 2502. Applies after /reload.
+				price = 2502
+				#Shop value for ghroth_armory.tacz.ammo.tacz_9mm.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_30_06]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_30_06.price. Prices are Haff coins. Default: 2520. Applies after /reload.
+				price = 2520
+				#Shop value for ghroth_armory.tacz.ammo.tacz_30_06.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_338]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_338.price. Prices are Haff coins. Default: 2519. Applies after /reload.
+				price = 2519
+				#Shop value for ghroth_armory.tacz.ammo.tacz_338.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_68x51fury]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_68x51fury.price. Prices are Haff coins. Default: 2514. Applies after /reload.
+				price = 2514
+				#Shop value for ghroth_armory.tacz.ammo.tacz_68x51fury.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_rpg_rocket]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_rpg_rocket.price. Prices are Haff coins. Default: 2523. Applies after /reload.
+				price = 2523
+				#Shop value for ghroth_armory.tacz.ammo.tacz_rpg_rocket.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_46x30]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_46x30.price. Prices are Haff coins. Default: 2505. Applies after /reload.
+				price = 2505
+				#Shop value for ghroth_armory.tacz.ammo.tacz_46x30.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_357mag]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_357mag.price. Prices are Haff coins. Default: 2515. Applies after /reload.
+				price = 2515
+				#Shop value for ghroth_armory.tacz.ammo.tacz_357mag.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_500mag]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_500mag.price. Prices are Haff coins. Default: 2517. Applies after /reload.
+				price = 2517
+				#Shop value for ghroth_armory.tacz.ammo.tacz_500mag.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_545x39]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_545x39.price. Prices are Haff coins. Default: 2507. Applies after /reload.
+				price = 2507
+				#Shop value for ghroth_armory.tacz.ammo.tacz_545x39.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_762x39]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_762x39.price. Prices are Haff coins. Default: 2510. Applies after /reload.
+				price = 2510
+				#Shop value for ghroth_armory.tacz.ammo.tacz_762x39.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_762x25]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_762x25.price. Prices are Haff coins. Default: 2504. Applies after /reload.
+				price = 2504
+				#Shop value for ghroth_armory.tacz.ammo.tacz_762x25.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_22wmr]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_22wmr.price. Prices are Haff coins. Default: 2501. Applies after /reload.
+				price = 2501
+				#Shop value for ghroth_armory.tacz.ammo.tacz_22wmr.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_308]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_308.price. Prices are Haff coins. Default: 2512. Applies after /reload.
+				price = 2512
+				#Shop value for ghroth_armory.tacz.ammo.tacz_308.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_50ae]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_50ae.price. Prices are Haff coins. Default: 2516. Applies after /reload.
+				price = 2516
+				#Shop value for ghroth_armory.tacz.ammo.tacz_50ae.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_58x42]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_58x42.price. Prices are Haff coins. Default: 2509. Applies after /reload.
+				price = 2509
+				#Shop value for ghroth_armory.tacz.ammo.tacz_58x42.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_12g]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_12g.price. Prices are Haff coins. Default: 2524. Applies after /reload.
+				price = 2524
+				#Shop value for ghroth_armory.tacz.ammo.tacz_12g.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.ammo.tacz_556x45]
+				#Shop value for ghroth_armory.tacz.ammo.tacz_556x45.price. Prices are Haff coins. Default: 2508. Applies after /reload.
+				price = 2508
+				#Shop value for ghroth_armory.tacz.ammo.tacz_556x45.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_aug]
+				#Shop value for ghroth_armory.tacz.guns.tacz_aug.price. Prices are Haff coins. Default: 85080. Applies after /reload.
+				price = 85080
+				#Shop value for ghroth_armory.tacz.guns.tacz_aug.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_hk_g3]
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk_g3.price. Prices are Haff coins. Default: 85024. Applies after /reload.
+				price = 85024
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk_g3.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_p320]
+				#Shop value for ghroth_armory.tacz.guns.tacz_p320.price. Prices are Haff coins. Default: 85040. Applies after /reload.
+				price = 85040
+				#Shop value for ghroth_armory.tacz.guns.tacz_p320.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_mk14]
+				#Shop value for ghroth_armory.tacz.guns.tacz_mk14.price. Prices are Haff coins. Default: 85088. Applies after /reload.
+				price = 85088
+				#Shop value for ghroth_armory.tacz.guns.tacz_mk14.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_lonetrail]
+				#Shop value for ghroth_armory.tacz.guns.tacz_lonetrail.price. Prices are Haff coins. Default: 85088. Applies after /reload.
+				price = 85088
+				#Shop value for ghroth_armory.tacz.guns.tacz_lonetrail.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_db_short]
+				#Shop value for ghroth_armory.tacz.guns.tacz_db_short.price. Prices are Haff coins. Default: 85000. Applies after /reload.
+				price = 85000
+				#Shop value for ghroth_armory.tacz.guns.tacz_db_short.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_aa12]
+				#Shop value for ghroth_armory.tacz.guns.tacz_aa12.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_aa12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_kar98]
+				#Shop value for ghroth_armory.tacz.guns.tacz_kar98.price. Prices are Haff coins. Default: 180048. Applies after /reload.
+				price = 180048
+				#Shop value for ghroth_armory.tacz.guns.tacz_kar98.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_qbz_95]
+				#Shop value for ghroth_armory.tacz.guns.tacz_qbz_95.price. Prices are Haff coins. Default: 85104. Applies after /reload.
+				price = 85104
+				#Shop value for ghroth_armory.tacz.guns.tacz_qbz_95.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_vector45]
+				#Shop value for ghroth_armory.tacz.guns.tacz_vector45.price. Prices are Haff coins. Default: 85024. Applies after /reload.
+				price = 85024
+				#Shop value for ghroth_armory.tacz.guns.tacz_vector45.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_deagle]
+				#Shop value for ghroth_armory.tacz.guns.tacz_deagle.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_deagle.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_spr15hb]
+				#Shop value for ghroth_armory.tacz.guns.tacz_spr15hb.price. Prices are Haff coins. Default: 85120. Applies after /reload.
+				price = 85120
+				#Shop value for ghroth_armory.tacz.guns.tacz_spr15hb.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_ak47]
+				#Shop value for ghroth_armory.tacz.guns.tacz_ak47.price. Prices are Haff coins. Default: 85008. Applies after /reload.
+				price = 85008
+				#Shop value for ghroth_armory.tacz.guns.tacz_ak47.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m249]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m249.price. Prices are Haff coins. Default: 180008. Applies after /reload.
+				price = 180008
+				#Shop value for ghroth_armory.tacz.guns.tacz_m249.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_rhino357]
+				#Shop value for ghroth_armory.tacz.guns.tacz_rhino357.price. Prices are Haff coins. Default: 85080. Applies after /reload.
+				price = 85080
+				#Shop value for ghroth_armory.tacz.guns.tacz_rhino357.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_scar_l]
+				#Shop value for ghroth_armory.tacz.guns.tacz_scar_l.price. Prices are Haff coins. Default: 85048. Applies after /reload.
+				price = 85048
+				#Shop value for ghroth_armory.tacz.guns.tacz_scar_l.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m1014]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m1014.price. Prices are Haff coins. Default: 85024. Applies after /reload.
+				price = 85024
+				#Shop value for ghroth_armory.tacz.guns.tacz_m1014.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_cz75]
+				#Shop value for ghroth_armory.tacz.guns.tacz_cz75.price. Prices are Haff coins. Default: 85024. Applies after /reload.
+				price = 85024
+				#Shop value for ghroth_armory.tacz.guns.tacz_cz75.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m320]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m320.price. Prices are Haff coins. Default: 85000. Applies after /reload.
+				price = 85000
+				#Shop value for ghroth_armory.tacz.guns.tacz_m320.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_spas_12]
+				#Shop value for ghroth_armory.tacz.guns.tacz_spas_12.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_spas_12.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_g36k]
+				#Shop value for ghroth_armory.tacz.guns.tacz_g36k.price. Prices are Haff coins. Default: 85112. Applies after /reload.
+				price = 85112
+				#Shop value for ghroth_armory.tacz.guns.tacz_g36k.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m4a1]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m4a1.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_m4a1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_scar_h]
+				#Shop value for ghroth_armory.tacz.guns.tacz_scar_h.price. Prices are Haff coins. Default: 85040. Applies after /reload.
+				price = 85040
+				#Shop value for ghroth_armory.tacz.guns.tacz_scar_h.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m95]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m95.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_m95.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_hk416d]
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk416d.price. Prices are Haff coins. Default: 85072. Applies after /reload.
+				price = 85072
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk416d.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_sks_tactical]
+				#Shop value for ghroth_armory.tacz.guns.tacz_sks_tactical.price. Prices are Haff coins. Default: 85032. Applies after /reload.
+				price = 85032
+				#Shop value for ghroth_armory.tacz.guns.tacz_sks_tactical.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_timeless50]
+				#Shop value for ghroth_armory.tacz.guns.tacz_timeless50.price. Prices are Haff coins. Default: 85064. Applies after /reload.
+				price = 85064
+				#Shop value for ghroth_armory.tacz.guns.tacz_timeless50.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_ump45]
+				#Shop value for ghroth_armory.tacz.guns.tacz_ump45.price. Prices are Haff coins. Default: 85032. Applies after /reload.
+				price = 85032
+				#Shop value for ghroth_armory.tacz.guns.tacz_ump45.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_qbz_191]
+				#Shop value for ghroth_armory.tacz.guns.tacz_qbz_191.price. Prices are Haff coins. Default: 85128. Applies after /reload.
+				price = 85128
+				#Shop value for ghroth_armory.tacz.guns.tacz_qbz_191.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_deagle_golden]
+				#Shop value for ghroth_armory.tacz.guns.tacz_deagle_golden.price. Prices are Haff coins. Default: 85032. Applies after /reload.
+				price = 85032
+				#Shop value for ghroth_armory.tacz.guns.tacz_deagle_golden.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_minigun]
+				#Shop value for ghroth_armory.tacz.guns.tacz_minigun.price. Prices are Haff coins. Default: 85024. Applies after /reload.
+				price = 85024
+				#Shop value for ghroth_armory.tacz.guns.tacz_minigun.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_b93r]
+				#Shop value for ghroth_armory.tacz.guns.tacz_b93r.price. Prices are Haff coins. Default: 85056. Applies after /reload.
+				price = 85056
+				#Shop value for ghroth_armory.tacz.guns.tacz_b93r.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m870]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m870.price. Prices are Haff coins. Default: 85008. Applies after /reload.
+				price = 85008
+				#Shop value for ghroth_armory.tacz.guns.tacz_m870.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_hk_mk23]
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk_mk23.price. Prices are Haff coins. Default: 85096. Applies after /reload.
+				price = 85096
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk_mk23.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_rpk]
+				#Shop value for ghroth_armory.tacz.guns.tacz_rpk.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_rpk.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_uzi]
+				#Shop value for ghroth_armory.tacz.guns.tacz_uzi.price. Prices are Haff coins. Default: 85016. Applies after /reload.
+				price = 85016
+				#Shop value for ghroth_armory.tacz.guns.tacz_uzi.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m16a1]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m16a1.price. Prices are Haff coins. Default: 85056. Applies after /reload.
+				price = 85056
+				#Shop value for ghroth_armory.tacz.guns.tacz_m16a1.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_db_long]
+				#Shop value for ghroth_armory.tacz.guns.tacz_db_long.price. Prices are Haff coins. Default: 85000. Applies after /reload.
+				price = 85000
+				#Shop value for ghroth_armory.tacz.guns.tacz_db_long.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_rpg7]
+				#Shop value for ghroth_armory.tacz.guns.tacz_rpg7.price. Prices are Haff coins. Default: 85000. Applies after /reload.
+				price = 85000
+				#Shop value for ghroth_armory.tacz.guns.tacz_rpg7.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m700]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m700.price. Prices are Haff coins. Default: 180024. Applies after /reload.
+				price = 180024
+				#Shop value for ghroth_armory.tacz.guns.tacz_m700.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m107]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m107.price. Prices are Haff coins. Default: 85032. Applies after /reload.
+				price = 85032
+				#Shop value for ghroth_armory.tacz.guns.tacz_m107.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m16a4]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m16a4.price. Prices are Haff coins. Default: 85064. Applies after /reload.
+				price = 85064
+				#Shop value for ghroth_armory.tacz.guns.tacz_m16a4.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_fn_fal]
+				#Shop value for ghroth_armory.tacz.guns.tacz_fn_fal.price. Prices are Haff coins. Default: 85144. Applies after /reload.
+				price = 85144
+				#Shop value for ghroth_armory.tacz.guns.tacz_fn_fal.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_glock_17]
+				#Shop value for ghroth_armory.tacz.guns.tacz_glock_17.price. Prices are Haff coins. Default: 85008. Applies after /reload.
+				price = 85008
+				#Shop value for ghroth_armory.tacz.guns.tacz_glock_17.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_type_81]
+				#Shop value for ghroth_armory.tacz.guns.tacz_type_81.price. Prices are Haff coins. Default: 85096. Applies after /reload.
+				price = 85096
+				#Shop value for ghroth_armory.tacz.guns.tacz_type_81.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_taurus500]
+				#Shop value for ghroth_armory.tacz.guns.tacz_taurus500.price. Prices are Haff coins. Default: 85104. Applies after /reload.
+				price = 85104
+				#Shop value for ghroth_armory.tacz.guns.tacz_taurus500.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m9a4]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m9a4.price. Prices are Haff coins. Default: 85112. Applies after /reload.
+				price = 85112
+				#Shop value for ghroth_armory.tacz.guns.tacz_m9a4.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_taurus943]
+				#Shop value for ghroth_armory.tacz.guns.tacz_taurus943.price. Prices are Haff coins. Default: 85072. Applies after /reload.
+				price = 85072
+				#Shop value for ghroth_armory.tacz.guns.tacz_taurus943.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_springfield1873]
+				#Shop value for ghroth_armory.tacz.guns.tacz_springfield1873.price. Prices are Haff coins. Default: 85040. Applies after /reload.
+				price = 85040
+				#Shop value for ghroth_armory.tacz.guns.tacz_springfield1873.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_hk_mp5a5]
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk_mp5a5.price. Prices are Haff coins. Default: 85008. Applies after /reload.
+				price = 85008
+				#Shop value for ghroth_armory.tacz.guns.tacz_hk_mp5a5.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_m1911]
+				#Shop value for ghroth_armory.tacz.guns.tacz_m1911.price. Prices are Haff coins. Default: 85048. Applies after /reload.
+				price = 85048
+				#Shop value for ghroth_armory.tacz.guns.tacz_m1911.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_fn_evolys]
+				#Shop value for ghroth_armory.tacz.guns.tacz_fn_evolys.price. Prices are Haff coins. Default: 85032. Applies after /reload.
+				price = 85032
+				#Shop value for ghroth_armory.tacz.guns.tacz_fn_evolys.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_p90]
+				#Shop value for ghroth_armory.tacz.guns.tacz_p90.price. Prices are Haff coins. Default: 85040. Applies after /reload.
+				price = 85040
+				#Shop value for ghroth_armory.tacz.guns.tacz_p90.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true
+
+			[ghroth_armory.tacz.guns.tacz_ai_awp]
+				#Shop value for ghroth_armory.tacz.guns.tacz_ai_awp.price. Prices are Haff coins. Default: 180008. Applies after /reload.
+				price = 180008
+				#Shop value for ghroth_armory.tacz.guns.tacz_ai_awp.enabled. Enabled flag. Default: true. Applies after /reload.
+				enabled = true

@@ -1,0 +1,43 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:gravel",
+    "#immersive_ballistic:gravel"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "duration": 5,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 5,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:debris{block_state:{Name:\"%s\"},size:0.4}",
+      "count": 10,
+      "speed": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

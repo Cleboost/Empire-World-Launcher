@@ -1,0 +1,39 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:dirt",
+    "#immersive_ballistic:dirt"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.dirt.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 3
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.dirt.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 3
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.dirt.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.sand.break",
+      "volume": 0.8
+    }
+  ]
+}

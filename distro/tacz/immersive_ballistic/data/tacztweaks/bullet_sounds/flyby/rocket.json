@@ -1,0 +1,18 @@
+{
+  "type": "whizz",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:rpg_rocket"
+    ]
+  },
+  "sounds": [
+    {
+      "threshold": 18.0,
+      "sound": {
+        "sound": "tacztweaks:bullets.flyby.rocket",
+        "volume": 1.0
+      }
+    }
+  ]
+}

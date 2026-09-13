@@ -1,0 +1,81 @@
+{
+  "type": "block",
+  "target": {
+    "type": "all_of",
+    "terms": [
+      {
+        "type": "ammo",
+        "values": [
+          "tacz:338",
+          "tacz:45_70",
+          "tacz:792x57",
+          "tacz:762x54",
+          "tacz:30_06",
+          "hamster:long_ammo",
+          "suffuse:.408ct",
+          "suffuse:6.8tvcm"
+        ]
+      },
+      {
+        "type": "inverted",
+        "term": {
+          "type": "category",
+          "values": [
+            "mg"
+          ]
+        }
+      }
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:cloth",
+    "#immersive_ballistic:cloth"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 0.45,
+      "range": 12
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.sniper",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 0.45,
+      "range": 12
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.sniper",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.cloth.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.sniper",
+      "volume": 0.7,
+      "range": 124
+    }
+  ]
+}

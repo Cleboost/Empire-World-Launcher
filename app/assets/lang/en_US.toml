@@ -37,8 +37,15 @@ loginPasswordDisclaimer2 = "{appName} is not affiliated with Mojang AB."
 [ejs.loginOptions]
 loginOptionsTitle = "Login Options"
 loginWithMicrosoft = "Login with Microsoft"
-loginWithMojang = "Login with Mojang"
+loginWithOffline = "Play Offline"
 cancelButton = "Cancel"
+
+[ejs.offlineLogin]
+loginSubheader = "OFFLINE LOGIN"
+usernamePlaceholder = "USERNAME"
+usernameError = "* Invalid Value"
+loginButtonText = "PLAY"
+disclaimer = "Enter a username to play in offline mode. No Mojang account required."
 
 [ejs.overlay]
 serverSelectHeader = "Available Servers"
@@ -62,8 +69,8 @@ tabAccountHeaderText = "Account Settings"
 tabAccountHeaderDesc = "Add new accounts or manage existing ones."
 microsoftAccount = "Microsoft"
 addMicrosoftAccount = "+ Add Microsoft Account"
-mojangAccount = "Mojang"
-addMojangAccount = "+ Add Mojang Account"
+offlineAccount = "Offline"
+addOfflineAccount = "+ Add Offline Account"
 minecraftTabHeaderText = "Minecraft Settings"
 minecraftTabHeaderDesc = "Options related to game launch."
 gameResolutionTitle = "Game Resolution"
@@ -137,6 +144,19 @@ state = "Server: {shortId}"
 [js.index]
 microsoftLoginTitle = "Microsoft Login"
 microsoftLogoutTitle = "Microsoft Logout"
+
+[js.offlineLogin]
+login = "PLAY"
+loggingIn = "LOADING.."
+success = "SUCCESS"
+
+[js.offlineLogin.error]
+invalidValue = "* 3-16 characters, letters, numbers, and underscores only"
+requiredValue = "* Required"
+invalidUsernameTitle = "Invalid Username"
+invalidUsernameDesc = "Username must be 3-16 characters and contain only letters, numbers, and underscores."
+unknownTitle = "Something Went Wrong"
+unknownDesc = "Unable to create offline account. Please try again."
 
 [js.login]
 login = "LOGIN"

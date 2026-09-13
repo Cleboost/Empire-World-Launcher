@@ -1,0 +1,24 @@
+{
+  "type": "whizz",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "sounds": [
+    {
+      "threshold": 20,
+      "sound": [
+        {
+          "sound": "tacztweaks:bullets.flyby.50bmg",
+          "volume": 0.8
+        },
+        {
+          "sound": "tacztweaks:bullets.crack.50bmg",
+          "volume": 0.8
+        }
+      ]
+    }
+  ]
+}

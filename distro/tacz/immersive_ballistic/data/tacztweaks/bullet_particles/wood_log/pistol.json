@@ -1,0 +1,22 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:log",
+    "#immersive_ballistic:log"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "duration": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:wood_log{block_state:{Name:\"%s\"},size:0.5}",
+      "count": 4,
+      "speed": 1.5,
+      "force": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "supplementaries:raked_gravel",
+    "farmersdelight:rich_soil",
+    "farmersdelight:rich_soil_farmland",
+    "ae2:tiny_tnt",
+    "trmt:eroded_dirt",
+    "trmt:eroded_coarse_dirt",
+    "bf_blockpack:dirt_slab",
+    "bf_blockpack:vertical_dirt_slab",
+    "bf_blockpack:hanging_flower_pot"
+  ]
+}

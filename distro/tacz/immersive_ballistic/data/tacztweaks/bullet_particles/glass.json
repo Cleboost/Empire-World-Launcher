@@ -1,0 +1,15 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:glass",
+    "#immersive_ballistic:glass"
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:glass_shard{block_state:{Name:\"%s\"},size:3.4}",
+      "count": 8,
+      "speed": 3,
+      "force": true
+    }
+  ]
+}

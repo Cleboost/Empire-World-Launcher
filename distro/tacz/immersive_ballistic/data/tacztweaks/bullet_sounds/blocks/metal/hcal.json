@@ -1,0 +1,57 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal",
+    "#tacztweaks:metal",
+    "#immersive_ballistic:metal"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.metal.superhit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.metal.superhit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 0.45,
+      "range": 5
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 124
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.metal.superhit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:blocks.metal.break",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.crack.50bmg",
+      "volume": 0.7,
+      "range": 124
+    }
+  ]
+}

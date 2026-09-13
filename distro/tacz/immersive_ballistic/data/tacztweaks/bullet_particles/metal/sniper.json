@@ -1,0 +1,84 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:792x57",
+      "tacz:762x54",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal",
+    "#immersive_ballistic:metal"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:0.9,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:1.5,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 20,
+      "speed": 1.5,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:0.9,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:1.5,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 20,
+      "speed": 1.5,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 4,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:1.2,duration:25}",
+      "count": 1,
+      "speed": 1.0,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "immersive_ballistic:flash_impact{block_state:{Name:\"%s\"},size:0.9,duration:5}",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    }
+  ]
+}

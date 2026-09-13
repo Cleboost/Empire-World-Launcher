@@ -1,0 +1,15 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:40mm"
+    ]
+  },
+  "block_break": {
+    "type": "never"
+  },
+  "pierce": {
+    "type": "never"
+  }
+}

@@ -4,9 +4,24 @@
 
 <p align="center">Launcher officiel pour la Saison 4 d'Empire World, serveur Minecraft moddé en survie. Rejoins le serveur sans te soucier de Java, Forge ou des mods — on s'en occupe.</p>
 
+## Distribution (GitHub Pages)
+
+Modpack files live in `distro/` and deploy automatically to GitHub Pages on push.
+
+```bash
+# Regenerate from your Prism instance
+bun run generate:distro
+
+# Commit distro/ and push — GitHub Actions publishes to Pages
+```
+
+Enable **Settings → Pages → Build and deployment → GitHub Actions** once.
+
+Launcher URL: `https://cleboost.github.io/Empire-World-Launcher/distribution.json`
+
 ## Features
 
-* Full account management (Microsoft + Mojang)
+* Full account management (Microsoft + offline)
 * Automatic mod and asset management
 * Automatic Java validation and installation
 * News feed built into the launcher

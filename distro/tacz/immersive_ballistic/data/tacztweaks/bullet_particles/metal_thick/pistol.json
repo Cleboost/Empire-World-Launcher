@@ -1,0 +1,16 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:metal_thick",
+    "#immersive_ballistic:metal_thick"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "duration": 5,
+      "force": true
+    }
+  ]
+}

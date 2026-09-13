@@ -1,0 +1,33 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:fragile",
+    "#immersive_ballistic:fragile",
+    {
+      "type": "regex",
+      "regex": ".*(bamboo|((weathered|rusted).*bars)).*"
+    }
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "break": {
+    "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+    "count": 5,
+    "speed": 0.3,
+    "force": true
+  }
+}

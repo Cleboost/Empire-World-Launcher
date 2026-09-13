@@ -1,0 +1,17 @@
+	[hud.dealt_force_skills_assault_vyron]
+		#Skill button scale multiplier. Default: 1.0. Effective scale is clamped to 0.25-3.0 and the file is checked once per second.
+		button_scale = 1.0
+		#Pixel offset added to the standard skill HUD. Default: 0. The file is checked for changes once per second.
+		y_offset = 0
+		#Pixel offset added to the standard skill HUD. Default: 0. The file is checked for changes once per second.
+		x_offset = 0
+
+[global]
+	#Skill button scale multiplier. Default: 0.8. Effective scale is clamped to 0.25-3.0 and the file is checked once per second.
+	button_scale = 0.8
+	#Pixel offset added to the standard skill HUD. Default: 0. The file is checked for changes once per second.
+	y_offset = 0
+	#Pixel offset added to the standard skill HUD. Default: 208. The file is checked for changes once per second.
+	x_offset = 208
+	#Enable the HUD layout adjustments (skill buttons on the right of the health bar, scaled). Default: false. The file is checked for changes once per second.
+	hud_layout = false

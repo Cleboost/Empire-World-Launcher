@@ -1,0 +1,25 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:foliage",
+    "#immersive_ballistic:foliage"
+  ],
+  "hit": {
+    "particle": "immersive_ballistic:leaf{block_state:{Name:\"%s\"}}",
+    "count": 1,
+    "speed": 0.1,
+    "force": true
+  },
+  "pierce": {
+    "particle": "immersive_ballistic:leaf{block_state:{Name:\"%s\"}}",
+    "count": 3,
+    "speed": 2,
+    "force": true
+  },
+  "break": {
+    "particle": "immersive_ballistic:leaf{block_state:{Name:\"%s\"}}",
+    "count": 4,
+    "speed": 0.1,
+    "force": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:fabric",
+    "#immersive_ballistic:fabric"
+  ],
+  "block_break": {
+    "type": "dynamic_damage",
+    "multiplier": 0.04,
+    "render_bullet_hole": true,
+    "drop": false
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_falloff": 0.0
+  }
+}

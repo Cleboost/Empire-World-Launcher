@@ -1,0 +1,16 @@
+{
+  "description": "ES/EN: Desactiva pierce/break por bloque y bala. global.disablePierce/disableBreak = true desactiva ESE comportamiento en TODAS las interacciones sin excepcion; en false se aplican las reglas de abajo. rules[<bloque>][<bala>] = { pierce, break } (bala \"*\" = todas).",
+  "quickGuide": [
+    "global.disablePierce / global.disableBreak: true = desactiva en TODAS las interacciones",
+    "block key = tipo de bloque (wood, glass, metal... incluye los tuyos de block_tagger_rules)",
+    "bullet key = tipo de bala (sniper, hcal... incluye los tuyos de ammo_rules); \"*\" = todas",
+    "Ejemplo: rules.wood.sniper.pierce = true  ->  el sniper no perfora madera",
+    "ignoreInteractionRules=true en el .toml ignora TODO este archivo",
+    "Solo se aplica con forceUpdateBundledTweaks=true (parte de la sobrescritura del datapack)"
+  ],
+  "global": {
+    "disablePierce": false,
+    "disableBreak": false
+  },
+  "rules": {}
+}

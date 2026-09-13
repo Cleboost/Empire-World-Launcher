@@ -1,0 +1,21 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:40mm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:glass",
+    "#immersive_ballistic:glass"
+  ],
+  "block_break": {
+    "type": "dynamic_damage"
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "condition": "always"
+  }
+}

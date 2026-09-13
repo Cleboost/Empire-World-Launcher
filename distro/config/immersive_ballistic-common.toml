@@ -1,0 +1,20 @@
+#Sistema de datapack / Datapack system
+[datapack]
+	#MASTER. false = SOLO particulas; ignora TODO el sistema de datapack
+	#(copia, force-update, tag rules, ammo rules, interaction rules).
+	#Lo que ya exista en /tacz se deja tal cual.
+	enableDatapackSystem = true
+	#Copia el datapack base a /tacz cuando no existe.
+	copyBundledTweaksToTacz = true
+	#Sobrescribe el datapack desplegado (base + reglas) en cada arranque.
+	#false = tus ediciones manuales en /tacz no se tocan.
+	forceUpdateBundledTweaks = true
+
+#Reglas / Rules
+[rules]
+	#true = no inyecta los targets de ammo_rules.json.
+	ignoreAmmoRules = false
+	#true = ignora por completo interaction_rules.json (ni global ni reglas).
+	ignoreInteractionRules = false
+	#Genera tags de bloque desde block_tagger_rules.json.
+	autoGenerateBlockTags = true

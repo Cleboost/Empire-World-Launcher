@@ -1,0 +1,55 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:fabric",
+    "#immersive_ballistic:fabric"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:fabric{block_state:{Name:\"%s\"}}",
+      "count": 25,
+      "speed": 4,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:2,duration:35}",
+      "count": 1,
+      "speed": 1.2,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 15,
+      "speed": 3,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:fabric{block_state:{Name:\"%s\"}}",
+      "count": 35,
+      "speed": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:2.4,duration:45}",
+      "count": 1,
+      "speed": 1.2,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 3,
+      "force": true
+    }
+  ]
+}

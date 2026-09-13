@@ -1,0 +1,31 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal",
+    "#tacztweaks:metal",
+    "#immersive_ballistic:metal"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.metal.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 5
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.metal.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.rifle",
+      "volume": 0.45,
+      "range": 5
+    }
+  ]
+}

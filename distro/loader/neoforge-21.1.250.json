@@ -1,0 +1,30 @@
+{
+  "id": "21.1.250",
+  "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
+  "arguments": {
+    "jvm": [
+      "-Djava.library.path=${natives_directory}",
+      "-Djna.tmpdir=${natives_directory}",
+      "-Dorg.lwjgl.system.SharedLibraryExtractPath=${natives_directory}",
+      "-Dio.netty.native.workdir=${natives_directory}",
+      "-Dminecraft.launcher.brand=${launcher_name}",
+      "-Dminecraft.launcher.version=${launcher_version}",
+      "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,neoforge-",
+      "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
+      "-Dfml.earlyprogress=false",
+      "-DlibraryDirectory=${library_directory}"
+    ],
+    "game": [
+      "--launchTarget",
+      "forgeclient",
+      "--fml.neoForgeVersion",
+      "21.1.250",
+      "--fml.fmlVersion",
+      "4.0.44",
+      "--fml.mcVersion",
+      "1.21.1",
+      "--fml.neoFormVersion",
+      "20240808.144430"
+    ]
+  }
+}

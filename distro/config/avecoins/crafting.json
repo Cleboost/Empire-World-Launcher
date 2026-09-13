@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "coinCraftingEnabled": true,
+  "coins": {
+    "avecoins:coppercoin": true,
+    "avecoins:ironcoin": true,
+    "avecoins:goldcoin": true,
+    "avecoins:diamondcoin": true,
+    "avecoins:netheritecoin": true
+  },
+  "ticketCraftingEnabled": true,
+  "tickets": {
+    "avecoins:goldticket": true,
+    "avecoins:diamondticket": true,
+    "avecoins:netheriteticket": true
+  }
+}

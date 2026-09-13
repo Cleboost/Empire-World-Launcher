@@ -1,0 +1,18 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:log",
+    "#immersive_ballistic:log"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.wood_log.hit",
+      "volume": 0.8
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 0.45,
+      "range": 3
+    }
+  ]
+}

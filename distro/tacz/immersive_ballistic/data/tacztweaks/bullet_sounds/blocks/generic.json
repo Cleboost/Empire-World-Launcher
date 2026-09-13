@@ -1,0 +1,14 @@
+{
+    "type": "block",
+    "hit": [
+        {
+            "sound": "tacztweaks:generic.impact",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:bullets.ricochet.pistol",
+            "volume": 0.45,
+            "range": 3
+        }
+    ]
+}

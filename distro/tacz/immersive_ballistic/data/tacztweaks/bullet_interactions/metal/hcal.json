@@ -1,0 +1,25 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:metals/metal",
+    "#immersive_ballistic:metals/metal"
+  ],
+  "block_break": {
+    "type": "dynamic_damage",
+    "multiplier": 0.6,
+    "drop": false
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_multiplier": 1.0,
+    "conditional": false,
+    "damage_falloff": 1.0
+  }
+}

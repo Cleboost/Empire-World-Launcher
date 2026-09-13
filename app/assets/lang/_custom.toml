@@ -13,6 +13,8 @@ mediaDiscordURL = "#"
 [ejs.settings]
 sourceGithubLink = "https://github.com/Cleboost/Empire-World-Launcher"
 supportLink = "https://github.com/Cleboost/Empire-World-Launcher/issues"
+offlineAccount = "Offline"
+addOfflineAccount = "+ Ajouter un compte offline"
 
 [ejs.welcome]
 welcomeHeader = "EMPIRE WORLD — SAISON 4"
@@ -22,3 +24,12 @@ welcomeDescCTA = "Tu es à quelques clics de la Saison 4."
 [js.landing.discord]
 joining = "Connexion à Empire World Saison 4.."
 joined = "Survie — Saison 4 !"
+
+[ejs.loginOptions]
+loginWithOffline = "Jouer en crack / offline"
+
+[ejs.offlineLogin]
+loginSubheader = "CONNEXION OFFLINE"
+usernamePlaceholder = "PSEUDO"
+loginButtonText = "JOUER"
+disclaimer = "Entre un pseudo pour jouer en mode offline. Aucun compte Mojang requis."

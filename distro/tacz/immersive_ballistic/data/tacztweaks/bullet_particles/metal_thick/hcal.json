@@ -1,0 +1,27 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:metal_thick",
+    "#immersive_ballistic:metal_thick"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:explosion_smoke",
+      "count": 1,
+      "speed": 6,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:metal_spark",
+      "count": 5,
+      "speed": 4,
+      "force": true
+    }
+  ]
+}

@@ -1,0 +1,2286 @@
+{
+    "silence": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:silence"
+            }
+        ]
+    },
+    "blocks.cloth.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/cloth/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/cloth/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/cloth/hit03"
+            }
+        ]
+    },
+    "blocks.concrete.break": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/break01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/break02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/break03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/break04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/break05"
+            }
+        ]
+    },
+    "blocks.concrete.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/hit05"
+            }
+        ]
+    },
+    "blocks.concrete.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/impact04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/concrete/impact05"
+            }
+        ]
+    },
+    "blocks.dirt.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/hit07"
+            }
+        ]
+    },
+    "blocks.dirt.debris": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/debris01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/debris02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/debris03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/dirt/debris04"
+            }
+        ]
+    },
+    "blocks.fabric.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit11"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fabric/hit12"
+            }
+        ]
+    },
+    "blocks.foliage.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/foliage/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/foliage/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/foliage/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/foliage/impact04"
+            }
+        ]
+    },
+    "blocks.fragile.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fragile/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fragile/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fragile/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fragile/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/fragile/hit05"
+            }
+        ]
+    },
+    "blocks.glass.break": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/break01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/break02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/break03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/break04"
+            }
+        ]
+    },
+    "blocks.glass.debris": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/debris01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/debris02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/debris03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/debris04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/debris05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/debris06"
+            }
+        ]
+    },
+    "blocks.glass.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/glass/impact04"
+            }
+        ]
+    },
+    "blocks.grass.debris": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/debris01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/debris02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/debris03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/debris04"
+            }
+        ]
+    },
+    "blocks.grass.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/grass/hit05"
+            }
+        ]
+    },
+    "blocks.gravel.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/gravel/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/gravel/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/gravel/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/gravel/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/gravel/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/gravel/hit06"
+            }
+        ]
+    },
+    "blocks.ice.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/ice/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/ice/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/ice/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/ice/impact04"
+            }
+        ]
+    },
+    "blocks.metal.break": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/break01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/break02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/break03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/break04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/break05"
+            }
+        ]
+    },
+    "blocks.metal.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/hit08"
+            }
+        ]
+    },
+    "blocks.metal.superhit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/superhit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/superhit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/superhit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/superhit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/superhit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/superhit06"
+            }
+        ]
+    },
+    "blocks.metal.debris": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal/debris07"
+            }
+        ]
+    },
+    "blocks.metal_thick.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/metal_thick/hit07"
+            }
+        ]
+    },
+    "blocks.mud.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/mud/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/mud/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/mud/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/mud/impact04"
+            }
+        ]
+    },
+    "blocks.sand.break": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/break01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/break02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/break03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/break04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/break05"
+            }
+        ]
+    },
+    "blocks.sand.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/sand/hit10"
+            }
+        ]
+    },
+    "blocks.snow.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/snow/hit08"
+            }
+        ]
+    },
+    "blocks.stone.break": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/break01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/break02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/break03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/break04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/break05"
+            }
+        ]
+    },
+    "blocks.stone.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/stone/hit11"
+            }
+        ]
+    },
+    "blocks.wood.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/hit09"
+            }
+        ]
+    },
+    "blocks.wood.debris": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/debris07"
+            }
+        ]
+    },
+    "blocks.wood.break": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood/break09"
+            }
+        ]
+    },
+    "blocks.wood_log.debris": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/debris07"
+            }
+        ]
+    },
+    "blocks.wood_log.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:blocks/wood_log/hit04"
+            }
+        ]
+    },
+    "bullets.flyby.50bmg": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/50bmg/10"
+            }
+        ]
+    },
+    "bullets.flyby.pistol": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/pistol/11"
+            }
+        ]
+    },
+    "bullets.flyby.rifle": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/11"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/12"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/13"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/14"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/15"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rifle/16"
+            }
+        ]
+    },
+    "bullets.flyby.rocket": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rocket/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rocket/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rocket/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rocket/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rocket/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/rocket/06"
+            }
+        ]
+    },
+    "bullets.flyby.sniper": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/11"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/12"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/flyby/sniper/13"
+            }
+        ]
+    },
+    "bullets.crack.50bmg": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/50bmg/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/50bmg/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/50bmg/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/50bmg/04"
+            }
+        ]
+    },
+    "bullets.crack.rifle": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/rifle/10"
+            }
+        ]
+    },
+    "bullets.crack.sniper": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/crack/sniper/07"
+            }
+        ]
+    },
+    "bullets.ricochet.50bmg": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/50bmg/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/50bmg/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/50bmg/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/50bmg/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/50bmg/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/50bmg/06"
+            }
+        ]
+    },
+    "bullets.ricochet.pistol": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/pistol/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/pistol/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/pistol/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/pistol/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/pistol/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/pistol/06"
+            }
+        ]
+    },
+    "bullets.ricochet.rifle": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/rifle/11"
+            }
+        ]
+    },
+    "bullets.ricochet.sniper": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/sniper/08"
+            }
+        ]
+    },
+    "bullets.ricochet.mg": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/mg/01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/mg/02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/mg/03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/mg/04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/mg/05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:bullets/ricochet/mg/06"
+            }
+        ]
+    },
+    "generic.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact0"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact1"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact2"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact3"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact4"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact5"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact6"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact7"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact8"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact9"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:generic/impact11"
+            }
+        ]
+    },
+    "reverb.12g.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/12g/close"
+            }
+        ]
+    },
+    "reverb.12g.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/12g/far"
+            }
+        ]
+    },
+    "reverb.12g.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/12g/medium"
+            }
+        ]
+    },
+    "reverb.12g.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/12g/superfar"
+            }
+        ]
+    },
+    "reverb.30-06.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/30-06/close"
+            }
+        ]
+    },
+    "reverb.30-06.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/30-06/far"
+            }
+        ]
+    },
+    "reverb.30-06.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/30-06/medium"
+            }
+        ]
+    },
+    "reverb.30-06.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/30-06/superfar"
+            }
+        ]
+    },
+    "reverb.308.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/308/close"
+            }
+        ]
+    },
+    "reverb.308.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/308/far"
+            }
+        ]
+    },
+    "reverb.308.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/308/medium"
+            }
+        ]
+    },
+    "reverb.308.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/308/superfar"
+            }
+        ]
+    },
+    "reverb.338.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/338/close"
+            }
+        ]
+    },
+    "reverb.338.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/338/far"
+            }
+        ]
+    },
+    "reverb.338.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/338/medium"
+            }
+        ]
+    },
+    "reverb.338.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/338/superfar"
+            }
+        ]
+    },
+    "reverb.357_mag.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/357_mag/close"
+            }
+        ]
+    },
+    "reverb.357_mag.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/357_mag/far"
+            }
+        ]
+    },
+    "reverb.357_mag.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/357_mag/medium"
+            }
+        ]
+    },
+    "reverb.357_mag.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/357_mag/superfar"
+            }
+        ]
+    },
+    "reverb.45_70.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45_70/close"
+            }
+        ]
+    },
+    "reverb.45_70.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45_70/far"
+            }
+        ]
+    },
+    "reverb.45_70.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45_70/medium"
+            }
+        ]
+    },
+    "reverb.45_70.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45_70/superfar"
+            }
+        ]
+    },
+    "reverb.45acp.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45acp/close"
+            }
+        ]
+    },
+    "reverb.45acp.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45acp/far"
+            }
+        ]
+    },
+    "reverb.45acp.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45acp/medium"
+            }
+        ]
+    },
+    "reverb.45acp.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/45acp/superfar"
+            }
+        ]
+    },
+    "reverb.46x30.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/46x30/close"
+            }
+        ]
+    },
+    "reverb.46x30.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/46x30/far"
+            }
+        ]
+    },
+    "reverb.46x30.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/46x30/medium"
+            }
+        ]
+    },
+    "reverb.46x30.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/46x30/superfar"
+            }
+        ]
+    },
+    "reverb.50ae.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50ae/close"
+            }
+        ]
+    },
+    "reverb.50ae.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50ae/far"
+            }
+        ]
+    },
+    "reverb.50ae.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50ae/medium"
+            }
+        ]
+    },
+    "reverb.50ae.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50ae/superfar"
+            }
+        ]
+    },
+    "reverb.50bmg.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50bmg/close"
+            }
+        ]
+    },
+    "reverb.50bmg.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50bmg/far"
+            }
+        ]
+    },
+    "reverb.50bmg.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50bmg/medium"
+            }
+        ]
+    },
+    "reverb.50bmg.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/50bmg/superfar"
+            }
+        ]
+    },
+    "reverb.57x28.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/57x28/close"
+            }
+        ]
+    },
+    "reverb.57x28.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/57x28/far"
+            }
+        ]
+    },
+    "reverb.57x28.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/57x28/medium"
+            }
+        ]
+    },
+    "reverb.57x28.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/57x28/superfar"
+            }
+        ]
+    },
+    "reverb.58x42.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/58x42/close"
+            }
+        ]
+    },
+    "reverb.58x42.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/58x42/far"
+            }
+        ]
+    },
+    "reverb.58x42.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/58x42/medium"
+            }
+        ]
+    },
+    "reverb.58x42.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/58x42/superfar"
+            }
+        ]
+    },
+    "reverb.5_56x45.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/5_56x45/close"
+            }
+        ]
+    },
+    "reverb.5_56x45.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/5_56x45/far"
+            }
+        ]
+    },
+    "reverb.5_56x45.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/5_56x45/medium"
+            }
+        ]
+    },
+    "reverb.5_56x45.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/5_56x45/superfar"
+            }
+        ]
+    },
+    "reverb.68x51fury.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/68x51fury/close"
+            }
+        ]
+    },
+    "reverb.68x51fury.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/68x51fury/far"
+            }
+        ]
+    },
+    "reverb.68x51fury.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/68x51fury/medium"
+            }
+        ]
+    },
+    "reverb.68x51fury.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/68x51fury/superfar"
+            }
+        ]
+    },
+    "reverb.762x25.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x25/close"
+            }
+        ]
+    },
+    "reverb.762x25.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x25/far"
+            }
+        ]
+    },
+    "reverb.762x25.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x25/medium"
+            }
+        ]
+    },
+    "reverb.762x25.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x25/superfar"
+            }
+        ]
+    },
+    "reverb.762x54.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x54/close"
+            }
+        ]
+    },
+    "reverb.762x54.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x54/far"
+            }
+        ]
+    },
+    "reverb.762x54.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x54/medium"
+            }
+        ]
+    },
+    "reverb.762x54.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/762x54/superfar"
+            }
+        ]
+    },
+    "reverb.7_62x39.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/7_62x39/close"
+            }
+        ]
+    },
+    "reverb.7_62x39.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/7_62x39/far"
+            }
+        ]
+    },
+    "reverb.7_62x39.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/7_62x39/medium"
+            }
+        ]
+    },
+    "reverb.7_62x39.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/7_62x39/superfar"
+            }
+        ]
+    },
+    "reverb.9mm.close": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/9mm/close"
+            }
+        ]
+    },
+    "reverb.9mm.far": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/9mm/far"
+            }
+        ]
+    },
+    "reverb.9mm.medium": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/9mm/medium"
+            }
+        ]
+    },
+    "reverb.9mm.superfar": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/9mm/superfar"
+            }
+        ]
+    },
+    "reverb.rocket.crack": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:reverb/rocket/crack01"
+            }
+        ]
+    },
+    "shared.body.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/body/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/body/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/body/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/body/hit04"
+            }
+        ]
+    },
+    "shared.flesh.hit": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/flesh/hit01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/flesh/hit02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/flesh/hit03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/flesh/hit04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/flesh/hit05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/flesh/hit06"
+            }
+        ]
+    },
+    "entity.flesh.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact00"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact04"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact05"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact06"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact07"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact08"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact09"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact10"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/impact11"
+            }
+        ]
+    },
+    "entity.flesh.head": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/head00"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/head01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/head02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/head03"
+            }
+        ]
+    },
+    "entity.flesh.local": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/local00"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/local01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/local02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/local03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:entity/flesh/local04"
+            }
+        ]
+    },
+    "shared.mortar.incoming": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/mortar/incoming01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/mortar/incoming02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/mortar/incoming03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:shared/mortar/incoming04"
+            }
+        ]
+    },
+    "fluids.water.pistol.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/pistol/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/pistol/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/pistol/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/pistol/impact04"
+            }
+        ]
+    },
+    "fluids.water.rifle.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/rifle/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/rifle/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/rifle/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/rifle/impact04"
+            }
+        ]
+    },
+    "fluids.water.sniper.impact": {
+        "sounds": [
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/sniper/impact01"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/sniper/impact02"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/sniper/impact03"
+            },
+            {
+                "type": "file",
+                "name": "tacztweaks:fluids/water/sniper/impact04"
+            }
+        ]
+    }
+}

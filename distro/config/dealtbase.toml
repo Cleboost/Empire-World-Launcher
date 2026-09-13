@@ -1,0 +1,43 @@
+[redemption]
+	#Whether players may redeem previously sold items.
+	enabled = true
+
+	[facilities.training_center]
+		#Maximum upgrade level. Supported range: 0 to 7.
+		max_level = 7
+		#Whether this facility's purchased upgrade effects are active. Stored levels are preserved when false.
+		effects_enabled = true
+
+	[facilities.decontamination_room]
+		#Maximum upgrade level. Supported range: 0 to 3.
+		max_level = 3
+		#Whether this facility's purchased upgrade effects are active. Stored levels are preserved when false.
+		effects_enabled = true
+
+	[facilities.command_center]
+		#Maximum upgrade level. Supported range: 0 to 8.
+		max_level = 8
+		#Whether this facility's purchased upgrade effects are active. Stored levels are preserved when false.
+		effects_enabled = true
+
+	[facilities.shooting_range]
+		#Maximum upgrade level. Supported range: 0 to 7.
+		max_level = 7
+		#Whether this facility's purchased upgrade effects are active. Stored levels are preserved when false.
+		effects_enabled = true
+
+	[facilities.diving_center]
+		#Maximum upgrade level. Supported range: 0 to 3.
+		max_level = 3
+		#Whether this facility's purchased upgrade effects are active. Stored levels are preserved when false.
+		effects_enabled = true
+
+	[facilities.warehouse]
+		#Maximum upgrade level. Supported range: 0 to 10.
+		max_level = 10
+		#Whether this facility's purchased upgrade effects are active. Stored levels are preserved when false.
+		effects_enabled = true
+
+[gti]
+	#Whether the GTI Special Operations access point redemption/buyback function is available.
+	redemption_enabled = true

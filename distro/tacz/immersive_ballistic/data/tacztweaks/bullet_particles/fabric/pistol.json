@@ -1,0 +1,49 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:fabric",
+    "#immersive_ballistic:fabric"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:fabric{block_state:{Name:\"%s\"}}",
+      "count": 5,
+      "speed": 0.8,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 5,
+      "speed": 1,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:fabric{block_state:{Name:\"%s\"}}",
+      "count": 5,
+      "speed": 0.8,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:dust_cloud{block_state:{Name:\"minecraft:white_wool\"},size:0.8,duration:25}",
+      "count": 1,
+      "speed": 0.4,
+      "force": true,
+      "duration": 5
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 5,
+      "speed": 1,
+      "force": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "type": "block",
+    "blocks": [
+        "#tacztweaks:glass",
+        "#immersive_ballistic:glass",
+        {
+            "type": "regex",
+            "regex": ".*(glass|crystal).*"
+        }
+    ],
+    "hit": [
+        {
+            "sound": "tacztweaks:blocks.glass.impact",
+            "volume": 0.8
+        }
+    ],
+    "pierce": [
+        {
+            "sound": "tacztweaks:blocks.glass.impact",
+            "volume": 0.8
+        }
+    ],
+    "break": [
+        {
+            "sound": "tacztweaks:blocks.glass.break",
+            "volume": 0.8
+        },
+        {
+            "sound": "tacztweaks:blocks.glass.debris",
+            "volume": 0.8
+        }
+    ]
+}

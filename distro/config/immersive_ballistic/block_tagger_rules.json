@@ -1,0 +1,146 @@
+{
+  "description": "ES: Config de auto-tagging para immersive_ballistic. Edita soundMap, materialRules y explicitAdds/explicitRemoves para customizar bloques. | EN: Auto-tagging config for immersive_ballistic. Edit soundMap, materialRules and explicitAdds/explicitRemoves to customize blocks.",
+  "quickGuide": [
+    "soundMap: ES palabra del sonido -\u003e tag destino | EN sound keyword -\u003e target tag",
+    "materialRules: ES reglas regex include/exclude | EN regex include/exclude rules",
+    "explicitAdds: ES anade ids/tags exactos por tag | EN add exact ids/tags per tag",
+    "explicitRemoves: ES elimina ids/tags exactos por tag | EN remove exact ids/tags per tag",
+    "ignore*: ES filtros globales antes de escribir JSON | EN global filters before writing JSON"
+  ],
+  "outputNamespaces": [
+    "immersive_ballistic"
+  ],
+  "soundMap": {
+    "amethyst": "stone",
+    "dripstone": "stone",
+    "pointed_dripstone": "stone",
+    "tuff": "stone",
+    "calcite": "stone",
+    "bamboo": "wood",
+    "scaffolding": "wood",
+    "chain": "metal",
+    "lantern": "metal",
+    "wood": "wood",
+    "stone": "stone",
+    "basalt": "stone",
+    "deepslate": "stone",
+    "metal": "metal",
+    "iron": "metal",
+    "gold": "metal",
+    "copper": "metal",
+    "netherite": "metal_thick",
+    "anvil": "metal_thick",
+    "glass": "glass",
+    "grass": "grass",
+    "gravel": "gravel",
+    "sand": "sand",
+    "mud": "mud",
+    "snow": "cloth",
+    "wool": "cloth",
+    "moss": "cloth",
+    "crop": "foliage",
+    "vine": "foliage",
+    "azalea": "foliage"
+  },
+  "materialRules": [
+    {
+      "name": "concrete",
+      "include": ".*concrete.*",
+      "exclude": [
+        ".*powder.*"
+      ]
+    },
+    {
+      "name": "stone",
+      "include": ".*(dripstone|amethyst|geode|tuff|calcite).*",
+      "exclude": []
+    },
+    {
+      "name": "metal",
+      "include": ".*(bars|chain|lantern|torch).*",
+      "exclude": [
+        ".*wood.*"
+      ]
+    },
+    {
+      "name": "metal_thick",
+      "include": ".*(netherite|anvil|reinforced|bunker|vault|engine).*",
+      "exclude": []
+    },
+    {
+      "name": "cloth",
+      "include": ".*(wool|carpet|canvas|fabric).*",
+      "exclude": []
+    },
+    {
+      "name": "glass",
+      "include": ".*(glass|pane|mirror).*",
+      "exclude": []
+    },
+    {
+      "name": "foliage",
+      "include": ".*(hay|straw|thatch).*",
+      "exclude": []
+    },
+    {
+      "name": "log",
+      "include": ".*(log|stem|hyphae).*",
+      "exclude": []
+    }
+  ],
+  "explicitAdds": {
+    "woods/wooden_door": [
+      "#minecraft:wooden_doors",
+      "#minecraft:wooden_trapdoors"
+    ],
+    "glass": [
+      "#forge:glass",
+      "#forge:glass_panes"
+    ],
+    "metal": [
+      "#forge:storage_blocks/iron",
+      "#forge:storage_blocks/copper"
+    ]
+  },
+  "explicitRemoves": {
+    "glass": [
+      "minecraft:reinforced_deepslate"
+    ]
+  },
+  "ignoreMods": [
+    "minecraft"
+  ],
+  "ignoreNames": [
+    "wall_sign",
+    "wall_torch",
+    "head",
+    "potted"
+  ],
+  "ignoreExactIds": [
+    "minecraft:barrier",
+    "minecraft:light",
+    "tacz:target"
+  ],
+  "ignoreCustomRegex": [
+    "^create:.*_window$",
+    "^.*:reinforced_glass$"
+  ],
+  "managedTags": [
+    "concrete",
+    "dirt",
+    "grass",
+    "gravel",
+    "metal",
+    "sand",
+    "stone",
+    "wood",
+    "cloth",
+    "foliage",
+    "glass",
+    "ice",
+    "metal_thick",
+    "mud",
+    "log",
+    "woods/wooden_door"
+  ]
+}

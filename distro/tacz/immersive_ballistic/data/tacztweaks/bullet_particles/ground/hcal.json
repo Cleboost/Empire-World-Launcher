@@ -1,0 +1,75 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:dirt",
+    "#immersive_ballistic:dirt",
+    "#tacztweaks:grass",
+    "#immersive_ballistic:grass"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:2,duration:25}",
+      "count": 1,
+      "speed": 0.9,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:debris{block_state:{Name:\"minecraft:dirt\"},size:0.2}",
+      "count": 20,
+      "speed": 3,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:2,duration:25}",
+      "count": 1,
+      "speed": 0.9,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:debris{block_state:{Name:\"minecraft:dirt\"},size:0.2}",
+      "count": 20,
+      "speed": 3,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:dirt_dust{size:2,duration:25}",
+      "count": 1,
+      "speed": 0.9,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:debris{block_state:{Name:\"minecraft:dirt\"},size:0.2}",
+      "count": 20,
+      "speed": 3,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block{block_state:{Name:\"%s\"}}",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

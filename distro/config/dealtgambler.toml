@@ -1,0 +1,72 @@
+army_ids = ["undead", "arthropod", "illager", "atlantis", "coalition", "ancient", "nether", "ender"]
+
+#Used when /gamerule dealtgambler is true. Values use mob max health + attack damage.
+[dynamic_armies]
+	max_mob_types = 8
+	min_total_value = 5000
+	max_mobs = 64
+	max_total_value = 7500
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.atlantis]
+		total_value = 60
+		elite_value_cap = 18
+		mandatory_units = []
+		units = ["mob=minecraft:drowned|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword", "mob=minecraft:drowned|value=2|weight=3|tier=basic|mainhand=minecraft:trident", "mob=minecraft:guardian|value=8|weight=2|tier=elite", "mob=minecraft:elder_guardian|value=22|weight=1|tier=elite"]
+		max_mobs = 72
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.nether]
+		total_value = 60
+		elite_value_cap = 18
+		mandatory_units = []
+		units = ["mob=minecraft:zombified_piglin|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword", "mob=minecraft:piglin|value=2|weight=6|tier=basic|mainhand=minecraft:crossbow", "mob=minecraft:hoglin|value=5|weight=3|tier=basic", "mob=minecraft:magma_cube|value=3|weight=4|tier=basic", "mob=minecraft:wither_skeleton|value=5|weight=3|tier=elite|mainhand=minecraft:iron_sword", "mob=minecraft:blaze|value=7|weight=2|tier=elite", "mob=minecraft:piglin_brute|value=8|weight=2|tier=elite|mainhand=minecraft:iron_axe", "mob=minecraft:ghast|value=14|weight=1|tier=elite"]
+		max_mobs = 72
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.illager]
+		total_value = 60
+		elite_value_cap = 18
+		mandatory_units = []
+		units = ["mob=minecraft:pillager|value=3|weight=8|tier=basic|mainhand=minecraft:crossbow", "mob=minecraft:vindicator|value=4|weight=5|tier=basic|mainhand=minecraft:iron_axe", "mob=minecraft:witch|value=6|weight=3|tier=elite", "mob=minecraft:evoker|value=13|weight=1|tier=elite", "mob=minecraft:ravager|value=18|weight=1|tier=elite"]
+		max_mobs = 72
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.undead]
+		total_value = 60
+		elite_value_cap = 18
+		mandatory_units = []
+		units = ["mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword", "mob=minecraft:zombie_villager|value=1|weight=4|tier=basic|mainhand=minecraft:iron_axe", "mob=minecraft:skeleton|value=2|weight=5|tier=basic|mainhand=minecraft:bow", "mob=minecraft:phantom|value=3|weight=2|tier=basic", "mob=minecraft:skeleton_horse|value=5|weight=1|tier=elite", "mob=minecraft:wither|value=48|weight=1|tier=elite"]
+		max_mobs = 72
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.coalition]
+		total_value = 60
+		elite_value_cap = 18
+		mandatory_units = []
+		units = ["mob=minecraft:husk|value=1|weight=8|tier=basic|mainhand=minecraft:iron_axe", "mob=minecraft:stray|value=2|weight=5|tier=basic|mainhand=minecraft:bow", "mob=minecraft:slime|value=2|weight=4|tier=basic", "mob=minecraft:creeper|value=4|weight=2|tier=basic", "mob=minecraft:illusioner|value=12|weight=1|tier=elite"]
+		max_mobs = 72
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.arthropod]
+		total_value = 96
+		elite_value_cap = 24
+		mandatory_units = []
+		units = ["mob=minecraft:silverfish|value=1|weight=8|tier=basic", "mob=minecraft:endermite|value=1|weight=8|tier=basic", "mob=minecraft:spider|value=2|weight=4|tier=basic", "mob=minecraft:cave_spider|value=2|weight=4|tier=basic", "mob=minecraft:cave_spider|value=2|weight=2|tier=elite", "mob=minecraft:spider|value=2|weight=2|tier=elite"]
+		max_mobs = 104
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.ender]
+		total_value = 104
+		elite_value_cap = 30
+		mandatory_units = []
+		units = ["mob=minecraft:endermite|value=1|weight=14|tier=basic", "mob=minecraft:enderman|value=5|weight=4|tier=basic", "mob=minecraft:shulker|value=10|weight=2|tier=elite"]
+		max_mobs = 88
+
+	#Unit format: mob=minecraft:zombie|value=1|weight=8|tier=basic|mainhand=minecraft:iron_sword|mainhand_nbt={Enchantments:[]}|head=minecraft:iron_helmet. Slots: mainhand, offhand, head, chest, legs, feet; add <slot>_nbt for item NBT.
+	[armies.ancient]
+		total_value = 140
+		elite_value_cap = 72
+		mandatory_units = ["mob=minecraft:warden|value=60|weight=1|tier=elite"]
+		units = ["mob=minecraft:villager|value=1|weight=12|tier=basic", "mob=minecraft:iron_golem|value=16|weight=2|tier=basic", "mob=minecraft:warden|value=60|weight=1|tier=elite"]
+		max_mobs = 88

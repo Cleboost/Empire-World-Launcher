@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "supplementaries:daub",
+    "supplementaries:daub_frame",
+    "supplementaries:daub_brace",
+    "supplementaries:daub_cross_brace",
+    "bf_blockpack:mud_large_layered_bricks",
+    "bf_blockpack:mud_small_bricks",
+    "bf_blockpack:mud_small_layered_bricks",
+    "bf_blockpack:mud_column",
+    "bf_blockpack:vertical_mud_brick_slab",
+    "bf_blockpack:mud_tiles",
+    "bf_blockpack:mud_guardrail",
+    "bf_blockpack:chimney_mud",
+    "bf_blockpack:trash_bag",
+    "bf_blockpack:mud_chiseled"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:anvil",
+        "minecraft:netherite_block",
+        "minecraft:diamond_block",
+        "minecraft:emerald_block",
+        "minecraft:beacon",
+        "minecraft:conduit",
+        "minecraft:blast_furnace",
+        "minecraft:lodestone"
+    ]
+}

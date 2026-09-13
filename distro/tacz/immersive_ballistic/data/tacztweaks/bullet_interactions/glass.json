@@ -1,0 +1,19 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:glass",
+    "#immersive_ballistic:glass"
+  ],
+  "block_break": {
+    "type": "dynamic_damage",
+    "multiplier": 0.9,
+    "accumulate": true,
+    "render_bullet_hole": true,
+    "drop": false
+  },
+  "pierce": {
+    "type": "damage",
+    "damage_multiplier": 1.2,
+    "render_bullet_hole": true
+  }
+}

@@ -1,0 +1,315 @@
+[beacon]
+	#Boss config for beacon.armor_phase1. Default: 20.0. Runtime-read values apply after /reload.
+	armor_phase1 = 20.0
+	#Boss config for beacon.armor_phase2. Default: 15.0. Runtime-read values apply after /reload.
+	armor_phase2 = 15.0
+	#Boss config for beacon.attack_range. Unit: blocks. Default: 40.0. Runtime-read values apply after /reload.
+	attack_range = 40.0
+	#Boss config for beacon.fear_on_hit. Default: 4. Runtime-read values apply after /reload.
+	fear_on_hit = 4
+	#Boss config for beacon.teleport_min_distance. Unit: blocks. Default: 20. Runtime-read values apply after /reload.
+	teleport_min_distance = 20
+	#Boss config for beacon.hit_injury_chance. Default: 0.5. Runtime-read values apply after /reload.
+	hit_injury_chance = 0.5
+	#Boss config for beacon.fear_on_glow_hit. Default: 2. Runtime-read values apply after /reload.
+	fear_on_glow_hit = 2
+	#Boss config for beacon.max_hit_fraction. Unit: fraction; 1.0 means 100%. Default: 0.35. Runtime-read values apply after /reload.
+	max_hit_fraction = 0.35
+	#Boss config for beacon.teleport_max_distance. Unit: blocks. Default: 40. Runtime-read values apply after /reload.
+	teleport_max_distance = 40
+	#Boss config for beacon.knockback_resistance. Default: 0.6. Runtime-read values apply after /reload.
+	knockback_resistance = 0.6
+	#Boss config for beacon.strafe_speed. Default: 1.2. Runtime-read values apply after /reload.
+	strafe_speed = 1.2
+	#Boss config for beacon.strafe_interval_ticks. Unit: ticks; 20 ticks = 1 second. Default: 5. Runtime-read values apply after /reload.
+	strafe_interval_ticks = 5
+	#Boss config for beacon.ideal_distance_min. Unit: blocks. Default: 12.0. Runtime-read values apply after /reload.
+	ideal_distance_min = 12.0
+	#Boss config for beacon.lock_teleport_max. Unit: blocks. Default: 50. Runtime-read values apply after /reload.
+	lock_teleport_max = 50
+	#Boss config for beacon.damage_phase2. Default: 20.0. Runtime-read values apply after /reload.
+	damage_phase2 = 20.0
+	#Boss config for beacon.damage_phase1. Default: 15.0. Runtime-read values apply after /reload.
+	damage_phase1 = 15.0
+	#Boss config for beacon.lock_no_damage_teleport_ticks. Unit: ticks; 20 ticks = 1 second. Default: 120. Runtime-read values apply after /reload.
+	lock_no_damage_teleport_ticks = 120
+	#Boss config for beacon.teleport_hp_chunk. Unit: Minecraft health points; 2 points = 1 heart. Default: 100.0. Runtime-read values apply after /reload.
+	teleport_hp_chunk = 100.0
+	#Boss config for beacon.kill_heal. Unit: Minecraft health points; 2 points = 1 heart. Default: 100.0. Runtime-read values apply after /reload.
+	kill_heal = 100.0
+	#Boss config for beacon.shoot_interval_ticks. Unit: ticks; 20 ticks = 1 second. Default: 10. Runtime-read values apply after /reload.
+	shoot_interval_ticks = 10
+	#Boss config for beacon.glow_duration_ticks. Unit: ticks; 20 ticks = 1 second. Default: 120. Runtime-read values apply after /reload.
+	glow_duration_ticks = 120
+	#Boss config for beacon.ideal_distance_max. Unit: blocks. Default: 22.0. Runtime-read values apply after /reload.
+	ideal_distance_max = 22.0
+	#Boss config for beacon.aura_interval_ticks. Unit: ticks; 20 ticks = 1 second. Default: 30. Runtime-read values apply after /reload.
+	aura_interval_ticks = 30
+	#Boss config for beacon.follow_range. Unit: blocks. Default: 50.0. Runtime-read values apply after /reload.
+	follow_range = 50.0
+	#Boss config for beacon.lock_teleport_min. Unit: blocks. Default: 30. Runtime-read values apply after /reload.
+	lock_teleport_min = 30
+	#Boss config for beacon.aura_radius. Unit: blocks. Default: 50. Runtime-read values apply after /reload.
+	aura_radius = 50
+	#Boss config for beacon.aura_blind_ticks. Unit: ticks; 20 ticks = 1 second. Default: 20. Runtime-read values apply after /reload.
+	aura_blind_ticks = 20
+	#Boss config for beacon.movement_speed. Default: 6.0. Runtime-read values apply after /reload.
+	movement_speed = 6.0
+	#Boss config for beacon.fire_burst_ticks. Unit: ticks; 20 ticks = 1 second. Default: 60. Runtime-read values apply after /reload.
+	fire_burst_ticks = 60
+	#Boss config for beacon.max_health. Unit: Minecraft health points; 2 points = 1 heart. Default: 500.0. Runtime-read values apply after /reload.
+	max_health = 500.0
+	#Boss config for beacon.teleport_cooldown_ticks. Unit: ticks; 20 ticks = 1 second. Default: 100. Runtime-read values apply after /reload.
+	teleport_cooldown_ticks = 100
+	#Boss config for beacon.reload_ticks. Unit: ticks; 20 ticks = 1 second. Default: 60. Runtime-read values apply after /reload.
+	reload_ticks = 60
+
+	[beacon.summon]
+		#Boss config for beacon.summon.delay_ticks. Unit: ticks; 20 ticks = 1 second. Default: 40. Runtime-read values apply after /reload.
+		delay_ticks = 40
+		#Boss config for beacon.summon.cooldown_ticks. Unit: ticks; 20 ticks = 1 second. Default: 1200. Runtime-read values apply after /reload.
+		cooldown_ticks = 1200
+
+	[beacon.loot]
+		#Boss config for beacon.loot.experience. Default: 5345. Runtime-read values apply after /reload.
+		experience = 5345
+
+	[beacon.fear]
+		#Boss config for beacon.fear.execute_reset_stacks. Default: 50. Runtime-read values apply after /reload.
+		execute_reset_stacks = 50
+		#Boss config for beacon.fear.decay_per_second. Default: 3. Runtime-read values apply after /reload.
+		decay_per_second = 3
+		#Boss config for beacon.fear.speed_penalty_per_percent. Default: 0.01. Runtime-read values apply after /reload.
+		speed_penalty_per_percent = 0.01
+		#Boss config for beacon.fear.death_retain_fraction. Unit: fraction; 1.0 means 100%. Default: 0.75. Runtime-read values apply after /reload.
+		death_retain_fraction = 0.75
+		#Boss config for beacon.fear.execute_threshold. Default: 100. Runtime-read values apply after /reload.
+		execute_threshold = 100
+		#Boss config for beacon.fear.decay_idle_ticks. Unit: ticks; 20 ticks = 1 second. Default: 100. Runtime-read values apply after /reload.
+		decay_idle_ticks = 100
+		#Boss config for beacon.fear.kill_splash_amount. Default: 25. Runtime-read values apply after /reload.
+		kill_splash_amount = 25
+		#Boss config for beacon.fear.kill_splash_radius. Unit: blocks. Default: 10. Runtime-read values apply after /reload.
+		kill_splash_radius = 10
+		#Boss config for beacon.fear.speed_stacks_per_percent. Default: 5. Runtime-read values apply after /reload.
+		speed_stacks_per_percent = 5
+
+[accelerated_troops]
+	#Boss config for accelerated_troops.member_armor. Default: 20.0. Runtime-read values apply after /reload.
+	member_armor = 20.0
+	#Boss config for accelerated_troops.utility_uses_per_window. Default: 8. Runtime-read values apply after /reload.
+	utility_uses_per_window = 8
+	#Boss config for accelerated_troops.shield_recovery_ticks. Unit: ticks; 20 ticks = 1 second. Default: 2400. Runtime-read values apply after /reload.
+	shield_recovery_ticks = 2400
+	#Boss config for accelerated_troops.utility_obstacle_threshold. Default: 8. Runtime-read values apply after /reload.
+	utility_obstacle_threshold = 8
+	#Boss config for accelerated_troops.squad_size. Default: 6. Runtime-read values apply after /reload.
+	squad_size = 6
+	#Boss config for accelerated_troops.armor_toughness. Default: 0.0. Runtime-read values apply after /reload.
+	armor_toughness = 0.0
+	#Boss config for accelerated_troops.knockback_resistance. Default: 0.5. Runtime-read values apply after /reload.
+	knockback_resistance = 0.5
+	#Boss config for accelerated_troops.utility_near_distance. Unit: blocks. Default: 12.0. Runtime-read values apply after /reload.
+	utility_near_distance = 12.0
+	#Boss config for accelerated_troops.melee_damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 4.0. Runtime-read values apply after /reload.
+	melee_damage = 4.0
+	#Boss config for accelerated_troops.formation_max_distance. Unit: blocks. Default: 6.0. Runtime-read values apply after /reload.
+	formation_max_distance = 6.0
+	#Boss config for accelerated_troops.shield_durability. Default: 750.0. Runtime-read values apply after /reload.
+	shield_durability = 750.0
+	#Boss config for accelerated_troops.utility_min_interval_ticks. Unit: ticks; 20 ticks = 1 second. Default: 12. Runtime-read values apply after /reload.
+	utility_min_interval_ticks = 12
+	#Boss config for accelerated_troops.member_max_health. Unit: Minecraft health points; 2 points = 1 heart. Default: 125.0. Runtime-read values apply after /reload.
+	member_max_health = 125.0
+	#Boss config for accelerated_troops.music_repeat_ticks. Unit: ticks; 20 ticks = 1 second. Default: 2420. Runtime-read values apply after /reload.
+	music_repeat_ticks = 2420
+	#Boss config for accelerated_troops.roll_cooldown_ticks. Unit: ticks; 20 ticks = 1 second. Default: 120. Runtime-read values apply after /reload.
+	roll_cooldown_ticks = 120
+	#Boss config for accelerated_troops.spawn_chance_percent. Default: 25. Runtime-read values apply after /reload.
+	spawn_chance_percent = 25
+	#Boss config for accelerated_troops.spawn_min_distance. Unit: blocks. Default: 128. Runtime-read values apply after /reload.
+	spawn_min_distance = 128
+	#Boss config for accelerated_troops.roll_distance. Unit: blocks. Default: 4.0. Runtime-read values apply after /reload.
+	roll_distance = 4.0
+	#Boss config for accelerated_troops.interference_radius. Unit: blocks. Default: 20.0. Runtime-read values apply after /reload.
+	interference_radius = 20.0
+	#Boss config for accelerated_troops.shoot_interval_ticks. Unit: ticks; 20 ticks = 1 second. Default: 2. Runtime-read values apply after /reload.
+	shoot_interval_ticks = 2
+	#Boss config for accelerated_troops.attacker_switch_heal_fraction. Unit: fraction; 1.0 means 100%. Default: 0.1. Runtime-read values apply after /reload.
+	attacker_switch_heal_fraction = 0.1
+	#Boss config for accelerated_troops.follow_range. Unit: blocks. Default: 75.0. Runtime-read values apply after /reload.
+	follow_range = 75.0
+	#Boss config for accelerated_troops.spawn_max_distance. Unit: blocks. Default: 256. Runtime-read values apply after /reload.
+	spawn_max_distance = 256
+	#Boss config for accelerated_troops.movement_speed. Default: 0.1. Runtime-read values apply after /reload.
+	movement_speed = 0.1
+	#Boss config for accelerated_troops.warning_segment_ticks. Unit: ticks; 20 ticks = 1 second. Default: 160. Runtime-read values apply after /reload.
+	warning_segment_ticks = 160
+	#Boss config for accelerated_troops.non_player_damage_multiplier. Default: 0.05. Runtime-read values apply after /reload.
+	non_player_damage_multiplier = 0.05
+	#Boss config for accelerated_troops.attacker_switch_heal_cooldown_ticks. Unit: ticks; 20 ticks = 1 second. Default: 100. Runtime-read values apply after /reload.
+	attacker_switch_heal_cooldown_ticks = 100
+	#Boss config for accelerated_troops.warning_duration_ticks. Unit: ticks; 20 ticks = 1 second. Default: 400. Runtime-read values apply after /reload.
+	warning_duration_ticks = 400
+	#Boss config for accelerated_troops.repeated_player_damage_bonus. Default: 0.1. Runtime-read values apply after /reload.
+	repeated_player_damage_bonus = 0.1
+	#Boss config for accelerated_troops.utility_window_ticks. Unit: ticks; 20 ticks = 1 second. Default: 320. Runtime-read values apply after /reload.
+	utility_window_ticks = 320
+	#Boss config for accelerated_troops.respawn_lockout_ticks. Unit: ticks; 20 ticks = 1 second. Default: 36000. Runtime-read values apply after /reload.
+	respawn_lockout_ticks = 36000
+
+		[accelerated_troops.payload.suppression_stim]
+			#Boss config for accelerated_troops.payload.suppression_stim.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 4.0. Runtime-read values apply after /reload.
+			damage = 4.0
+			#Boss config for accelerated_troops.payload.suppression_stim.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 160. Runtime-read values apply after /reload.
+			effect_ticks = 160
+			#Boss config for accelerated_troops.payload.suppression_stim.radius. Default: 4.0. Runtime-read values apply after /reload.
+			radius = 4.0
+			#Boss config for accelerated_troops.payload.suppression_stim.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 22. Runtime-read values apply after /reload.
+			fuse_ticks = 22
+
+		[accelerated_troops.payload.wall_drill]
+			#Boss config for accelerated_troops.payload.wall_drill.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 8.0. Runtime-read values apply after /reload.
+			damage = 8.0
+			#Boss config for accelerated_troops.payload.wall_drill.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 80. Runtime-read values apply after /reload.
+			effect_ticks = 80
+			#Boss config for accelerated_troops.payload.wall_drill.radius. Default: 4.0. Runtime-read values apply after /reload.
+			radius = 4.0
+			#Boss config for accelerated_troops.payload.wall_drill.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 24. Runtime-read values apply after /reload.
+			fuse_ticks = 24
+
+		[accelerated_troops.payload.frag]
+			#Boss config for accelerated_troops.payload.frag.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 14.0. Runtime-read values apply after /reload.
+			damage = 14.0
+			#Boss config for accelerated_troops.payload.frag.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 0. Runtime-read values apply after /reload.
+			effect_ticks = 0
+			#Boss config for accelerated_troops.payload.frag.radius. Default: 5.0. Runtime-read values apply after /reload.
+			radius = 5.0
+			#Boss config for accelerated_troops.payload.frag.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 30. Runtime-read values apply after /reload.
+			fuse_ticks = 30
+
+		[accelerated_troops.payload.triple_hand_cannon]
+			#Boss config for accelerated_troops.payload.triple_hand_cannon.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 12.0. Runtime-read values apply after /reload.
+			damage = 12.0
+			#Boss config for accelerated_troops.payload.triple_hand_cannon.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 0. Runtime-read values apply after /reload.
+			effect_ticks = 0
+			#Boss config for accelerated_troops.payload.triple_hand_cannon.radius. Default: 4.0. Runtime-read values apply after /reload.
+			radius = 4.0
+			#Boss config for accelerated_troops.payload.triple_hand_cannon.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 24. Runtime-read values apply after /reload.
+			fuse_ticks = 24
+
+		[accelerated_troops.payload.tear_gas]
+			#Boss config for accelerated_troops.payload.tear_gas.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 2.0. Runtime-read values apply after /reload.
+			damage = 2.0
+			#Boss config for accelerated_troops.payload.tear_gas.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 160. Runtime-read values apply after /reload.
+			effect_ticks = 160
+			#Boss config for accelerated_troops.payload.tear_gas.radius. Default: 5.0. Runtime-read values apply after /reload.
+			radius = 5.0
+			#Boss config for accelerated_troops.payload.tear_gas.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 30. Runtime-read values apply after /reload.
+			fuse_ticks = 30
+
+		[accelerated_troops.payload.composite_incendiary]
+			#Boss config for accelerated_troops.payload.composite_incendiary.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 10.0. Runtime-read values apply after /reload.
+			damage = 10.0
+			#Boss config for accelerated_troops.payload.composite_incendiary.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 120. Runtime-read values apply after /reload.
+			effect_ticks = 120
+			#Boss config for accelerated_troops.payload.composite_incendiary.radius. Default: 6.0. Runtime-read values apply after /reload.
+			radius = 6.0
+			#Boss config for accelerated_troops.payload.composite_incendiary.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 30. Runtime-read values apply after /reload.
+			fuse_ticks = 30
+
+		[accelerated_troops.payload.quick_flash]
+			#Boss config for accelerated_troops.payload.quick_flash.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 1.0. Runtime-read values apply after /reload.
+			damage = 1.0
+			#Boss config for accelerated_troops.payload.quick_flash.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 80. Runtime-read values apply after /reload.
+			effect_ticks = 80
+			#Boss config for accelerated_troops.payload.quick_flash.radius. Default: 7.0. Runtime-read values apply after /reload.
+			radius = 7.0
+			#Boss config for accelerated_troops.payload.quick_flash.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 16. Runtime-read values apply after /reload.
+			fuse_ticks = 16
+
+		[accelerated_troops.payload.shock_orb]
+			#Boss config for accelerated_troops.payload.shock_orb.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 4.0. Runtime-read values apply after /reload.
+			damage = 4.0
+			#Boss config for accelerated_troops.payload.shock_orb.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 80. Runtime-read values apply after /reload.
+			effect_ticks = 80
+			#Boss config for accelerated_troops.payload.shock_orb.radius. Default: 7.0. Runtime-read values apply after /reload.
+			radius = 7.0
+			#Boss config for accelerated_troops.payload.shock_orb.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 28. Runtime-read values apply after /reload.
+			fuse_ticks = 28
+
+		[accelerated_troops.payload.spiderling]
+			#Boss config for accelerated_troops.payload.spiderling.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 10.0. Runtime-read values apply after /reload.
+			damage = 10.0
+			#Boss config for accelerated_troops.payload.spiderling.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 200. Runtime-read values apply after /reload.
+			effect_ticks = 200
+			#Boss config for accelerated_troops.payload.spiderling.radius. Default: 3.5. Runtime-read values apply after /reload.
+			radius = 3.5
+			#Boss config for accelerated_troops.payload.spiderling.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 18. Runtime-read values apply after /reload.
+			fuse_ticks = 18
+
+		[accelerated_troops.payload.tiger_cannon]
+			#Boss config for accelerated_troops.payload.tiger_cannon.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 16.0. Runtime-read values apply after /reload.
+			damage = 16.0
+			#Boss config for accelerated_troops.payload.tiger_cannon.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 30. Runtime-read values apply after /reload.
+			effect_ticks = 30
+			#Boss config for accelerated_troops.payload.tiger_cannon.radius. Default: 5.5. Runtime-read values apply after /reload.
+			radius = 5.5
+			#Boss config for accelerated_troops.payload.tiger_cannon.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 32. Runtime-read values apply after /reload.
+			fuse_ticks = 32
+
+		[accelerated_troops.payload.dewar]
+			#Boss config for accelerated_troops.payload.dewar.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 5.0. Runtime-read values apply after /reload.
+			damage = 5.0
+			#Boss config for accelerated_troops.payload.dewar.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 120. Runtime-read values apply after /reload.
+			effect_ticks = 120
+			#Boss config for accelerated_troops.payload.dewar.radius. Default: 5.5. Runtime-read values apply after /reload.
+			radius = 5.5
+			#Boss config for accelerated_troops.payload.dewar.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 24. Runtime-read values apply after /reload.
+			fuse_ticks = 24
+
+		[accelerated_troops.payload.pulse]
+			#Boss config for accelerated_troops.payload.pulse.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 1.0. Runtime-read values apply after /reload.
+			damage = 1.0
+			#Boss config for accelerated_troops.payload.pulse.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 100. Runtime-read values apply after /reload.
+			effect_ticks = 100
+			#Boss config for accelerated_troops.payload.pulse.radius. Default: 10.0. Runtime-read values apply after /reload.
+			radius = 10.0
+			#Boss config for accelerated_troops.payload.pulse.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 28. Runtime-read values apply after /reload.
+			fuse_ticks = 28
+
+		[accelerated_troops.payload.medical_waste]
+			#Boss config for accelerated_troops.payload.medical_waste.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 2.0. Runtime-read values apply after /reload.
+			damage = 2.0
+			#Boss config for accelerated_troops.payload.medical_waste.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 160. Runtime-read values apply after /reload.
+			effect_ticks = 160
+			#Boss config for accelerated_troops.payload.medical_waste.radius. Default: 6.0. Runtime-read values apply after /reload.
+			radius = 6.0
+			#Boss config for accelerated_troops.payload.medical_waste.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 30. Runtime-read values apply after /reload.
+			fuse_ticks = 30
+
+		[accelerated_troops.payload.shock_arrow]
+			#Boss config for accelerated_troops.payload.shock_arrow.damage. Unit: Minecraft health points; 2 points = 1 heart. Default: 8.0. Runtime-read values apply after /reload.
+			damage = 8.0
+			#Boss config for accelerated_troops.payload.shock_arrow.effect_ticks. Unit: ticks; 20 ticks = 1 second. Default: 50. Runtime-read values apply after /reload.
+			effect_ticks = 50
+			#Boss config for accelerated_troops.payload.shock_arrow.radius. Default: 4.0. Runtime-read values apply after /reload.
+			radius = 4.0
+			#Boss config for accelerated_troops.payload.shock_arrow.fuse_ticks. Unit: ticks; 20 ticks = 1 second. Default: 20. Runtime-read values apply after /reload.
+			fuse_ticks = 20
+
+	[accelerated_troops.portable_ads]
+		#Boss config for accelerated_troops.portable_ads.active_ticks. Unit: ticks; 20 ticks = 1 second. Default: 300. Runtime-read values apply after /reload.
+		active_ticks = 300
+		#Boss config for accelerated_troops.portable_ads.cooldown_ticks. Unit: ticks; 20 ticks = 1 second. Default: 1200. Runtime-read values apply after /reload.
+		cooldown_ticks = 1200
+
+	[accelerated_troops.loot]
+		#Boss config for accelerated_troops.loot.premium_coffee_min_count. Default: 3. Runtime-read values apply after /reload.
+		premium_coffee_min_count = 3
+		#Boss config for accelerated_troops.loot.premium_coffee_chance. Default: 0.75. Runtime-read values apply after /reload.
+		premium_coffee_chance = 0.75
+		#Boss config for accelerated_troops.loot.premium_coffee_max_count. Default: 6. Runtime-read values apply after /reload.
+		premium_coffee_max_count = 6
+		#Boss config for accelerated_troops.loot.respawn_beacon_chance. Default: 0.5. Runtime-read values apply after /reload.
+		respawn_beacon_chance = 0.5
