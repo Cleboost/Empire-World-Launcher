@@ -14,14 +14,12 @@
   "scripts": {
     "start": "electron .",
     "dist": "electron-builder build",
-    "dist:win": "npm run dist -- -w",
-    "dist:mac": "npm run dist -- -m",
-    "dist:linux": "npm run dist -- -l",
+    "dist:win": "bun run dist -- -w",
+    "dist:mac": "bun run dist -- -m",
+    "dist:linux": "bun run dist -- -l",
     "lint": "eslint ."
   },
-  "engines": {
-    "node": "22.x.x"
-  },
+  "packageManager": "bun@1.3.13",
   "dependencies": {
     "@electron/remote": "^2.1.3",
     "adm-zip": "^0.5.16",

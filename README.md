@@ -84,7 +84,7 @@ This section details the setup of a basic developmentment environment.
 
 **System Requirements**
 
-* [Node.js][nodejs] v22
+* [Bun][bun] v1.3+
 
 ---
 
@@ -93,7 +93,7 @@ This section details the setup of a basic developmentment environment.
 ```console
 > git clone https://github.com/dscalzi/HeliosLauncher.git
 > cd HeliosLauncher
-> npm install
+> bun install
 ```
 
 ---
@@ -101,7 +101,7 @@ This section details the setup of a basic developmentment environment.
 **Launch Application**
 
 ```console
-> npm start
+> bun start
 ```
 
 ---
@@ -111,16 +111,16 @@ This section details the setup of a basic developmentment environment.
 To build for your current platform.
 
 ```console
-> npm run dist
+> bun run dist
 ```
 
 Build for a specific platform.
 
-| Platform    | Command              |
-| ----------- | -------------------- |
-| Windows x64 | `npm run dist:win`   |
-| macOS       | `npm run dist:mac`   |
-| Linux x64   | `npm run dist:linux` |
+| Platform    | Command               |
+| ----------- | --------------------- |
+| Windows x64 | `bun run dist:win`    |
+| macOS       | `bun run dist:mac`    |
+| Linux x64   | `bun run dist:linux`  |
 
 Builds for macOS may not work on Windows/Linux and vice-versa.
 
@@ -200,7 +200,7 @@ The best way to contact the developers is on Discord.
 ### See you ingame.
 
 
-[nodejs]: https://nodejs.org/en/ 'Node.js'
+[bun]: https://bun.sh/ 'Bun'
 [vscode]: https://code.visualstudio.com/ 'Visual Studio Code'
 [mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'
 [rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
