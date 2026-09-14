@@ -130,6 +130,12 @@ function libraryPathFromName(name) {
   return join(PRISM_LIBS, group.replace(/\./g, '/'), artifact, version, `${artifact}-${fileVersion}.${ext}`)
 }
 
+/** Libraries kept for install/runtime but not on BootstrapLauncher legacy classpath. */
+const BOOT_CLASSPATH_SKIP = new Set([
+  'org.openjdk.nashorn:nashorn-core',
+  'net.fabricmc:sponge-mixin'
+])
+
 function buildLoaderModules() {
   const neoforgeMeta = JSON.parse(readFileSync(PRISM_META, 'utf8'))
   const runtimeLibraries = neoforgeMeta.libraries ?? []
@@ -141,9 +147,6 @@ function buildLoaderModules() {
 
   const libraryModules = []
   for (const lib of runtimeLibraries) {
-    if (lib.name.startsWith('io.github.zekerzhayard:ForgeWrapper')) {
-      continue
-    }
     if (lib.name.startsWith('net.neoforged:neoforge:21.1.250:installer')) {
       continue
     }
@@ -169,10 +172,32 @@ function buildLoaderModules() {
       ? `${nameParts.slice(0, 3).join(':')}@${nameParts[3]}`
       : nameParts.slice(0, 3).join(':')
 
+    const mavenCoords = `${nameParts[0]}:${nameParts[1]}`
+
     libraryModules.push({
       id: mavenId,
       name: lib.name,
       type: 'Library',
+      ...(BOOT_CLASSPATH_SKIP.has(mavenCoords) ? { classpath: false } : {}),
+      artifact: {
+        size: artifact.size,
+        MD5: existsSync(localPath) ? md5File(localPath) : artifact.sha1,
+        url: artifact.url
+      }
+    })
+  }
+
+  const installer = mavenFiles.find(l => l.name === `net.neoforged:neoforge:${SERVER.neoforgeVersion}:installer`)
+  if (installer?.downloads?.artifact?.url) {
+    const nameParts = installer.name.split(':')
+    const mavenId = `${nameParts.slice(0, 3).join(':')}@${nameParts[3]}`
+    const artifact = installer.downloads.artifact
+    const localPath = join(PRISM_LIBS, 'net/neoforged/neoforge/21.1.250/neoforge-21.1.250-installer.jar')
+    libraryModules.push({
+      id: mavenId,
+      name: installer.name,
+      type: 'Library',
+      classpath: false,
       artifact: {
         size: artifact.size,
         MD5: existsSync(localPath) ? md5File(localPath) : artifact.sha1,
@@ -194,7 +219,7 @@ function buildLoaderModules() {
 
   const versionManifest = {
     id: SERVER.neoforgeVersion,
-    mainClass: 'cpw.mods.bootstraplauncher.BootstrapLauncher',
+    mainClass: 'io.github.zekerzhayard.forgewrapper.installer.Main',
     arguments: {
       jvm: [
         '-Djava.library.path=${natives_directory}',
@@ -206,6 +231,7 @@ function buildLoaderModules() {
         '-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,neoforge-',
         '-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar',
         '-Dfml.earlyprogress=false',
+        '-Dfml.earlyWindowControl=false',
         '-DlibraryDirectory=${library_directory}',
         ...neoforgeJvmOpens
       ],

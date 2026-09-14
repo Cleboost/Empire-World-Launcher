@@ -12,7 +12,7 @@ const ConfigManager            = require('./configmanager')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
 
-/** Required when launching BootstrapLauncher directly (Prism uses ForgeWrapper instead). */
+/** Required when launching NeoForge (ForgeWrapper or BootstrapLauncher). */
 const NEOFORGE_JVM_OPENS = [
     '--add-opens=java.base/java.lang.invoke=ALL-UNNAMED',
     '--add-opens=java.base/java.nio=ALL-UNNAMED',
@@ -59,6 +59,41 @@ class ProcessBuilder {
         }
         return 'mojang'
     }
+
+    /**
+     * ForgeWrapper expects Prism/MultiMC library layout for the vanilla client jar
+     * and NeoForge installer metadata on disk.
+     */
+    _ensureNeoForgeLaunchLayout(){
+        if(!mcVersionAtLeast('1.17', this.server.rawServer.minecraftVersion)) {
+            return
+        }
+        if(this.modManifest.mainClass !== 'io.github.zekerzhayard.forgewrapper.installer.Main'
+            && this.modManifest.mainClass !== 'cpw.mods.bootstraplauncher.BootstrapLauncher') {
+            return
+        }
+
+        const mcVersion = this.server.rawServer.minecraftVersion
+        const vanillaJar = path.join(this.commonDir, 'versions', mcVersion, mcVersion + '.jar')
+        const prismClientJar = path.join(this.libPath, 'com', 'mojang', 'minecraft', mcVersion, `minecraft-${mcVersion}-client.jar`)
+
+        if(fs.existsSync(vanillaJar)) {
+            fs.ensureDirSync(path.dirname(prismClientJar))
+            if(!fs.existsSync(prismClientJar)) {
+                try {
+                    fs.symlinkSync(vanillaJar, prismClientJar)
+                    logger.info('Linked vanilla client jar for ForgeWrapper:', prismClientJar)
+                } catch (err) {
+                    if(!fs.existsSync(prismClientJar)) {
+                        fs.copyFileSync(vanillaJar, prismClientJar)
+                        logger.info('Copied vanilla client jar for ForgeWrapper:', prismClientJar)
+                    }
+                }
+            }
+        } else {
+            logger.warn('Vanilla client jar missing, ForgeWrapper may fail:', vanillaJar)
+        }
+    }
     
     /**
      * Convienence method to run the functions typically used to build a process.
@@ -83,6 +118,7 @@ class ProcessBuilder {
         }
         
         const uberModArr = modObj.fMods.concat(modObj.lMods)
+        this._ensureNeoForgeLaunchLayout()
         let args = this.constructJVMArguments(uberModArr, tempNativePath)
 
         if(mcVersionAtLeast('1.13', this.server.rawServer.minecraftVersion)){
@@ -438,8 +474,15 @@ class ProcessBuilder {
             }
         }
 
-        if(this.modManifest.mainClass === 'cpw.mods.bootstraplauncher.BootstrapLauncher') {
-            args = args.concat(NEOFORGE_JVM_OPENS)
+        if(this.modManifest.mainClass === 'cpw.mods.bootstraplauncher.BootstrapLauncher'
+            || this.modManifest.mainClass === 'io.github.zekerzhayard.forgewrapper.installer.Main') {
+            const seen = new Set()
+            for (const flag of NEOFORGE_JVM_OPENS) {
+                if (!seen.has(flag)) {
+                    seen.add(flag)
+                    args.push(flag)
+                }
+            }
         }
 
         //args.push('-Dlog4j.configurationFile=D:\\WesterosCraft\\game\\common\\assets\\log_configs\\client-1.12.xml')

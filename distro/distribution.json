@@ -38,9 +38,19 @@
               "name": "NeoForge Version Manifest",
               "type": "VersionManifest",
               "artifact": {
-                "size": 1330,
-                "MD5": "30186b3d2e00a42b47b6e2b2e7ed3c50",
+                "size": 1376,
+                "MD5": "c347465119299dcbf03c9647a379e14d",
                 "url": "https://cleboost.github.io/Empire-World-Launcher/loader/neoforge-21.1.250.json"
+              }
+            },
+            {
+              "id": "io.github.zekerzhayard:ForgeWrapper:prism-2026-08-01",
+              "name": "io.github.zekerzhayard:ForgeWrapper:prism-2026-08-01",
+              "type": "Library",
+              "artifact": {
+                "size": 29800,
+                "MD5": "e4e703b50199ca286d35f4161a34e521",
+                "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2026-08-01/ForgeWrapper-prism-2026-08-01.jar"
               }
             },
             {
@@ -197,6 +207,7 @@
               "id": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
               "name": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 1494751,
                 "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
@@ -207,6 +218,7 @@
               "id": "org.openjdk.nashorn:nashorn-core:15.4",
               "name": "org.openjdk.nashorn:nashorn-core:15.4",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
@@ -481,6 +493,17 @@
                 "size": 250861,
                 "MD5": "fcc3e4df4990088c964f687b62f7c448",
                 "url": "https://maven.neoforged.net/releases/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:neoforge:21.1.250@installer",
+              "name": "net.neoforged:neoforge:21.1.250:installer",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 6972109,
+                "MD5": "f9c778063ae778b92530742cba48d15d",
+                "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.250/neoforge-21.1.250-installer.jar"
               }
             }
           ]
@@ -1409,7 +1432,7 @@
           "type": "File",
           "artifact": {
             "size": 8786,
-            "MD5": "33e8e229ab60287102719dd26ca93818",
+            "MD5": "e520391f3e6861224d8342ebe6aa8726",
             "url": "https://cleboost.github.io/Empire-World-Launcher/config/ftbchunks-client.snbt",
             "path": "ftbchunks-client.snbt"
           }

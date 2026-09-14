@@ -1,6 +1,6 @@
 {
   "id": "21.1.250",
-  "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
+  "mainClass": "io.github.zekerzhayard.forgewrapper.installer.Main",
   "arguments": {
     "jvm": [
       "-Djava.library.path=${natives_directory}",
@@ -12,6 +12,7 @@
       "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,neoforge-",
       "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
       "-Dfml.earlyprogress=false",
+      "-Dfml.earlyWindowControl=false",
       "-DlibraryDirectory=${library_directory}",
       "--add-opens=java.base/java.lang.invoke=ALL-UNNAMED",
       "--add-opens=java.base/java.nio=ALL-UNNAMED",
