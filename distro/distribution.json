@@ -47481,17 +47481,6 @@
             "url": "https://cleboost.github.io/Empire-World-Launcher/tacz/immersive_ballistic/gunpack.meta.json",
             "path": "immersive_ballistic/gunpack.meta.json"
           }
-        },
-        {
-          "id": "file.empireworld:.export-state.json:1.0.0",
-          "name": ".export-state.json",
-          "type": "File",
-          "artifact": {
-            "size": 155,
-            "MD5": "9d591409fc3eda31e5948430fc69a9b7",
-            "url": "https://cleboost.github.io/Empire-World-Launcher/tacz/.export-state.json",
-            "path": ".export-state.json"
-          }
         }
       ]
     }

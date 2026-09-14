@@ -105,6 +105,9 @@ function copyTree(srcDir, destDir, urlPrefix) {
 function walkFiles(dir) {
   const out = []
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    if (entry.name.startsWith('.')) {
+      continue
+    }
     const full = join(dir, entry.name)
     if (entry.isDirectory()) {
       out.push(...walkFiles(full))
