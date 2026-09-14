@@ -907,6 +907,14 @@ class ProcessBuilder {
         for(let mdl of mdls){
             const type = mdl.rawModule.type
             if(type === Type.ForgeHosted || type === Type.Fabric || type === Type.Library){
+                // NeoForge 1.17+ loads the universal jar as a mod module, not legacy -cp.
+                if(type === Type.ForgeHosted && mcVersionAtLeast('1.17', this.server.rawServer.minecraftVersion)) {
+                    if(mdl.subModules.length > 0){
+                        const res = this._resolveModuleLibraries(mdl)
+                        libs = {...libs, ...res}
+                    }
+                    continue
+                }
                 libs[mdl.getVersionlessMavenIdentifier()] = mdl.getPath()
                 if(mdl.subModules.length > 0){
                     const res = this._resolveModuleLibraries(mdl)

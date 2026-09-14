@@ -3120,50 +3120,6 @@
           }
         },
         {
-          "id": "file.empireworld:jei_world_local_New_World_lookupHistory.json:1.0.0",
-          "name": "jei/world/local/New World/lookupHistory.json",
-          "type": "File",
-          "artifact": {
-            "size": 466,
-            "MD5": "085a017f5b91d6cd57645b4bed54f5ec",
-            "url": "https://cleboost.github.io/Empire-World-Launcher/config/jei/world/local/New World/lookupHistory.json",
-            "path": "jei/world/local/New World/lookupHistory.json"
-          }
-        },
-        {
-          "id": "file.empireworld:jei_world_server_Minecraft_Server__empire-world_camply_dev__lookupHistory.json:1.0.0",
-          "name": "jei/world/server/Minecraft Server (empire-world_camply_dev)/lookupHistory.json",
-          "type": "File",
-          "artifact": {
-            "size": 1880,
-            "MD5": "b1021380b5213d5044b495712afbe308",
-            "url": "https://cleboost.github.io/Empire-World-Launcher/config/jei/world/server/Minecraft Server (empire-world_camply_dev)/lookupHistory.json",
-            "path": "jei/world/server/Minecraft Server (empire-world_camply_dev)/lookupHistory.json"
-          }
-        },
-        {
-          "id": "file.empireworld:jei_world_server_Minecraft_Server__100_64_239_178__bookmarks.json:1.0.0",
-          "name": "jei/world/server/Minecraft Server (100_64_239_178)/bookmarks.json",
-          "type": "File",
-          "artifact": {
-            "size": 110,
-            "MD5": "c4080ba60f294735ea6d25fea4ba397d",
-            "url": "https://cleboost.github.io/Empire-World-Launcher/config/jei/world/server/Minecraft Server (100_64_239_178)/bookmarks.json",
-            "path": "jei/world/server/Minecraft Server (100_64_239_178)/bookmarks.json"
-          }
-        },
-        {
-          "id": "file.empireworld:jei_world_server_Minecraft_Server__100_64_239_178__lookupHistory.json:1.0.0",
-          "name": "jei/world/server/Minecraft Server (100_64_239_178)/lookupHistory.json",
-          "type": "File",
-          "artifact": {
-            "size": 606,
-            "MD5": "070c962f7dde81c90c0dbbf010c1fcc1",
-            "url": "https://cleboost.github.io/Empire-World-Launcher/config/jei/world/server/Minecraft Server (100_64_239_178)/lookupHistory.json",
-            "path": "jei/world/server/Minecraft Server (100_64_239_178)/lookupHistory.json"
-          }
-        },
-        {
           "id": "file.empireworld:jei_jei-client.ini:1.0.0",
           "name": "jei/jei-client.ini",
           "type": "File",

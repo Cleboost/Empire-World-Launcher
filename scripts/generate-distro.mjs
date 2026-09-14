@@ -102,20 +102,36 @@ function copyTree(srcDir, destDir, urlPrefix) {
   return modules
 }
 
-function walkFiles(dir) {
+function walkFiles(dir, relBase = '') {
   const out = []
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
     if (entry.name.startsWith('.')) {
       continue
     }
+    const rel = relBase ? `${relBase}/${entry.name}` : entry.name
+    if (shouldSkipConfigRelPath(rel)) {
+      continue
+    }
     const full = join(dir, entry.name)
     if (entry.isDirectory()) {
-      out.push(...walkFiles(full))
+      out.push(...walkFiles(full, rel))
     } else if (entry.isFile()) {
       out.push(full)
     }
   }
   return out
+}
+
+/** User-specific or volatile files that must not ship in the distro. */
+function shouldSkipConfigRelPath(relPath) {
+  const rel = relPath.replace(/\\/g, '/')
+  if (rel.startsWith('jei/world/')) {
+    return true
+  }
+  if (rel.endsWith('.export-state.json')) {
+    return true
+  }
+  return false
 }
 
 function libraryPathFromName(name) {

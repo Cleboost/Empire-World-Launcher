@@ -65,9 +65,6 @@ function mavenCoordsFromName(name) {
 
 const serv = {}
 function walk(mdl) {
-  if (mdl.type === 'ForgeHosted') {
-    serv[mavenBase(mdl.id)] = join(libPath, 'net/neoforged/neoforge/21.1.250/neoforge-21.1.250.jar')
-  }
   for (const sm of mdl.subModules ?? []) {
     if (sm.type === 'Library' && (sm.classpath ?? true)) {
       const coords = mavenCoordsFromName(sm.name)
