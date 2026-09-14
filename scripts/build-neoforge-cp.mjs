@@ -1,6 +1,7 @@
 #!/usr/bin/env bun
 import { readFileSync, writeFileSync } from 'fs'
-import { join, dirname } from 'path'
+import { join } from 'path'
+import { getMojangOS, isLibraryCompatible } from 'helios-core/common'
 
 const outFile = process.argv[2]
 if (!outFile) {
@@ -20,14 +21,37 @@ function mavenBase(name) {
 }
 
 function libPathFromName(name) {
-  const [group, artifact, version] = name.split(':')
+  const parts = name.split(':')
+  const [group, artifact, version] = parts
+  if (parts.length > 3) {
+    const classifier = parts[3]
+    const ext = classifier.includes('.') ? classifier.split('.').pop() : 'jar'
+    const fileVersion = classifier.includes('.') ? version : `${version}-${classifier}`
+    return join(libPath, group.replace(/\./g, '/'), artifact, version, `${artifact}-${fileVersion}.${ext}`)
+  }
   return join(libPath, group.replace(/\./g, '/'), artifact, version, `${artifact}-${version}.jar`)
 }
 
 const mojang = {}
 for (const lib of vanilla.libraries) {
-  if (!lib.downloads?.artifact) continue
-  mojang[mavenBase(lib.name)] = join(libPath, lib.downloads.artifact.path)
+  if (!isLibraryCompatible(lib.rules, lib.natives)) continue
+  if (lib.downloads?.artifact) {
+    mojang[mavenBase(lib.name)] = join(libPath, lib.downloads.artifact.path)
+  }
+  if (lib.downloads?.classifiers && lib.natives) {
+    const nativeKey = lib.natives[getMojangOS()]?.replace('${arch}', process.arch.replace('x', ''))
+    const nativeArtifact = nativeKey ? lib.downloads.classifiers[nativeKey] : null
+    if (nativeArtifact?.path) {
+      mojang[`${mavenBase(lib.name)}:natives`] = join(libPath, nativeArtifact.path)
+    }
+  }
+}
+
+const mojangCp = {}
+for (const [k, v] of Object.entries(mojang)) {
+  if (!k.endsWith(':natives')) {
+    mojangCp[k] = v
+  }
 }
 
 const BOOTSTRAP_CP_SKIP = new Set([
@@ -57,4 +81,4 @@ function walk(mdl) {
 }
 walk(loader)
 
-writeFileSync(outFile, Object.values({ ...serv, ...mojang }).join('\n'))
+writeFileSync(outFile, Object.values({ ...serv, ...mojangCp }).join('\n'))
