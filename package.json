@@ -69,5 +69,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cleboost/Empire-World-Launcher.git"
+  },
+  "optionalDependencies": {
+    "dmg-license": "^1.0.11"
   }
 }
