@@ -186,6 +186,14 @@ function buildLoaderModules() {
   const versionManifestPath = join(DISTRO_DIR, 'loader', 'neoforge-21.1.250.json')
   mkdirSync(join(versionManifestPath, '..'), { recursive: true })
 
+  const neoforgeJvmOpens = [
+    '--add-opens=java.base/java.lang.invoke=ALL-UNNAMED',
+    '--add-opens=java.base/java.nio=ALL-UNNAMED',
+    '--add-opens=java.base/sun.nio.ch=ALL-UNNAMED',
+    '--add-opens=java.base/java.util.jar=ALL-UNNAMED',
+    '--add-opens=java.base/java.lang=ALL-UNNAMED'
+  ]
+
   const versionManifest = {
     id: SERVER.neoforgeVersion,
     mainClass: 'cpw.mods.bootstraplauncher.BootstrapLauncher',
@@ -200,7 +208,8 @@ function buildLoaderModules() {
         '-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,neoforge-',
         '-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar',
         '-Dfml.earlyprogress=false',
-        '-DlibraryDirectory=${library_directory}'
+        '-DlibraryDirectory=${library_directory}',
+        ...neoforgeJvmOpens
       ],
       game: [
         '--launchTarget', 'forgeclient',

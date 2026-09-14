@@ -12,6 +12,15 @@ const ConfigManager            = require('./configmanager')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
 
+/** Required when launching BootstrapLauncher directly (Prism uses ForgeWrapper instead). */
+const NEOFORGE_JVM_OPENS = [
+    '--add-opens=java.base/java.lang.invoke=ALL-UNNAMED',
+    '--add-opens=java.base/java.nio=ALL-UNNAMED',
+    '--add-opens=java.base/sun.nio.ch=ALL-UNNAMED',
+    '--add-opens=java.base/java.util.jar=ALL-UNNAMED',
+    '--add-opens=java.base/java.lang=ALL-UNNAMED'
+]
+
 
 /**
  * Only forge and fabric are top level mod loaders.
@@ -427,6 +436,10 @@ class ProcessBuilder {
                     .replaceAll('${version_name}', this.modManifest.id)
                 )
             }
+        }
+
+        if(this.modManifest.mainClass === 'cpw.mods.bootstraplauncher.BootstrapLauncher') {
+            args = args.concat(NEOFORGE_JVM_OPENS)
         }
 
         //args.push('-Dlog4j.configurationFile=D:\\WesterosCraft\\game\\common\\assets\\log_configs\\client-1.12.xml')
