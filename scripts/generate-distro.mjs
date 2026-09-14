@@ -130,10 +130,9 @@ function libraryPathFromName(name) {
   return join(PRISM_LIBS, group.replace(/\./g, '/'), artifact, version, `${artifact}-${fileVersion}.${ext}`)
 }
 
-/** Libraries kept for install/runtime but not on BootstrapLauncher legacy classpath. */
+/** Nashorn on legacy -cp breaks JPMS bootstrap (requires org.objectweb.asm as module). */
 const BOOT_CLASSPATH_SKIP = new Set([
-  'org.openjdk.nashorn:nashorn-core',
-  'net.fabricmc:sponge-mixin'
+  'org.openjdk.nashorn:nashorn-core'
 ])
 
 function buildLoaderModules() {

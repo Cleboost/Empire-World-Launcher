@@ -55,8 +55,7 @@ for (const [k, v] of Object.entries(mojang)) {
 }
 
 const BOOTSTRAP_CP_SKIP = new Set([
-  'org.openjdk.nashorn:nashorn-core',
-  'net.fabricmc:sponge-mixin'
+  'org.openjdk.nashorn:nashorn-core'
 ])
 
 function mavenCoordsFromName(name) {

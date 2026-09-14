@@ -75,7 +75,7 @@ timeout 240 "$JAVA" -cp "$CP" "${JVM_ARGS[@]}" "$MAIN" \
 EXIT=${PIPESTATUS[0]}
 set -e
 
-if rg -q "Module org.objectweb.asm not found|Unsupported class file major version|InaccessibleObjectException|factory already defined|Unable to detect the forge installer|Unable to detect the Minecraft jar" /tmp/ewl-bootstrap-test.log; then
+if rg -q "Module org.objectweb.asm not found|Unsupported class file major version|InaccessibleObjectException|factory already defined|Unable to detect the forge installer|Unable to detect the Minecraft jar|IContainerHandle" /tmp/ewl-bootstrap-test.log; then
   echo "FAIL: known bootstrap error still present"
   exit 1
 fi

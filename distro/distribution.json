@@ -207,7 +207,6 @@
               "id": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
               "name": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
               "type": "Library",
-              "classpath": false,
               "artifact": {
                 "size": 1494751,
                 "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
@@ -3136,8 +3135,8 @@
           "name": "jei/world/server/Minecraft Server (empire-world_camply_dev)/lookupHistory.json",
           "type": "File",
           "artifact": {
-            "size": 1681,
-            "MD5": "aeefe2b1d63c465e7f020eed863b0c6e",
+            "size": 1880,
+            "MD5": "b1021380b5213d5044b495712afbe308",
             "url": "https://cleboost.github.io/Empire-World-Launcher/config/jei/world/server/Minecraft Server (empire-world_camply_dev)/lookupHistory.json",
             "path": "jei/world/server/Minecraft Server (empire-world_camply_dev)/lookupHistory.json"
           }
