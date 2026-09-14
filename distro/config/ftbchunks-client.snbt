@@ -37,7 +37,7 @@
 			
 			# Constrain maximum map zoom-out based on number of explored regions and available memory
 			# Default: true
-			max_zoom_constraint: true
+			max_zoom_constraint: false
 			
 			# Periodically release region data for non-recently-used regions to save memory (units of seconds, 0 disables releasing
 			# Default: 300
@@ -138,44 +138,44 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:armadillo": true
-			"minecraft:wolf": true
-			"minecraft:camel": true
-			"minecraft:husk": true
-			"minecraft:chicken": true
-			"minecraft:zombie": true
-			"minecraft:squid": true
-			"minecraft:zombie_villager": true
-			"minecraft:phantom": true
-			"minecraft:rabbit": true
-			"minecraft:pillager": true
-			"minecraft:witch": true
-			"minecraft:fox": true
-			"minecraft:tadpole": true
-			"minecraft:sheep": true
-			"minecraft:salmon": false
-			"minecraft:spider": true
-			"minecraft:enderman": true
-			"minecraft:slime": true
-			"minecraft:tropical_fish": false
-			"minecraft:cod": false
-			"minecraft:bee": true
 			"minecraft:bat": true
-			"tacz_bandits:bandit": true
-			"minecraft:cat": true
-			"minecraft:bogged": true
-			"minecraft:dolphin": true
+			"minecraft:slime": true
 			"minecraft:goat": true
-			"minecraft:horse": true
+			"minecraft:dolphin": true
+			"minecraft:spider": true
+			"minecraft:sheep": true
+			"minecraft:tropical_fish": false
+			"minecraft:frog": true
+			"minecraft:cat": true
+			"minecraft:bee": true
+			"minecraft:donkey": true
+			"minecraft:phantom": true
+			"minecraft:tadpole": true
+			"minecraft:enderman": true
+			"minecraft:witch": true
+			"minecraft:armadillo": true
+			"minecraft:camel": true
+			"minecraft:creeper": true
+			"minecraft:fox": true
+			"tacz_bandits:bandit": true
+			"minecraft:pillager": true
+			"minecraft:bogged": true
+			"minecraft:zombie_villager": true
+			"minecraft:chicken": true
+			"minecraft:drowned": true
+			"minecraft:cod": false
+			"minecraft:cow": true
 			"minecraft:glow_squid": true
 			"minecraft:pig": true
+			"minecraft:husk": true
 			"minecraft:strider": true
-			"minecraft:creeper": true
-			"minecraft:frog": true
-			"minecraft:donkey": true
+			"minecraft:salmon": false
+			"minecraft:rabbit": true
+			"minecraft:squid": true
 			"minecraft:skeleton": true
-			"minecraft:drowned": true
-			"minecraft:cow": true
+			"minecraft:horse": true
+			"minecraft:wolf": true
+			"minecraft:zombie": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
@@ -186,8 +186,8 @@
 		# Info hidden under minimap
 		# Default: ["ftbchunks:fps", "ftbchunks:game_time", "ftbchunks:real_time", "ftbchunks:debug"]
 		info_hidden: [
-			"ftbchunks:fps"
 			"ftbchunks:game_time"
+			"ftbchunks:biome"
 			"ftbchunks:real_time"
 			"ftbchunks:debug"
 		]

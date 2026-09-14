@@ -716,10 +716,11 @@ class ProcessBuilder {
         // Resolve the server declared libraries.
         const servLibs = this._resolveServerLibraries(mods)
 
-        // Merge libraries, server libs with the same
-        // maven identifier will override the mojang ones.
-        // Ex. 1.7.10 forge overrides mojang's guava with newer version.
-        const finalLibs = {...mojangLibs, ...servLibs}
+        // Merge libraries. For 1.17+ NeoForge, Mojang's versions must win on conflicts
+        // (Prism mavenFiles include stale installer deps that must not override runtime libs).
+        const finalLibs = mcVersionAtLeast('1.17', this.server.rawServer.minecraftVersion)
+            ? { ...servLibs, ...mojangLibs }
+            : { ...mojangLibs, ...servLibs }
         cpArgs = cpArgs.concat(Object.values(finalLibs))
 
         this._processClassPathList(cpArgs)

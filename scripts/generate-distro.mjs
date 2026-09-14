@@ -132,17 +132,15 @@ function libraryPathFromName(name) {
 
 function buildLoaderModules() {
   const neoforgeMeta = JSON.parse(readFileSync(PRISM_META, 'utf8'))
-  const allLibraries = [
-    ...(neoforgeMeta.libraries ?? []),
-    ...(neoforgeMeta.mavenFiles ?? [])
-  ]
-  const universal = allLibraries.find(l => l.name === 'net.neoforged:neoforge:21.1.250:universal')
+  const runtimeLibraries = neoforgeMeta.libraries ?? []
+  const mavenFiles = neoforgeMeta.mavenFiles ?? []
+  const universal = [...runtimeLibraries, ...mavenFiles].find(l => l.name === `net.neoforged:neoforge:${SERVER.neoforgeVersion}:universal`)
   if (!universal) {
     throw new Error('NeoForge universal library not found in Prism meta.')
   }
 
   const libraryModules = []
-  for (const lib of allLibraries) {
+  for (const lib of runtimeLibraries) {
     if (lib.name.startsWith('io.github.zekerzhayard:ForgeWrapper')) {
       continue
     }
